@@ -1,0 +1,263 @@
+<!-- frontend/roadmap.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Cache-Control"
+      content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>Degree Roadmap</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link href="./dist/output.css" rel="stylesheet" />
+    <style>
+      /* Rotate only the text inside the cell */
+      .rotate {
+        transform: rotate(180deg); /* Rotate text by 90 degrees */
+        white-space: nowrap; /* Prevent line breaks */
+        text-align: center;
+        vertical-align: middle;
+        font-weight: bold;
+        writing-mode: vertical-lr;
+      }
+
+      /* PDF-Specific Rotation */
+      .rotate-pdf {
+        white-space: nowrap;
+        writing-mode: vertical-lr;
+        transform: rotate(45deg);
+        text-align: center;
+        vertical-align: middle;
+        font-weight: bold;
+      }
+
+      .dropdown:hover .absolute {
+        display: block;
+      }
+
+      /* Reduce font size for table elements */
+      table.data-table {
+        font-size: 0.8rem;
+      }
+      table.data-table th,
+      table.data-table td {
+        padding: 0.2rem;
+      }
+
+      /* Print-specific styles to optimize PDF rendering */
+      @media print {
+        .p-4,
+        .px-6,
+        .py-4,
+        .m-4,
+        .space-x-4 {
+          padding: 0 !important;
+          margin: 0 !important;
+        }
+        nav,
+        #exportExcel,
+        #exportPDF {
+          display: none !important;
+        }
+        .data-table {
+          width: 100% !important;
+          table-layout: fixed;
+          border-collapse: collapse;
+        }
+        h1,
+        h2,
+        th,
+        td {
+          font-size: 14px !important;
+          line-height: 1.2 !important;
+        }
+        .data-table tr {
+          page-break-inside: avoid !important;
+          page-break-after: auto !important;
+        }
+        /* Specific page breaks */
+        .page-break {
+          page-break-after: always !important;
+          page-break-inside: avoid !important;
+        }
+        .page-break-last {
+          page-break-after: avoid !important; /* Prevent a break after the last element */
+        }
+        .hidden-print {
+          display: none !important;
+        }
+      }
+    </style>
+  </head>
+  <body class="font-sans bg-gray-100">
+    <!-- Navbar -->
+    <nav class="flex items-center justify-between bg-gray-800 p-4 text-white">
+      <div class="flex items-center">
+        <!-- Back Button with Arrow Icon -->
+        <a
+          href="index.html"
+          class="text-white text-lg font-bold mr-4 flex items-center">
+          <i class="fas fa-arrow-left mr-2"></i> Back to Road Maps
+        </a>
+        <img src="./assets/utrgv-logo.png" alt="Logo" class="h-12 w-auto" />
+        <div class="ml-4">
+          <!-- Dynamic content will be inserted here -->
+          <h1 class="text-xl font-bold" id="degreeName">Loading Degree...</h1>
+          <h2 class="text-lg font-semibold" id="departmentTitle">
+            Loading Course...
+          </h2>
+          <span class="text-sm text-gray-400" id="academicYear">2024 -
+            2025</span>
+        </div>
+      </div>
+      <div class="flex items-center space-x-4">
+        <!-- <button
+          id="exportExcel"
+          class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">
+          Export Excel
+        </button> -->
+        <button
+          id="exportPDF"
+          class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-full flex items-center space-x-2">
+          <i class="fas fa-file-pdf"></i>
+          <!-- Font Awesome PDF icon -->
+          <span>Export PDF</span>
+        </button>
+      </div>
+    </nav>
+
+    <div class="bg-gray-300 py-4 text-center mb-6">
+      <!-- Additional content or headers can go here -->
+    </div>
+
+    <!-- Table -->
+    <div class="px-6">
+      <table
+        class="w-full bg-white border-collapse data-table border-transparent"
+        style="border: 1px solid #ddd">
+        <thead>
+          <tr class="bg-gray-200">
+            <th colspan="10" class="border-transparent">
+              <!-- Ensure this spans all columns -->
+              <h2
+                class="text-lg text-center font-semibold"
+                id="tableDepartmentTitle">
+                Loading Course...
+              </h2>
+            </th>
+          </tr>
+          <tr class="bg-custom-orange">
+            <th colspan="10" class="text-white border-transparent">
+              <h6
+                class="text-center font-semibold"
+                style="font-size: 10px; margin: 0px">
+                <!-- Above Year One Content -->
+                <p id="aboveYearOne"></p>
+              </h6>
+            </th>
+          </tr>
+
+          <tr class="bg-gray-600">
+            <th
+              class="border p-1 font-normal text-white border-transparent"
+              style="font-size: 10px"></th>
+            <th
+              class="border p-1 font-normal text-white border-transparent"
+              style="font-size: 10px"></th>
+            <th
+              class="border p-1 font-normal important text-white border-transparent"
+              data-key="important"
+              style="font-size: 10px">
+              !
+            </th>
+            <th
+              class="border p-1 font-normal hours text-white border-transparent"
+              data-key="hours"
+              style="font-size: 10px">
+              H
+            </th>
+            <th
+              class="border p-2 font-normal course-code text-white border-transparent"
+              data-key="course_number"
+              style="font-size: 10px">
+              Course #
+            </th>
+            <th
+              class="border p-2 font-normal course-title text-white border-transparent"
+              data-key="title"
+              style="font-size: 10px">
+              Course Title
+            </th>
+            <th
+              class="border p-1 font-normal min-grade text-white border-transparent"
+              data-key="min_grade"
+              style="font-size: 10px">
+              Min. Grade
+            </th>
+            <th
+              class="border p-1 font-normal gec text-white border-transparent"
+              data-key="gec"
+              style="font-size: 10px">
+              GEC
+            </th>
+            <th
+              class="border p-4 font-normal prereq text-white border-transparent"
+              data-key="prerequisite"
+              style="font-size: 10px">
+              Prerequisite
+            </th>
+            <th
+              class="border p-6 font-normal add-notes text-white border-transparent"
+              data-key="additional_notes"
+              style="font-size: 10px">
+              Additional Notes
+            </th>
+          </tr>
+        </thead>
+        <tbody id="courseTableBody">
+          <!-- Dynamic content will be inserted here -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Hidden div to store the collection name -->
+    <div id="collectionName" style="display: none">
+      bachelor_social_work_courses
+    </div>
+
+    <!-- Scripts -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+    <script
+      src="https://unpkg.com/@themesberg/flowbite@latest/dist/flowbite.bundle.js"></script>
+    <script src="./scripts/fetchData.js" type="module"></script>
+    <script src="./scripts/utilityFunctions.js" type="module"></script>
+    <script src="./scripts/renderFunctions.js" type="module"></script>
+    <script src="./scripts/eventHandlers.js" type="module"></script>
+    <script type="module">
+      import { fetchData } from "./scripts/fetchData.js";
+
+      // Fetch data and update the "aboveYearOne" content dynamically
+      fetchData()
+        .then((data) => {
+          if (data && data[0].aboveYearOne) {
+            // Ensure data and aboveYearOne exist
+            document.getElementById("aboveYearOne").innerText =
+              data[0].aboveYearOne;
+          }
+        })
+        .catch((error) => {
+          console.error("Error in fetching or processing data:", error);
+        });
+    </script>
+  </body>
+</html>

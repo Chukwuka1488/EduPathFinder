@@ -1,0 +1,32 @@
+[
+  {
+    "course": "Accountancy (BBA)",
+    "degree": "Bachelor of Business Administration in Accounting",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-accountancy-courses"
+  },
+  {
+    "course": "Accountancy (MACC)",
+    "degree": "Master of Accountancy",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "master-accountancy-courses"
+  },
+  {
+    "course": "Addiction Studies (BS)",
+    "degree": "Bachelor of Science in Addiction Studies",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-addiction-studies-courses"
+  },
+  {
+    "course": "Agricultural, Environmental, and Sustainability Sciences (MS)",
+    "degree": "Master of Science in Agricultural, Environmental, and Sustainability Sciences",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-agricultural-environmental-sustainability-sciences-courses"
+  },
+  {
+    "course": "Social Work (BSW)",
+    "degree": "Bachelor of Social Work in Social Work",
+    "college": "Bachelor's Degree - School of Social Work",
+    "courseType": "bachelor-social-work-courses"
+  }
+]

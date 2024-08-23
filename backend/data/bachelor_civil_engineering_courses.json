@@ -1,0 +1,508 @@
+[
+  {
+    "department": "Civil Engineering",
+    "program": "Civil Engineering",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301."
+              },
+              {
+                "important": "!",
+                "hours": 4,
+                "courseNumber": "MATH 2413",
+                "title": "Calculus I (Core)",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "MATH 2412 with a grade of C or better; or passing the Pre-Calculus exemption test administered by the Department of Mathematics.",
+                "notes": "1 hr for Support Courses."
+              },
+              {
+                "important": "",
+                "hours": 1,
+                "courseNumber": "CIVE 1101",
+                "title": "Introduction to Civil Engineering*",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "*This course and CIVE 2220 should be your first CIVE courses."
+              },
+              {
+                "important": "",
+                "hours": 2,
+                "courseNumber": "CIVE 2220",
+                "title": "Civil Engineering Measurements**",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "**This course and CIVE 1101 should be your first CIVE courses."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CHEM 1309",
+                "title": "Chemistry for Engineers",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 2412, or MATH 2413 with a grade of 'C' or higher.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 1,
+                "courseNumber": "CHEM 1109",
+                "title": "Chemistry for Engineers Lab",
+                "minGrade": "C",
+                "gec": "090",
+                "prerequisite": "Credit/registration in CHEM 1309.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "important": "",
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+              },
+              {
+                "important": "!",
+                "hours": 4,
+                "courseNumber": "MATH 2414",
+                "title": "Calculus II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "PHYS 2425",
+                "title": "Physics for Scientists and Engineers I (Core)",
+                "minGrade": "C",
+                "gec": "030",
+                "prerequisite": "MATH 2413.",
+                "notes": "1 hour of lab for Core 090. See General Education Core for more details."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MANE 3332",
+                "title": "Engineering Statistics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2413 and credit for or enrollment in MATH 2414.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "CIVE 3440",
+                "title": "Civil Engineering Materials",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 1101 and CHEM 1309/1109.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 4,
+                "courseNumber": "MATH 2415",
+                "title": "Calculus III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2414 with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "MECE 2301",
+                "title": "Statics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "A grade of 'C' or better in CIVE 1101 and PHYS 2425; a grade of 'C' or better or concurrent enrollment in MATH 2414.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "CIVE 2350",
+                "title": "Numerical Methods for Civil Engineers",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "A grade of 'C' or better or concurrent enrollment in MATH 2414.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "PHYS 2426",
+                "title": "Physics for Scientists and Engineers II (Core)",
+                "minGrade": "C",
+                "gec": "030",
+                "prerequisite": "PHYS 2425 and MATH 2414.",
+                "notes": "1 hour of lab for Core 090. See General Education Core for more details."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MECE 2302",
+                "title": "Dynamics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "A grade of 'C' or better in MECE 2301 and MATH 2414.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "CIVE 3321",
+                "title": "Mechanics of Materials",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in MECE 2301 and MATH 2414.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MATH 3341",
+                "title": "Differential Equations",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2414 with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "CIVE 3315",
+                "title": "Fluid Mechanics and Hydraulics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in MECE 2301 and MATH 2415.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 1,
+                "courseNumber": "CIVE 3115",
+                "title": "Fluid Mechanics and Hydraulics Lab",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "CIVE 3315. May be taken concurrently.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MANE 3337",
+                "title": "Engineering Economics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Credit/registration in MANE 3332.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "CIVE 3324",
+                "title": "Structural Analysis I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3321 and CIVE 3440.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 3331",
+                "title": "Environmental Engineering",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3315, CIVE 3115, and CHEM 1309/1109.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 4,
+                "courseNumber": "CIVE 3475",
+                "title": "Geotechnical Engineering and Applications",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3321.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "CIVE 3341",
+                "title": "Structural Steel Design",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3324.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 3345",
+                "title": "Transportation Engineering",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 2220 and MECE 2302.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4335",
+                "title": "Water Resources Engineering",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in [CIVE 3315 and CIVE 3115], MATH 3341, and CIVE 2350 or MECE 2350.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4346",
+                "title": "Reinforced Concrete Design",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3324.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences (Core)",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4349",
+                "title": "Construction Planning & Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in MANE 3337 and PHYS 2426.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 43XX or CIVE 33XX",
+                "title": "Prescribed Elective I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Choose any two of these 4000-level courses, or one 4000-level and one of the 3000-level courses: CIVE 4300, 4315, 4333, 4340, 4348, 4350, 4351, 4352, 4359, 3300, 3100 (repeat for 3 credits)."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4347",
+                "title": "Foundation Design",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in CIVE 3475.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4391",
+                "title": "CE Senior Fundamentals",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Senior Standing, a minimum GPA of 2.4 and a grade of C or better in CIVE 3324, CIVE 3331, CIVE 3345, CIVE 3475 and CIVE 4335.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "PHIL 2326",
+                "title": "Ethics, Technology, and Society (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 43XX or CIVE 33XX",
+                "title": "Prescribed Elective II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Choose any two of these 4000-level courses, or one 4000-level and one of the 3000-level courses: CIVE 4300, 4315, 4333, 4340, 4348, 4350, 4351, 4352, 4359, 3300, 3100 (repeat for 3 credits)."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "CIVE 4392",
+                "title": "CE Senior Project",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "A minimum GPA of 2.4, Senior Standing, and maximum 15 hrs enrolled in the semester.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Basic Science Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Choose one of the following: BIOL 1406; ENVR 1401; GEOL 1401; GEOL 1403; GEOL 1404; GEOL 4411."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative & Experiential Learning (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "Complete an additional 3 hours from this section of the Core Curriculum except PHIL 2326."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

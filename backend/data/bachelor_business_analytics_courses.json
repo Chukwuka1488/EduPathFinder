@@ -1,0 +1,478 @@
+[
+  {
+    "department": "Business Analytics",
+    "program": "Business Analytics",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MATH 1324",
+                "title": "Mathematics for Business and Social Sciences",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "This is the required Mathematics option for this degree. This course is the prerequisite for ACCT 2301, QUMT 2341, and QUMT 2398."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 2301*",
+                "title": "Principles of Macroeconomics",
+                "minGrade": "C",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. This is the required Social and Behavioral Sciences (Core) Option in this degree. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "MGMT 1301*",
+                "title": "Introduction to Business",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "",
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only if required, based on ACT/SAT and high school rank."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ACCT 2301*",
+                "title": "Introduction To Financial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "#REF!",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 2302*",
+                "title": "#REF!",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "#REF!",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "INFS 2300*",
+                "title": "#REF!",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. Beginning Fall 2019, BCIS 1305 with a 'C' or better will transfer as INFS 2300. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ACCT 2302*",
+                "title": "Introduction To Managerial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "#REF! ACCT 2301 with a 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "QUMT 2341*",
+                "title": "Business Statistics I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 1324, or MATH 1325",
+                "notes": "Required for admission into RCVCoBE. BUSI 2305 with a 'C' or better will transfer as QUMT 2341. We recommend you take this course as soon as you meet the prerequisite."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts Option (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "QUMT 2398",
+                "title": "Decision Analytics",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1324, or MATH 1325.",
+                "notes": "This is the required Integrative/Experiential Learning option in this degree. For issues with registration email business.advising@utrgv.edu"
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MGMT 3361",
+                "title": "Principles of Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "INFS 3325",
+                "title": "Intro to Python Programming for Business Analytics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "QUMT 3341",
+                "title": "Business Statistics II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "QUMT 2341 and Sophomore Standing.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "INFS 3335",
+                "title": "Database Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "BLAW 3337",
+                "title": "Business Law I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "FINA 3380",
+                "title": "Introduction to Finance",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2301, ACCT 2302, and ECON 2301.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3390 or ACCT 3326",
+                "title": "Mgmt. Information Systems Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3375",
+                "title": "Data Visualization",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "QUMT 4343",
+                "title": "Prescriptive Analytics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3300 or INFS 3333 or INFS 4308 or INFS 4360 or INFS 4397 or ACCT 4336 or ECON 3341 or ECON 3342 or FINA 4360 or GSCM 4310 or HOST 4370 or MARK 4355 or MGMT 4363",
+                "title": "Business Analytics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3385",
+                "title": "Data Wrangling and Warehousing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "INFS 3335",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MARK 3300",
+                "title": "Principles of Marketing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 3353 or FINA 4381 or INFS 3380 or INTB 3330 or INTB 3350 or MARK 3310 or MGMT 4311",
+                "title": "International Business Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 4330",
+                "title": "Data Mining and Machine Learning",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "INFS 3325 or INFS 3310",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3300 or INFS 3333 or INFS 4308 or INFS 4360 or INFS 4397 or ACCT 4336 or ECON 3341 or ECON 3342 or FINA 4360 or GSCM 4310 or HOST 4370 or MARK 4355 or MGMT 4363",
+                "title": "Business Analytics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "MGMT 4304 or MARK 3330",
+                "title": "Ethics Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "QUMT 4370",
+                "title": "Big Data Analytic Platforms and Applications",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "(INFS 3325 or INFS 3310) and INFS 3335",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "INFS 3300 or INFS 3333 or INFS 4308 or INFS 4360 or INFS 4397 or ACCT 4336 or ECON 3341 or ECON 3342 or FINA 4360 or GSCM 4310 or HOST 4370 or MARK 4355 or MGMT 4363",
+                "title": "Business Analytics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "MGMT 3335 or MARK 3320 or COMM 3313",
+                "title": "Business Communications Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "MGMT 4389",
+                "title": "Strategic Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MGMT 3361, MARK 3300, FINA 3380, AND one of the following courses: ACCT 3350 or INTB 3350 or ECON 3353 or FINA 4381 or INFS 3380 or INTB 3330 or MGMT 4311 or MARK 3310. Department approval is required.",
+                "notes": "Capstone course. This course MUST be taken in the last semester, when graduating and registered in all remaining courses."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

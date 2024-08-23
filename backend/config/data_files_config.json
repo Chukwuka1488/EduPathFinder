@@ -1,0 +1,27 @@
+[
+  {
+    "collection_name": "colleges_degrees",
+    "json_file_path": "data/colleges_degrees.json",
+    "bulk_insert": true
+  },
+  {
+    "collection_name": "bachelor_social_work_courses",
+    "json_file_path": "data/bachelor_social_work_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_civil_engineering_courses",
+    "json_file_path": "data/bachelor_civil_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_business_analytics_courses",
+    "json_file_path": "data/bachelor_business_analytics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_accountancy_courses",
+    "json_file_path": "data/bachelor_accountancy_courses.json",
+    "bulk_insert": false
+  }
+]
