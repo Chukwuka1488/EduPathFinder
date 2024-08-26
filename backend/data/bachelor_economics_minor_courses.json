@@ -1,0 +1,478 @@
+
+[{
+    "department": "Economics (Minor)",
+    "program": "Economics (Minor)",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics (Core)",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "",
+                "notes": "Recommend: MATH 1324. This course is the prerequisite for ACCT 2301, QUMT 2341, and QUMT 2398."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 2301*",
+                "title": "Principles of Macroeconomics",
+                "minGrade": "C",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. This is the required Social & Behavioral Sciences (Core) Option in this degree. We recommend you take this course as soon as you meet the prerequisite."
+              },
+              {
+                "important": "",
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only if required, based on ACT/SAT and high school rank."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 2302*",
+                "title": "Principles of Microeconomics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 with a grade of 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "COMM 1311 or COMM 1315*",
+                "title": "Economics Foundation Option (Communication)",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ACCT 2301 or SOCI 1323 or PSYC 2301 or ANTH 2351, or any advanced POLS 3000-4999",
+                "title": "Economics Foundation",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "If taking ACCT 2301, a grade of 'C' or better in MATH 1314, MATH 1414, MATH 1324, or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take one of these options as soon as you can."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "POLS 2350*",
+                "title": "Political Economy",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "POLS 2305 (or POLS 2385) or POLS 2301 or POLS 2313.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "QUMT 2341* or MATH 1342",
+                "title": "Economics Foundation Option (Statistics)",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "If taking QUMT 2341, a grade of 'C' or better in MATH 1314, MATH 1414, MATH 1324, or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. We recommend QUMT 2341 as it is the prerequisite for ECON 3341. BUSI 2305 with a 'C' or better will transfer as QUMT 2341."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ACCT 2301 or SOCI 1323 or PSYC 2301 or ANTH 2351, or any advanced POLS 3000-4999",
+                "title": "Economics Foundation Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "If taking ACCT 2301, a grade of 'C' or better in MATH 1314, MATH 1414, MATH 1324, or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts Option (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "QUMT 2398",
+                "title": "Decision Analytics",
+                "minGrade": "C",
+                "gec": "090",
+                "prerequisite": "Minimum grade of C in MATH 1314, MATH 1414, MATH 1342, or MATH 1324.",
+                "notes": "This is the required Integrative/Experiential Learning option in this degree. For issues with registration email business.advising@utrgv.edu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "!",
+                "hours": 3,
+                "courseNumber": "ECON 3341",
+                "title": "Econometrics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301, ECON 2302, and (QUMT 2341 or MATH 1342).",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3351",
+                "title": "Macroeconomic Theory",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 and ECON 2302.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Free Elective",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Minor Course",
+                "title": "Minor Course",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Minor Course",
+                "title": "Minor Course",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3352",
+                "title": "Microeconomic Theory",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 and ECON 2302.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3358",
+                "title": "Labor Economics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 and ECON 2302.",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3343 or ECON 3381",
+                "title": "Advanced Economics Core Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3342 or ECON 4340",
+                "title": "Advanced Economics Core Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Minor Course",
+                "title": "Minor Course",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3353 or FINA 4300",
+                "title": "Advanced Economics Core Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3000-4999",
+                "title": "Advanced Economics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "3000-4999",
+                "title": "(Advanced) Minor Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Free Elective",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "Minor Course",
+                "title": "Minor Course",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3000-4999",
+                "title": "Advanced Economics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "ECON 3000-4999",
+                "title": "Advanced Economics Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "3000-4999",
+                "title": "Free Elective (Advanced)",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "3000-4999",
+                "title": "(Advanced) Minor Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              },
+              {
+                "important": "",
+                "hours": 3,
+                "courseNumber": "3000-4999",
+                "title": "Free Elective (Advanced)",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisites may apply."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  ]

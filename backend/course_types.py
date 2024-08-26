@@ -6,6 +6,7 @@ COURSE_TYPES = [
     {"level": "bachelor", "course_type": "business_analytics"},
     {"level": "bachelor", "course_type": "civil_engineering"},
     {"level": "bachelor", "course_type": "accountancy"},
+    {"level": "bachelor", "course_type": "economics"},
     
     
     # Add more courses as needed

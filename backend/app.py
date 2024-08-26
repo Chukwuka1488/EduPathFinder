@@ -12,13 +12,20 @@ from resources.college_degree_resource import CollegeDegrees  # Import CollegeDe
 from course_types import COURSE_TYPES  # Import COURSE_TYPES from course_types.py
 from swagger_config import generate_swagger_spec  # Import the Swagger config generator
 import os
-
+import time
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG,  # Set the logging level to DEBUG
                     format='%(asctime)s %(levelname)s: %(message)s',  # Set log format
                     datefmt='%Y-%m-%d %H:%M:%S')  # Set date and time format
 
+def print_available_routes(app):
+    """Print all available routes in the application."""
+    print("\nAvailable Routes:")
+    for rule in app.url_map.iter_rules():
+        if "GET" in rule.methods:
+            print(f"{rule} -> {rule.endpoint}")
+            time.sleep(5)
 
 def create_app():
     # Initialize Flask application

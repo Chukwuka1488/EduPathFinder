@@ -23,5 +23,25 @@
     "collection_name": "bachelor_accountancy_courses",
     "json_file_path": "data/bachelor_accountancy_courses.json",
     "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_courses",
+    "json_file_path": "data/bachelor_economics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_finance_double_major_courses",
+    "json_file_path": "data/bachelor_economics_finance_double_major_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_minor_courses",
+    "json_file_path": "data/bachelor_economics_minor_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_entrepreneurship_innovation_courses",
+    "json_file_path": "data/bachelor_entrepreneurship_innovation_courses.json",
+    "bulk_insert": false
   }
 ]
