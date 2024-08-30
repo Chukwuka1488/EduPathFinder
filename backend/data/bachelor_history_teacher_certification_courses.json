@@ -1,0 +1,428 @@
+[
+  {
+    "department": "History - Teacher Certification",
+    "program": "History - Teacher Certification",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328"
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 2321",
+                "title": "World History I",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 3300",
+                "title": "Historiography and Methods",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 2322",
+                "title": "World History II",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - United States History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDFR 2301",
+                "title": "Intercultural Context of Schooling",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Area of Certification. Required for admission to teacher preparation program."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3301",
+                "title": "The Teaching Profession and Student Learning in Contemporary Schools",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "May be taken during summer session."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HIST 3333",
+                "title": "Texas History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - United States History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - European History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - European History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 4305",
+                "title": "Disciplinary Literacy in the Classroom",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3302",
+                "title": "Knowledge of Student Development and Learning",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": "May be taken during summer session."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - Latin American History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - World History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Prescribed Elective - Asian/Middle Eastern History",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "See Degree Plan for course option."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3306",
+                "title": "Evidence-Based Teaching in Positive Learning Environments",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program; EDUC 3302.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3304",
+                "title": "Instructional Planning and Assessment in Culturally Sustaining Classrooms",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program; EDUC 3302.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HIST 4397",
+                "title": "History Capstone for History Educators",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "HIST 3300.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Additional History Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "General History Elective. See Degree Plan for course options. Note: HIST 3301 does not fulfill the HIST elective requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Additional History Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "General History Elective. See Degree Plan for course options. Note: HIST 3301 does not fulfill the HIST elective requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 33XX - 43XX",
+                "title": "Additional History Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Prerequisite of HIST 3300 or 3308 may apply",
+                "notes": "General History Elective. See Degree Plan for course options. Note: HIST 3301 does not fulfill the HIST elective requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 4306",
+                "title": "Implementing and Assessing Effective Secondary Content Pedagogy",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "EDUC 3304 and Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 6,
+                "courseNumber": "EDUC 4611",
+                "title": "Student Teaching Secondary or All-Level",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program and Admission to CEP Clinical Teaching.",
+                "notes": "All Education courses must be completed prior to admission to Clinical Teaching. Passing identified TExES certification exams is required before EDUC 4611. Must be taken last semester. Only offered Fall or Spring."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

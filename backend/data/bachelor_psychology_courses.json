@@ -1,0 +1,429 @@
+[
+    {
+      "department": "Psychology",
+      "program": "Psychology",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "Math 1314 or higher"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 2301",
+                  "title": "General Psychology",
+                  "minGrade": "C",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1 (See Notes)",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. (Select from: BIOL 1406; BIOL 1407; BIOL 2401; BIOL 2402; CHEM 1311 and CHEM 1111; CHEM 1312 and CHEM 1112)"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1 (See Notes)",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. (Select from: BIOL 1406; BIOL 1407; BIOL 2401; BIOL 2402; CHEM 1311 and CHEM 1111; CHEM 1312 and CHEM 1112)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 2302 or MATH 1342",
+                  "title": "Basic Statistics for Psychology (Foundations of Research)",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301 with a minimum grade of C and [MATH 1314 or higher with minimum grade of C].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Foundation of Psychology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301 with a minimum grade of C",
+                  "notes": "See Degree Plan for course options. Minimum 6 credits must be advanced."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 3325",
+                  "title": "Research Methods in Psychology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in PSYC 2301 and [PSYC 2302 or MATH 1342].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Foundation of Psychology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301 with a minimum grade of C",
+                  "notes": "See Degree Plan for course options"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 3343",
+                  "title": "Tests and Measurements in Psychology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in PSYC 2301 and [PSYC 2302 or MATH 1342].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Foundation of Psychology - Advanced Hours",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301 with a minimum grade of C",
+                  "notes": "See Degree Plan for course options"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Foundation of Psychology - Advanced Hours",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301 with a minimum grade of C",
+                  "notes": "See Degree Plan for course options"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. Choose from ANTH 1324, ANTH 2302, ANTH 2351, ECON 1301, ECON 2301, ENGL 2315, HDOS 2301, PHIL 1362, SOCI 1301"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced hours will vary to meet the minimum 42 advanced hours."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 33XX-43XX",
+                  "title": "Psychology Prescribed Elective",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "PSYC 2301; additional or other prerequisites may exist depending on the course selected.",
+                  "notes": "See Degree Plan for course options. Choose at least one course from each category (Cognitive/Biological Foundations, Developmental/Social/Cultural Foundations, Theoretical/Methodological Foundations, or Applications)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced hours will vary to meet the minimum 42 advanced hours."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced hours will vary to meet the minimum 42 advanced hours."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced hours will vary to meet the minimum 42 advanced hours."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

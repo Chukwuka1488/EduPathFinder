@@ -1,0 +1,563 @@
+[
+  {
+    "department": "Spanish Translation and Interpreting",
+    "program": "Spanish Translation and Interpreting",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "1 of the following depending on track:",
+                "title": "",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 1: SPAN 2313",
+                "title": "Spanish for Heritage Language Learners II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 1315 or placement by exam or departmental approval.",
+                "notes": "Must-take prescribed elective for students placed in SPAN 2313 by department exam."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 2: Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 3: Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics (Core)",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 0,
+                  "courseNumber": "UNIV 1301",,
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 6,
+                "courseNumber": "2 of the following according to track:",
+                "title": "",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 1: SPAN 2315",
+                "title": "Spanish for Heritage Language Learners III",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2313 or placement by exam or departmental approval.",
+                "notes": "Must-take prescribed elective for students placed in SPAN 2313 by department exam."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 1: Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 2: SPAN 2315",
+                "title": "Spanish for Heritage Language Learners III",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2313 or placement by exam or departmental approval.",
+                "notes": "Must-take prescribed elective for students placed in SPAN 2315 by department exam."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 2: Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 3: SPAN 3313",
+                "title": "Advanced Grammar & Composition for Heritage Language Learners I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2315 or placement by exam or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 3: Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "1 of the following depending on track:",
+                "title": "",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 1: SPAN 3313",
+                "title": "Advanced Grammar & Composition for Heritage Language Learners I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2315 or placement by exam or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 2: SPAN 3313",
+                "title": "Advanced Grammar & Composition for Heritage Language Learners I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2315 or placement by exam or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 3: 23XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 3341",
+                "title": "Introduction to Spanish/English Translation",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 2313 or SPAN 2315 or SPAN 3313.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3361 or ENGL 3362 or ENGL 4361 or ENGL 4362",
+                "title": "Introduction to Descriptive Linguistics or English Grammar or Modern English Syntax or Contrastive Grammar",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "1 of the following depending on track:",
+                "title": "",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 1: Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 2: 23XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRACK 3: 23XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3315",
+                "title": "Advanced Grammar & Composition for Heritage Language Learners II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3313",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 3342",
+                "title": "Advanced Spanish to English Translation",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3341 or TRSP 3341 or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 3343",
+                "title": "Advanced English to Spanish Translation",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3341 or TRSP 3341 or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3361 or ENGL 3362 or ENGL 4361 or ENGL 4362",
+                "title": "Introduction to Descriptive Linguistics or English Grammar or Modern English Syntax or Contrastive Grammar",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English",
+                "notes": "Choose one not previously taken."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 4347",
+                "title": "Translation Technologies",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3341 or TRSP 3341 or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3342 or ENGL 3343 or TRSP 3346",
+                "title": "Technical Communication or Business Communication or Business Spanish",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "For ENGL 3342 or 3343: 6 hours of English. For TRSP/SPAN 3346: SPAN 2313 or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3350 or SPAN 4314 or SPAN 4310",
+                "title": "Introduction to Hispanic Linguistics or Structure of the Spanish Language or Spanish Applied Linguistics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "23XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "23XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 4342",
+                "title": "Interpreting",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3341 or TRSP 3341 or departmental approval.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3350 or SPAN 4314 or SPAN 4310",
+                "title": "Introduction to Hispanic Linguistics or Structure of the Spanish Language or Spanish Applied Linguistics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3342 or ENGL 3343 or TRSP 3346",
+                "title": "Technical Communication or Business Communication or Business Spanish",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "For ENGL 3342 or 3343: 6 hours of English. For TRSP/SPAN 3346: SPAN 2313 or departmental approval.",
+                "notes": "Choose one not previously taken."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "TRSP 4349",
+                "title": "Capstone Project / Minithesis",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Senior standing in BA Translation Major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

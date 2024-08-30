@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Public Heritage and Community Engagement - Cultural and Natural Landscapes Concentration",
+      "program": "Public Heritage and Community Engagement - Cultural and Natural Landscapes Concentration",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options. Suggestion: MATH 1314/1414, 2412, or 2413/2487 (prereqs for major course options)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HIST/MASC 2327",
+                  "title": "Mexican American History I",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: MASC 2327 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Suggestion: ENGL 2351 or MASC 2301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHCE 1301",
+                  "title": "Introduction to Public Heritage",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Offered Fall Semester."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301/1101/1001",
+                  "title": "Learning Framework/Academic and Career Success/Living and Working by Design",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HIST/MASC 2328",
+                  "title": "Mexican American History II",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: MASC 2328 or HIST 2328."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "May apply pending course selection.",
+                  "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social & Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Suggestion: ECON 2301 (prereq for major course option)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "May apply pending course selection.",
+                  "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "COMM 1315",
+                  "title": "Public Speaking",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "LDST 2335",
+                  "title": "Leadership for Community Engagement",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts Core",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENVR 2302",
+                  "title": "Environment and Society",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Upper division ARTS courses have prerequisites, COMM 3307 has a prerequisite of COMM 3303, Upper division ENTR, HOST, MGMT and MARK courses typically require admission to VCoBE. Students will need to seek departmental approval to enroll. SOCW 3375 has a prerequisite of MATH 1314, STAT 3301 has a prerequisite of MATH 2413, and STAT 3336 has a prerequisite of STAT 3301.",
+                  "notes": "See Degree Plan for course option."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Internship",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Upper division ARTS courses have prerequisites, COMM 3307 has a prerequisite of COMM 3303, Upper division ENTR, HOST, MGMT and MARK courses typically require admission to VCoBE. Students will need to seek departmental approval to enroll. SOCW 3375 has a prerequisite of MATH 1314, STAT 3301 has a prerequisite of MATH 2413, and STAT 3336 has a prerequisite of STAT 3301.",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Cultural and Natural Landscapes Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ANTH 4377",
+                  "title": "Global Cultural Heritage Issues and Debates",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "3 hours from any of these areas: anthropology (ANTH), economics (ECON), psychology (PSYC), sociology (SOCI), or consent of instructor.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered Spring Semester on Odd Years."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Upper division ARTS courses have prerequisites, COMM 3307 has a prerequisite of COMM 3303, Upper division ENTR, HOST, MGMT and MARK courses typically require admission to VCoBE. Students will need to seek departmental approval to enroll. SOCW 3375 has a prerequisite of MATH 1314, STAT 3301 has a prerequisite of MATH 2413, and STAT 3336 has a prerequisite of STAT 3301.",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Cultural and Natural Landscapes Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ANTH 4315",
+                  "title": "Discovering the Rio Grande Valley",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Offered Fall Semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Upper division ARTS courses have prerequisites, COMM 3307 has a prerequisite of COMM 3303, Upper division ENTR, HOST, MGMT and MARK courses typically require admission to VCoBE. Students will need to seek departmental approval to enroll. SOCW 3375 has a prerequisite of MATH 1314, STAT 3301 has a prerequisite of MATH 2413, and STAT 3336 has a prerequisite of STAT 3301.",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Cultural and Natural Landscapes Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ARTS 3380",
+                  "title": "Museums, Museology, and Museography",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Offered Spring Semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Upper division ARTS courses have prerequisites, COMM 3307 has a prerequisite of COMM 3303, Upper division ENTR, HOST, MGMT and MARK courses typically require admission to VCoBE. Students will need to seek departmental approval to enroll. SOCW 3375 has a prerequisite of MATH 1314, STAT 3301 has a prerequisite of MATH 2413, and STAT 3336 has a prerequisite of STAT 3301.",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Cultural and Natural Landscapes Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course option."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

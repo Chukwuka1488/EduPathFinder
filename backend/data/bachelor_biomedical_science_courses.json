@@ -1,0 +1,528 @@
+[
+    {
+      "department": "Biomedical Science",
+      "program": "Biomedical Science",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1311",
+                  "title": "General Chemistry I (Core)",
+                  "minGrade": "C",
+                  "gec": "030",
+                  "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 2412, MATH 2413 with a grade of 'C' or higher.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1111",
+                  "title": "General Chemistry I Lab (Core)",
+                  "minGrade": "C",
+                  "gec": "090",
+                  "prerequisite": "Credit/Registration in CHEM 1311.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 1301",
+                  "title": "Introduction to Biomedical Sciences I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 1102",
+                  "title": "Introduction to Biomedical Sciences I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework / Academic and Career Success / Living and Working by Design",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1312",
+                  "title": "General Chemistry II (Core)",
+                  "minGrade": "C",
+                  "gec": "030",
+                  "prerequisite": "CHEM 1311.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1112",
+                  "title": "General Chemistry II Lab (Core)",
+                  "minGrade": "C",
+                  "gec": "090",
+                  "prerequisite": "Credit/registration in CHEM 1312.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Medical Spanish or ASL recommended."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 1302",
+                  "title": "Introduction to Biomedical Sciences II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 1112",
+                  "title": "Introduction to Biomedical Sciences II Lab",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 2323",
+                  "title": "Organic Chemistry I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 1312.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 2123",
+                  "title": "Organic Chemistry I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in CHEM 2323.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1342",
+                  "title": "Elementary Statistical Methods",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "PHIL 1330 Strongly Recommended."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 2301",
+                  "title": "Integrated Body Systems I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 2111",
+                  "title": "Integrated Body Systems Lab I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 3121",
+                  "title": "Independent Research I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 2325",
+                  "title": "Organic Chemistry II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2323.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 2125",
+                  "title": "Organic Chemistry II Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in CHEM 2325.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 2301",
+                  "title": "General Psychology (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "ENGL 2331 Strongly Recommended."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 2302",
+                  "title": "Integrated Body Systems II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 2112",
+                  "title": "Integrated Body Systems Lab II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 3122",
+                  "title": "Independent Research II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "BMED 3121.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1401",
+                  "title": "General Physics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 1414, MATH 1314, MATH 2412, or MATH 2413.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4250",
+                  "title": "Advanced Cell Biology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4260",
+                  "title": "Advanced Molecular Biology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 4310",
+                  "title": "Medical Biochemistry",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "Choose 1",
+                  "title": "BMED 3223 Experiential Learning in Biomedical Sciences I or BMED 3225 Recent Advances in Biomedical Sciences",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "BMED 3122.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": "Prerequisite for MATH 2412: MATH 1314 or MATH 1414 with a grade of 'C' or better; or passing the College Algebra Exemption Test administered by the Department of Mathematics."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 4380",
+                  "title": "Medical Neuroscience and Neurochemistry",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BMED 4440",
+                  "title": "Medical Microbiology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4220",
+                  "title": "Medical Bioinformatics, Genomics, and Systems Biology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4230",
+                  "title": "Human Genetics and Medical Genomics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "Choose 1",
+                  "title": "BMED 3224 Experiential Learning in Biomedical Sciences II or BMED 3226 Topics in Biomedical Sciences",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 3301",
+                  "title": "Applied Statistics for Science, Engineering and Medical Science",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4270",
+                  "title": "Introduction to Complementary and Alternative Medicine",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "BMED 4290",
+                  "title": "Medical Immunology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 3103",
+                  "title": "Human Behavior",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1402",
+                  "title": "General Physics II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 1401.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative and Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative and Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options. Choose 3 advanced hours from PSYC, BIOL, CHEM, MATH, PHYS, HPRS, or CSCI."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BMED 4395",
+                  "title": "Advanced Pathophysiology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "BMED 3109",
+                  "title": "Medical Syndromes",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Departmental approval.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

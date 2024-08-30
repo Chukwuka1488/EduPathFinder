@@ -1,0 +1,429 @@
+[
+    {
+      "department": "Rehabilitation Services",
+      "program": "Rehabilitation Services",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": "See General Education Core for course options. Recommended: MATH 1342 (OT)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative & Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Recommended: PSYC 2301"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life & Physical Science # 1 (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended: BIOL 2401 (OT)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 2301",
+                  "title": "Introduction to Rehabilitation",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative & Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life & Physical Science # 2 (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended: BIOL 2402 (OT)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 2321",
+                  "title": "Introduction to Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options. Recommended: OT Options"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Recommended: PHIL 1310"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3331",
+                  "title": "Psychology of Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options. Recommended: HRPT 2303 (OT)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options. Recommended: OT Options"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3320",
+                  "title": "Family and Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3325",
+                  "title": "Medical Aspects of Disability I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3345",
+                  "title": "Lifespan Development and Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Recommended: OT options"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Recommended: OT options"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3303",
+                  "title": "Case Management I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3330",
+                  "title": "Medical Aspects of Disability II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4301",
+                  "title": "Assessment in Human Services",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "REHS 2301.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3311",
+                  "title": "Disability Policy & Advocacy",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Recommended: OT options"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4385",
+                  "title": "Psychiatric Rehabilitation & Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "REHS 2301.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4302",
+                  "title": "Job Placement",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "REHS 2301",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4303 or REHS 4305",
+                  "title": "Case Management II or Casemanagement for the Spanish Speaking Client",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in REHS 3303.",
+                  "notes": "Satisfies Major-Specific Requirement. Can be substituted with REHS 4305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4330",
+                  "title": "Practicum I",
+                  "minGrade": "B",
+                  "gec": "",
+                  "prerequisite": "REHS 4301; Majors Only.",
+                  "notes": "Satisfies Major-Specific Requirement. Requires program approval - must see program advisor."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4310",
+                  "title": "Rehabilitation Research",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4360",
+                  "title": "Assistive Technology in Rehabilitation",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "REHS 2301.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 4355",
+                  "title": "Multicultural Issues in Human Services",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "REHS 2301.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Additional Rehabilitation Courses",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for Choices."
+                },
+                {
+                  "hours": 6,
+                  "courseNumber": "REHS 4602",
+                  "title": "Practicum II",
+                  "minGrade": "P",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in REHS 4330.",
+                  "notes": "Students must take REHS 4301, REHS 4302, and REHS 4303 or REHS 4305 as required prerequisites before taking REHS 4602. Program approval required. Must see program advisor."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,453 @@
+[
+  {
+    "department": "English - 7-12, Teacher Certification",
+    "program": "English - 7-12, Teacher Certification",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. Recommended: ENGL 2312 History of Film"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. Recommended: ENGL 2315 Humans and Language"
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 23XX",
+                "title": "Language, Philosophy and Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "ANY English 2300 level Literature course recommended"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. Recommended: WRLS 1100 Language Exploration Lab"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3300",
+                "title": "Introduction to English Studies",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English",
+                "notes": "Must be taken within the first 12 hours of the English major."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Prescribed Elective - Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options: Literature Survey, Genre/Theme, Period/Single Author."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Prescribed Elective - Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options: Literature Survey, Genre/Theme, Period/Single Author."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Prescribed Elective - Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options: Literature Survey, Genre/Theme, Period/Single Author."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Prescribed Elective - Linguistics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English.",
+                "notes": "See degree plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3337",
+                "title": "Children's and Adolescent Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDFR 2301",
+                "title": "Intercultural Context of Schooling",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "summer": [
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "English Language Arts/Reading Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options - Language"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3301",
+                "title": "The Teaching Profession and Student Learning",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "May be taken during summer session."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "READ 4344",
+                "title": "Writing, Inquiry, and Research in the Secondary ELAR Classroom",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Grades 4-8 & 7-12 Certification Preparation"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3362",
+                "title": "English Grammar",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 4343",
+                "title": "Composition Theory and Pedagogy",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English",
+                "notes": "Major Requirement - Rhetorical Writing; ENGL 3340-Survey Rhetorical Theory & ENGL 3345-Studies in Literacy are also options"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "English Language Arts/Reading Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options - Writing"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 4338",
+                "title": "Teaching Secondary School Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English",
+                "notes": "The teacher certification plan requires the English Language Arts concentration in the English major."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ XXXX",
+                "title": "Early Literacy Development(for 4-8 certification) or Reading Foundations for the Secondary Teacher I (for 7-12 certification)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "READ 3320 (for 4-8 certification only) or READ 3390 (for 7-12 certification only)"
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "English Prescribed Elective - Literature",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options - Literature Survey"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Concentration Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Grades 4-8 & 7-12 Certification Preparation"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3302",
+                "title": "Knowledge of Student Development and Learning",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 33XX-43XX",
+                "title": "Concentration Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 3351",
+                "title": "Creative Writing I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of English.",
+                "notes": "Teacher Certification. May be taken during summer session."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 4390",
+                "title": "Senior English Capstone",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "ENGL 3300 and 24 hours of advanced English.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 4341",
+                "title": "Media Literacies for Secondary ELA/R Teacher",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Grades 4-8 & 7-12 Certification Preparation"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 4332",
+                "title": "Literary Assessment at the Secondary Level",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Grades 4-8 & 7-12 Certification Preparation"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3306",
+                "title": "Evidence-Based Teaching in Positive Learning Environments",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program, EDUC 3302.",
+                "notes": "Teacher Certification"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 3304",
+                "title": "Instructional Planning and Assessment in Culturally Sustaining Classrooms",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program; EDUC 3302.",
+                "notes": "Teacher Certification"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 4305",
+                "title": "Disciplinary Literacy in the Classroom",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Teacher Certification"
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 6,
+                "courseNumber": "EDUC 4611",
+                "title": "Student Teaching Secondary or All-Level",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program and Admission to CEP Clinical Teaching.",
+                "notes": "Students who have not passed both TExES #160 (PPR) and their TExES English exam are not permitted to do Student Teaching. Must be taken last semester. Only offered Fall or Spring."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

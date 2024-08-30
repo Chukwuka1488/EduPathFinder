@@ -1,0 +1,433 @@
+[
+  {
+    "department": "Social Work",
+    "program": "Social Work",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 1301",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy, and Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 2361",
+                "title": "Introduction to the Social Work Profession",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "See General Education Core for more details. Options: MATH 1314, MATH 1414, MATH 1324, MATH 1342, MATH 1343, MATH 2412, or MATH 2413."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 1302",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "A grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "BIOL 2401 recommended."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCI 1301",
+                "title": "Intro to Sociology or General Psychology",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "PSYC 2301 may satisfy the 080 category if SOCI 1301 is used towards the major."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "BIOL 2402 recommended (BIOL 2401 pre-req)."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 2301",
+                "title": "Intro to Sociology or General Psychology",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "SOCI 1301 may satisfy the major if PSYC 2301 is used towards the 080 category of the core."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative & Experiential Learning",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. CSCI 1380 or INFS 2398 recommended."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 2362",
+                "title": "The Social Welfare Institution",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 3375",
+                "title": "Statistical Methods",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "MATH 1314 or higher math.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative & Experiential Learning",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "semester": "Summer",
+        "courses": [
+          {
+            "hours": 3,
+            "courseNumber": "SPAN 1311 or SPAN 2313",
+            "title": "Beginning Spanish I or Spanish for Native/Heritage Speakers I",
+            "minGrade": "",
+            "gec": "",
+            "prerequisite": "",
+            "notes": "To determine Spanish level course, need to take a pretest. Contact Spanish Department."
+          },
+          {
+            "hours": 3,
+            "courseNumber": "SPAN 1312 or SPAN 2315",
+            "title": "Beginning Spanish II or Spanish for Native/Heritage Speakers II",
+            "minGrade": "",
+            "gec": "",
+            "prerequisite": "Must be the pair to the 1st part of Spanish.",
+            "notes": "To determine Spanish level course, need to take a pretest. Contact Spanish Department."
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 3314",
+                "title": "Social Welfare Policy and Programs",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SOCW 2362 and Admission to BSW Program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 3321",
+                "title": "Human Behavior and the Social Environment I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SOCW 2361 and Admission to BSW Program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 3322",
+                "title": "Human Behavior and the Social Environment II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SOCW 2361 and admission to BSW program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 3323",
+                "title": "Social Work Practice I",
+                "minGrade": "B",
+                "gec": "",
+                "prerequisite": "SOCW 2361, SOCW 2362, and admission to BSW Program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 4313 or SOCI 4314",
+                "title": "Abnormal Psychology or Sociology of Deviance",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "PSYC 2301/ 6hrs of SOCI or SOCI 1301 with declared social work major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 4301",
+                "title": "Social Work Practice II",
+                "minGrade": "B",
+                "gec": "",
+                "prerequisite": "Admission into the BSW Program and grade of 'C' or better in SOCW 3323.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 4302",
+                "title": "Social Work Practice III",
+                "minGrade": "B",
+                "gec": "",
+                "prerequisite": "Admission into the BSW Program and grade of 'B' or better in SOCW 3323.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 2314, PSYC 3332, or PSYC 3333",
+                "title": "Developmental Psychology: Lifespan, or Developmental Psychology: Infancy through Adolescence, or Psychology of Adulthood: Maturity and Old Age",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in PSYC 2301 and PSYC 2314.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCI 4313 or SOCI 4323",
+                "title": "Race and Ethnic Relations or The Mexican American Experience",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of sociology; OR SOCI 1301 with declared social work major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCI 4352",
+                "title": "Social Stratification",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "6 hours of sociology; OR SOCI 1301 with declared social work major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 4311",
+                "title": "Research for the Social Services",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SOCW 2375 or approved statistics course and admission into BSW prog.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 4303",
+                "title": "Social Work Practice IV",
+                "minGrade": "B",
+                "gec": "",
+                "prerequisite": "Admission into the BSW Program and grade of 'C' or better in SOCW 3323.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Advanced Restricted Elective Course #1",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Major requirement: Choose any 33XX or 43XX in ANTH, CRIJ, POLS, PSYC, REHS, SOCI, SOCW course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Advanced Restricted Elective Course #2",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Major requirement: Choose any 33XX or 43XX in ANTH, CRIJ, POLS, PSYC, REHS, SOCI, SOCW course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree Plan for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 6,
+                "courseNumber": "SOCW 4619 or SOCW 4354 and SOCW 4355",
+                "title": "Field Education Block or Field Education I and Field Education II",
+                "minGrade": "P",
+                "gec": "",
+                "prerequisite": "Admission into the BSW program. Approval by the Office of Field Education. Grade of 'B' or better in SOCW 4301, SOCW 4302 and SOCW 4303.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCW 4353",
+                "title": "Integrative Field Seminar",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission into the BSW program. Grade of 'B' or better in SOCW 4301, SOCW 4302 and SOCW 4303.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Advanced Restricted Elective Course #3",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Major requirement: Choose any 33XX or 43XX in ANTH, CRIJ, POLS, PSYC, REHS, SOCI, SOCW course."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

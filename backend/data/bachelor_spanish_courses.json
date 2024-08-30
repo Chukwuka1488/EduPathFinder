@@ -1,0 +1,437 @@
+[
+  {
+    "department": "Spanish",
+    "program": "Spanish",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 2313 or SPAN 2312",
+                "title": "Spanish for Heritage Language Learners II or Intermediate Spanish II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "SPAN 2313: SPAN 1315 or placement by exam or departmental approval. SPAN 2312: SPAN 2311 or placement by exam or departmental approval.",
+                "notes": "Follow up with Spanish Department for guidance on Heritage Language or Second Language Track."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301/1101/1001",
+                "title": "Learning Framework/Academic and Career Success/Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 2315 or SPAN 2414",
+                "title": "Spanish for Heritage Language Learners III or Intermediate Grammar and Composition",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "SPAN 2315: SPAN 2313 or placement by exam or departmental approval. SPAN 2314: SPAN 2312 or placement by exam or departmental approval.",
+                "notes": "Follow up with Spanish Department for guidance on Heritage Language or Second Language Track."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3313 or SPAN 3300",
+                "title": "Advanced Grammar and Composition for Heritage Language Learners I or Advanced Spanish Grammar and Composition I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "SPAN 3313: SPAN 2315 or placement by exam or departmental approval. SPAN 3300: SPAN 2314 or placement by exam or departmental approval.",
+                "notes": "Follow up with Spanish Department for guidance on Heritage Language or Second Language Track."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3350",
+                "title": "Introduction to Hispanic Linguistics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3314",
+                "title": "Techniques of Literary Analysis",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3315 or SPAN 3301",
+                "title": "Advanced Grammar and Composition for Heritage Language Learners II or Advanced Spanish Grammar & Composition II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "SPAN 3315: SPAN 3313. SPAN 3301: SPAN 3300 or placement by exam or departmental approval.",
+                "notes": "Follow up with Spanish Department for guidance on Heritage Language or Second Language Track."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3351",
+                "title": "Spanish Phonology and Phonetics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Literature and Creative Writing Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement. Choose from: SPAN 3317 Introduction to Spanish Literature, SPAN 3318 Introduction to Latin American Literature, SPAN 3308 Introduction to Latina/o Literature, SPAN 3329 Creative Writing in Spanish"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Literature and Creative Writing Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement. Choose from: SPAN 3317 Introduction to Spanish Literature, SPAN 3318 Introduction to Latin American Literature, SPAN 3308 Introduction to Latina/o Literature, SPAN 3329 Creative Writing in Spanish"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 4311 or SPAN 4370",
+                "title": "Linguistics Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives (Literature and Culture)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives (Linguistics)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Literature and Creative Writing Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval. Can be taken concurrently.",
+                "notes": "Satisfies Major-Specific Requirement. Choose from: SPAN 3317 Introduction to Spanish Literature, SPAN 3318 Introduction to Latin American Literature, SPAN 3308 Introduction to Latina/o Literature, SPAN 3329 Creative Writing in Spanish"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives (Creative Writing)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives (Translation and Interpreting and Medical Spanish)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Electives",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "SPAN 3300 or SPAN 3313 or departmental approval",
+                "notes": "Satisfies Major-Specific Requirement. Choose 24 hours (at least 15 advanced) with at least one course in at least three areas. See degree plan for list of options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 4380",
+                "title": "Senior Seminar",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Departmental approval",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

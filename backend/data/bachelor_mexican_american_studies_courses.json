@@ -1,0 +1,435 @@
+[
+    {
+      "department": "Mexican American Studies",
+      "program": "Mexican American Studies",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 2327",
+                  "title": "Mexican American History I",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "Recommended: ENGL 2314 Appreciation & Analysis of Literature"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options. Recommended: MATH 1332 Math for Liberal Arts or MATH 1324 Mathematics for Business & Social Sciences"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 2301",
+                  "title": "Introduction to Mexican American Studies",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305. Recommended: ENGL 1305 Writing for Cultural Studies"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 2328",
+                  "title": "Mexican American History II",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended: COMM 1315, INDS 2390, INDS 2190, SPAN 2321, or WRLS 2301. MASC/ENGL 2351 (required for MAS major)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended: ANTH 2351, PHIL 1362, ECON 1301 or ECON 2301"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 2351",
+                  "title": "Mexican American Literature",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "MASC/ENGL 2351 fulfills 090 category and is a requirement for the major."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "SPAN X3XX",
+                  "title": "Spanish Language",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Students are placed into a sequence and a level based on the proficiency exam or departmental approval. If a student earns a score that earns credit beyond SPAN 2315, they may take the next or higher-level Spanish course and it will still fulfill the Spanish course requirement. Please refer student to MAS undergraduate coordinator for substitution."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended: COMM 1315, INDS 2390, INDS 2190, SPAN 2321, or WRLS 2301. MASC/ENGL 2351 (required for MAS major)"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "SPAN X3XX",
+                  "title": "Spanish Language",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Students are placed into a sequence and a level based on the proficiency exam or departmental approval. If a student earns a score that earns credit beyond SPAN 2315, they may take the next or higher-level Spanish course and it will still fulfill the Spanish course requirement. Please refer student to MAS undergraduate coordinator for substitution."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "SPAN X3XX",
+                  "title": "Spanish Language",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Students are placed into a sequence and a level based on the proficiency exam or departmental approval. If a student earns a score that earns credit beyond SPAN 2315, they may take the next or higher-level Spanish course and it will still fulfill the Spanish course requirement. Please refer student to MAS undergraduate coordinator for substitution."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 3332",
+                  "title": "Mexican American History",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "HIST 3300",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 1)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 1)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 2)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 2)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 3)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "MASC Prescribed Elective (Category 3)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for categories and course options and/or contact the MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester. Must complete 12 advanced hours of Prescribed Electives."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options or contact MAS Undergraduate Coordinator (Dr. Maritza De La Trinidad) or MAS website for the updated list of courses offered every semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Contact Dr. Maritza De La Trinidad, Undergraduate Coordinator at maritza.delatrinidad@utrgv.edu for further information on the MAS major, minor, degree requirements and courses."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Can be used for course in a second major."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MASC 4350",
+                  "title": "Research Methods in Mexican American/Chicanx/Latinx Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Consent of department needed.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

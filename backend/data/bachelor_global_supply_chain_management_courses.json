@@ -1,0 +1,437 @@
+[
+  {
+    "department": "Global Supply Chain Management",
+    "program": "Global Supply Chain Management",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1324*",
+                "title": "Mathematics for Business and Social Sciences",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "This is the required Mathematics option for this degree. This course is the prerequisite for ACCT 2301, QUMT 2341, and QUMT 2398."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECON 2301*",
+                "title": "Principles of Macroeconomics",
+                "minGrade": "C",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. This is the required Social and Behavioral Sciences (Core) Option in this degree. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 1301*",
+                "title": "Introduction to Business",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ACCT 2301*",
+                "title": "Introduction to Financial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 1324, or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECON 2302*",
+                "title": "Principles of Microeconomics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 with a grade of 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "INFS 2300*",
+                "title": "Data Modeling Management Tools",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. Beginning Fall 2019, BCIS 1305 with a 'C' or better will transfer as INFS 2300. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ACCT 2302*",
+                "title": "Introduction to Managerial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2301 with a 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "QUMT 2341*",
+                "title": "Business Statistics I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314 or MATH 1414 or MATH 1324 or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. BUSI 2305 with a 'C' or better will transfer as QUMT 2341. We recommend you take this course as soon as you meet the prerequisite."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts Option (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experimental Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "QUMT 2398",
+                "title": "Decision Analytics",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "This is the required Integrative/Experimental Learning option in this degree. For issues with registration, email business.advising@utrgv.edu."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "C",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "INFS 3390 or ACCT 3326",
+                "title": "Management Information Systems Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "INFS 3390: Advanced standing or permission of the instructor. ACCT 3326: ACCT 2302 with a 'C' or better and Junior standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "QUMT 3341",
+                "title": "Business Statistics II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "QUMT 2341. Sophomore Standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "GSCM 3310",
+                "title": "Import/Export Theory",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Admission to the College of Business and Entrepreneurship or junior standing plus departmental approval.",
+                "notes": "Course only offered in Fall semesters. Equivalent to MTML 3310 course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 3361",
+                "title": "Principles of Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "INTB 4367",
+                "title": "International Logistics",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "FINA 3380",
+                "title": "Introduction to Finance",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2301, ACCT 2302, and ECON 2301.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "BLAW 3337",
+                "title": "Business Law I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ACCT 3324",
+                "title": "Cost Accounting and Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2302 with a 'C' or better and Junior standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MARK 3300",
+                "title": "Principles of Marketing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECON 3353 or FINA 4381 or INFS 3380 or INTB 3350 or MARK 3310 or MGMT 4311 or INTB 3330",
+                "title": "International Business Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 3335 or MARK 3320 or COMM 3313",
+                "title": "Business Communications Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "GSCM 4310",
+                "title": "Forecasting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Admission to the College of Business and Entrepreneurship or junior standing plus departmental approval.",
+                "notes": "Course only offered in Fall semesters. Equivalent to MTML 4310 course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 4311",
+                "title": "International Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MGMT 3361 and junior standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 4363",
+                "title": "Operations Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Junior Standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENTR 3340 or INTB 4340 or INTB 4393 or GSCM 4340 or GSCM 4351",
+                "title": "Advanced Business Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "GSCM 4340/GSCM 4351 courses equivalent to MTML 4340/MTML 4351 courses."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 4304 or MARK 3330",
+                "title": "Ethics Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Junior standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ENTR 3340 or INTB 4340 or INTB 4393 or GSCM 4340 or GSCM 4351",
+                "title": "Advanced Business Elective",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "GSCM 4340/GSCM 4351 courses equivalent to MTML 4340/MTML 4351 courses."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "GSCM 4320",
+                "title": "Materials Management and ERP",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Admission to the College of Business and Entrepreneurship or junior standing plus departmental approval.",
+                "notes": "Course only offered in Spring semesters. Equivalent to MTML 4320 course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "GSCM 4330",
+                "title": "Import/Export Operations",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Admission to the College of Business and Entrepreneurship or junior standing plus departmental approval.",
+                "notes": "Course only offered in Spring semesters. Equivalent to MTML 4330 course."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 4389",
+                "title": "Strategic Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MGMT 3361, MARK 3300, FINA 3380, and (ACCT 3350 or INTB 3350 or ECON 3353 or FINA 4381 or INFS 3380 or INTB 3330 or MGMT 4311 or MARK 3310). Department approval is required.",
+                "notes": "Capstone course. This course MUST be taken last semester, when graduating and registered in all remaining courses."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

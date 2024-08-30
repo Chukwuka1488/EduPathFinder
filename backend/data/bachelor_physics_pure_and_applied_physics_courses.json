@@ -1,0 +1,420 @@
+[
+    {
+      "department": "Physics (Pure and Applied Physics)",
+      "program": "Physics (Pure and Applied Physics)",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 1311",
+                  "title": "Learning to be a Physicist",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2425",
+                  "title": "Physics for Scientists and Engineers I (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "MATH 2413.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 1380",
+                  "title": "Computer Science I (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Concurrent enrollment or credit for MATH 1314 or higher level mathematics course.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2415",
+                  "title": "Calculus III",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2426",
+                  "title": "Physics for Scientists and Engineers II (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "PHYS 2425 and MATH 2414.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 2327",
+                  "title": "Physics for Scientists and Engineers III",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2425 (or PHYS 2411). Students may take this course concurrently with PHYS 2426.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 3341",
+                  "title": "Differential Equations",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 3402",
+                  "title": "Modern Physics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2426 (or PHYS 2412) and PHYS 2327 (or PHYS 2313).",
+                  "notes": "Physics core requirement. Only offered in the Spring Semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3303",
+                  "title": "Thermodynamics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and PHYS 2426 and PHYS 2327.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4306 or 4101",
+                  "title": "Laboratory Research or Advanced Physics Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3402.",
+                  "notes": "Choose either PHYS 4306 or 4101. PHYS 4101 to be taken three times with consent of an instructor."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 3411",
+                  "title": "Math Methods in Physics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 3341.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3305",
+                  "title": "Classical Mechanics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2426 and MATH 2415.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 3412",
+                  "title": "Math Methods in Physics II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3411 or PHYS 3311.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4305",
+                  "title": "Statistical Mechanics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3303 and [PHYS 3411 or PHYS 3311].",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 33XX-43XX",
+                  "title": "Advanced Physics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See degree plan for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4303",
+                  "title": "Quantum Mechanics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3305 and [PHYS 3411 or PHYS 3311].",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 33XX-43XX",
+                  "title": "Advanced Physics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 33XX-43XX",
+                  "title": "Advanced Physics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3301",
+                  "title": "Electromagnetic Theory I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and either PHYS 2426 or PHYS 2412.",
+                  "notes": "Physics core requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3302",
+                  "title": "Electromagnetic Theory II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3301.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4304",
+                  "title": "Quantum Mechanics II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 4303.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4300",
+                  "title": "Undergraduate Research Project",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Senior standing in the Physics Degree Program and consent of a supervising faculty member.",
+                  "notes": "Capstone."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3304",
+                  "title": "Optics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and PHYS 2426 (or PHYS 2412) and PHYS 2327 (or PHYS 2313).",
+                  "notes": "Physics core requirement. Only offered in the Spring Semester."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

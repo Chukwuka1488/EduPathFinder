@@ -1,0 +1,702 @@
+[
+  {
+    "collection_name": "colleges_degrees",
+    "json_file_path": "data/colleges_degrees.json",
+    "bulk_insert": true
+  },
+  {
+    "collection_name": "bachelor_accountancy_courses",
+    "json_file_path": "data/bachelor_accountancy_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_courses",
+    "json_file_path": "data/bachelor_economics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_finance_double_major_courses",
+    "json_file_path": "data/bachelor_economics_finance_double_major_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_economics_minor_courses",
+    "json_file_path": "data/bachelor_economics_minor_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_entrepreneurship_innovation_courses",
+    "json_file_path": "data/bachelor_entrepreneurship_innovation_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_finance_courses",
+    "json_file_path": "data/bachelor_finance_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_global_supply_chain_management_courses",
+    "json_file_path": "data/bachelor_global_supply_chain_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_business_analytics_courses",
+    "json_file_path": "data/bachelor_business_analytics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_international_business_courses",
+    "json_file_path": "data/bachelor_international_business_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_management_courses",
+    "json_file_path": "data/bachelor_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_marketing_courses",
+    "json_file_path": "data/bachelor_marketing_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_hospitality_tourism_management_event_and_destination_management_courses",
+    "json_file_path": "data/bachelor_hospitality_tourism_management_event_and_destination_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_hospitality_tourism_management_lodging_asset_ownership_and_management_courses",
+    "json_file_path": "data/bachelor_hospitality_tourism_management_lodging_asset_ownership_and_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_hospitality_tourism_management_restaurant_entrepreneurship_and_management_courses",
+    "json_file_path": "data/bachelor_hospitality_tourism_management_restaurant_entrepreneurship_and_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_information_systems_courses",
+    "json_file_path": "data/bachelor_information_systems_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_social_work_courses",
+    "json_file_path": "data/bachelor_social_work_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nursing_courses",
+    "json_file_path": "data/bachelor_nursing_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nursing_rn_to_bsn_courses",
+    "json_file_path": "data/bachelor_nursing_rn_to_bsn_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nursing_second_degree_courses",
+    "json_file_path": "data/bachelor_nursing_second_degree_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_early_care_early_childhood_studies_courses",
+    "json_file_path": "data/bachelor_early_care_early_childhood_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_early_care_early_childhood_studies_teacher_certification_courses",
+    "json_file_path": "data/bachelor_early_care_early_childhood_studies_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_education_bilingual_education_ec_sixth_certification_courses",
+    "json_file_path": "data/bachelor_education_bilingual_education_ec_sixth_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_education_english_as_a_second_language_ec_sixth_certification_courses",
+    "json_file_path": "data/bachelor_education_english_as_a_second_language_ec_sixth_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_education_special_education_courses",
+    "json_file_path": "data/bachelor_education_special_education_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_civil_engineering_courses",
+    "json_file_path": "data/bachelor_civil_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_computer_engineering_courses",
+    "json_file_path": "data/bachelor_computer_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_computer_science_courses",
+    "json_file_path": "data/bachelor_computer_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_cyber_security_courses",
+    "json_file_path": "data/bachelor_cyber_security_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_electrical_engineering_courses",
+    "json_file_path": "data/bachelor_electrical_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mechanical_engineering_courses",
+    "json_file_path": "data/bachelor_mechanical_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_manufacturing_engineering_courses",
+    "json_file_path": "data/bachelor_manufacturing_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_engineering_technology_courses",
+    "json_file_path": "data/bachelor_engineering_technology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_applied_statistics_data_science_courses",
+    "json_file_path": "data/bachelor_applied_statistics_data_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_biology_courses",
+    "json_file_path": "data/bachelor_biology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_biology_seventh_twelfth_teacher_certification_courses",
+    "json_file_path": "data/bachelor_biology_seventh_twelfth_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_chemistry_courses",
+    "json_file_path": "data/bachelor_chemistry_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_chemistry_seventh_twelfth_teacher_certification_courses",
+    "json_file_path": "data/bachelor_chemistry_seventh_twelfth_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_environmental_science_earth_and_ocean_sciences_courses",
+    "json_file_path": "data/bachelor_environmental_science_earth_and_ocean_sciences_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_environmental_science_environment_and_society_courses",
+    "json_file_path": "data/bachelor_environmental_science_environment_and_society_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_environmental_science_environmental_biology_courses",
+    "json_file_path": "data/bachelor_environmental_science_environmental_biology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_environmental_science_environmental_chemistry_courses",
+    "json_file_path": "data/bachelor_environmental_science_environmental_chemistry_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_environmental_science_interdisciplinary_environmental_science_courses",
+    "json_file_path": "data/bachelor_environmental_science_interdisciplinary_environmental_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_interdisciplinary_studies_middle_school_mathematics_fourth_eight_teacher_certification_courses",
+    "json_file_path": "data/bachelor_interdisciplinary_studies_middle_school_mathematics_fourth_eight_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_interdisciplinary_studies_science_fourth_eight_teacher_certification_courses",
+    "json_file_path": "data/bachelor_interdisciplinary_studies_science_fourth_eight_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_marine_biology_courses",
+    "json_file_path": "data/bachelor_marine_biology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_fourth_eight_teacher_certification_courses",
+    "json_file_path": "data/bachelor_mathematics_fourth_eight_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_seventh_twelfth_teacher_certification_courses",
+    "json_file_path": "data/bachelor_mathematics_seventh_twelfth_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_applied_mathematics_courses",
+    "json_file_path": "data/bachelor_mathematics_applied_mathematics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_economics_courses",
+    "json_file_path": "data/bachelor_mathematics_economics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_pure_math_courses",
+    "json_file_path": "data/bachelor_mathematics_pure_math_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_science_and_engineering_courses",
+    "json_file_path": "data/bachelor_mathematics_science_and_engineering_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mathematics_statistics_courses",
+    "json_file_path": "data/bachelor_mathematics_statistics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_physics_biophysics_courses",
+    "json_file_path": "data/bachelor_physics_biophysics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_physics_minor_required_courses",
+    "json_file_path": "data/bachelor_physics_minor_required_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_physics_pure_and_applied_physics_courses",
+    "json_file_path": "data/bachelor_physics_pure_and_applied_physics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_physics_teacher_certification_courses",
+    "json_file_path": "data/bachelor_physics_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_sustainable_agriculture_food_systems_courses",
+    "json_file_path": "data/bachelor_sustainable_agriculture_food_systems_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_addiction_studies_courses",
+    "json_file_path": "data/bachelor_addiction_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_american_sign_language_interpretation_communication_studies_courses",
+    "json_file_path": "data/bachelor_american_sign_language_interpretation_communication_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_american_sign_language_interpretation_spanish_translation_and_interpreting_courses",
+    "json_file_path": "data/bachelor_american_sign_language_interpretation_spanish_translation_and_interpreting_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_biomedical_science_courses",
+    "json_file_path": "data/bachelor_biomedical_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_communication_sciences_audiology_american_sign_language_courses",
+    "json_file_path": "data/bachelor_communication_sciences_audiology_american_sign_language_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_communication_sciences_speech_language_pathology_american_sign_language_courses",
+    "json_file_path": "data/bachelor_communication_sciences_speech_language_pathology_american_sign_language_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_exercise_science_occupational_therapy_courses",
+    "json_file_path": "data/bachelor_exercise_science_occupational_therapy_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_exercise_science_physical_therapy_courses",
+    "json_file_path": "data/bachelor_exercise_science_physical_therapy_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_exercise_science_courses",
+    "json_file_path": "data/bachelor_exercise_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_health_courses",
+    "json_file_path": "data/bachelor_health_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_health_services_technology_courses",
+    "json_file_path": "data/bachelor_health_services_technology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_integrated_health_science_clinical_professions_courses",
+    "json_file_path": "data/bachelor_integrated_health_science_clinical_professions_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_integrated_health_science_health_services_courses",
+    "json_file_path": "data/bachelor_integrated_health_science_health_services_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_integrated_health_science_professional_studies_courses",
+    "json_file_path": "data/bachelor_integrated_health_science_professional_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_kinesiology_athletic_training_courses",
+    "json_file_path": "data/bachelor_kinesiology_athletic_training_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_kinesiology_coaching_courses",
+    "json_file_path": "data/bachelor_kinesiology_coaching_course.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_kinesiology_recreational_sports_management_courses",
+    "json_file_path": "data/bachelor_kinesiology_recreational_sports_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_kinesiology_courses",
+    "json_file_path": "data/bachelor_kinesiology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_kinesiology_teacher_certification_courses",
+    "json_file_path": "data/bachelor_kinesiology_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_medical_laboratory_science_courses",
+    "json_file_path": "data/bachelor_medical_laboratory_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nutritional_sciences_nutrition_courses",
+    "json_file_path": "data/bachelor_nutritional_sciences_nutrition_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nutritional_sciences_food_and_technology_management_courses",
+    "json_file_path": "data/bachelor_nutritional_sciences_food_and_technology_management_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_nutritional_sciences_nutrition_and_fitness_courses",
+    "json_file_path": "data/bachelor_nutritional_sciences_nutrition_and_fitness_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_rehabilitation_services_deaf_and_hard_of_hearing_courses",
+    "json_file_path": "data/bachelor_rehabilitation_services_deaf_and_hard_of_hearing_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_rehabilitation_services_courses",
+    "json_file_path": "data/bachelor_rehabilitation_services_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_all_level_secondary_education_minor_courses",
+    "json_file_path": "data/bachelor_art_all_level_secondary_education_minor_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_ceramics_courses",
+    "json_file_path": "data/bachelor_art_ceramics_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_sculpture_courses",
+    "json_file_path": "data/bachelor_art_sculpture_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_studio_art_courses",
+    "json_file_path": "data/bachelor_art_studio_art_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_teacher_certification_courses",
+    "json_file_path": "data/bachelor_art_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_fine_art_dance_mexican_dance_courses",
+    "json_file_path": "data/bachelor_fine_art_dance_mexican_dance_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_dance_teacher_certification_courses",
+    "json_file_path": "data/bachelor_art_dance_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_art_dance_courses",
+    "json_file_path": "data/bachelor_art_dance_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_fine_art_dance_courses",
+    "json_file_path": "data/bachelor_fine_art_dance_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_guitar_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_guitar_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_mariachi_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_mariachi_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_piano_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_piano_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_string_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_string_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_voice_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_voice_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_woodwinds_brass_percussion_teacher_certification_courses",
+    "json_file_path": "data/bachelor_music_woodwinds_brass_percussion_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_music_composition_courses",
+    "json_file_path": "data/bachelor_music_music_composition_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_music_music_technology_courses",
+    "json_file_path": "data/bachelor_music_music_technology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_performance_guitar_courses",
+    "json_file_path": "data/bachelor_performance_guitar_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_performance_piano_courses",
+    "json_file_path": "data/bachelor_performance_piano_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_performance_string_courses",
+    "json_file_path": "data/bachelor_performance_string_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_performance_voice_courses",
+    "json_file_path": "data/bachelor_performance_voice_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_performance_woodwinds_brass_percussion_courses",
+    "json_file_path": "data/bachelor_performance_woodwinds_brass_percussion_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_theatre_design_technical_courses",
+    "json_file_path": "data/bachelor_theatre_design_technical_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_theatre_film_production_courses",
+    "json_file_path": "data/bachelor_theatre_film_production_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_theatre_performance_courses",
+    "json_file_path": "data/bachelor_theatre_performance_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_theatre_teacher_certification_courses",
+    "json_file_path": "data/bachelor_theatre_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_visual_communication_design_courses",
+    "json_file_path": "data/bachelor_visual_communication_design_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_anthropology_archaeology_courses",
+    "json_file_path": "data/bachelor_anthropology_archaeology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_anthropology_global_health_and_migration_courses",
+    "json_file_path": "data/bachelor_anthropology_global_health_and_migration_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_anthropology_courses",
+    "json_file_path": "data/bachelor_anthropology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_criminal_justice_courses",
+    "json_file_path": "data/bachelor_criminal_justice_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_communication_studies_courses",
+    "json_file_path": "data/bachelor_communication_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_english_rhetoric_composition_literacy_studies_courses",
+    "json_file_path": "data/bachelor_english_rhetoric_composition_literacy_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_english_language_arts_courses",
+    "json_file_path": "data/bachelor_english_language_arts_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_english_creative_writing_courses",
+    "json_file_path": "data/bachelor_english_creative_writing_course.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_english_teacher_certification_seventh_twelfth_courses",
+    "json_file_path": "data/bachelor_english_teacher_certification_seventh_twelfth_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_history_courses",
+    "json_file_path": "data/bachelor_history_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_history_teacher_certification_courses",
+    "json_file_path": "data/bachelor_history_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_human_dimensions_organizations_courses",
+    "json_file_path": "data/bachelor_human_dimensions_organizations_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mass_communication_advertising_and_public_relations_courses",
+    "json_file_path": "data/bachelor_mass_communication_advertising_and_public_relations_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mass_communication_broadcast_courses",
+    "json_file_path": "data/bachelor_mass_communication_broadcast_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mass_communication_print_journalism_courses",
+    "json_file_path": "data/bachelor_mass_communication_print_journalism_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_medical_and_health_humanities_courses",
+    "json_file_path": "data/bachelor_medical_and_health_humanities_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_multidisciplinary_studies_courses",
+    "json_file_path": "data/bachelor_multidisciplinary_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_mexican_american_studies_courses",
+    "json_file_path": "data/bachelor_mexican_american_studies_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_philosophy_courses",
+    "json_file_path": "data/bachelor_philosophy_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_philosophy_pre_law_courses",
+    "json_file_path": "data/bachelor_philosophy_pre_law_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_public_heritage_community_engagement_bilingual_bicultural_border_heritage_courses",
+    "json_file_path": "data/bachelor_public_heritage_community_engagement_bilingual_bicultural_border_heritage_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_public_heritage_community_engagement_cultural_and_natural_landscapes_courses",
+    "json_file_path": "data/bachelor_public_heritage_community_engagement_cultural_and_natural_landscapes_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_psychology_courses",
+    "json_file_path": "data/bachelor_psychology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_political_science_courses",
+    "json_file_path": "data/bachelor_political_science_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_social_studies_composite_courses",
+    "json_file_path": "data/bachelor_social_studies_composite_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_social_studies_composite_teacher_certification_courses",
+    "json_file_path": "data/bachelor_social_studies_composite_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_sociology_courses",
+    "json_file_path": "data/bachelor_sociology_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_spanish_courses",
+    "json_file_path": "data/bachelor_spanish_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_spanish_teacher_certification_courses",
+    "json_file_path": "data/bachelor_spanish_teacher_certification_courses.json",
+    "bulk_insert": false
+  },
+  {
+    "collection_name": "bachelor_spanish_translation_interpreting_courses",
+    "json_file_path": "data/bachelor_spanish_translation_interpreting_courses.json",
+    "bulk_insert": false
+  }
+]

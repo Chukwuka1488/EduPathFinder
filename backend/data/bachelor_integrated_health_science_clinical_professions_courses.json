@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Integrated Health Science - Clinical Professions",
+      "program": "Integrated Health Science - Clinical Professions",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGL 1301",
+                  "title": "Rhetoric and Composition I (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HIST 1301",
+                  "title": "U.S. History I (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1342 or MATH 1343",
+                  "title": "Elementary Statistics or Introduction to Biostatistics (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2401",
+                  "title": "Anatomy and Physiology I (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGL 1302",
+                  "title": "Rhetoric and Composition II (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "A grade of 'C' or better in ENGL 1301",
+                  "notes": "See General Education Core for more details or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HIST 1302",
+                  "title": "U.S History II (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2402",
+                  "title": "Anatomy and Physiology II (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "BIOL 2401",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "INHS 1301",
+                  "title": "Introduction to Health Science & Professions",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1311",
+                  "title": "General Chemistry I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 1388, MATH 2412, MATH 2413, or MATH 2487 with a grade of C or higher.",
+                  "notes": "Support Course"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1111",
+                  "title": "General Chemistry I Lab",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "INHS 2301",
+                  "title": "The Practice of Health Science",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy, Culture (LPC)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HRPT 2303",
+                  "title": "Medical Terminology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Support Course"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "NUTR 2351",
+                  "title": "Introduction to Clinical Nutrition",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Support Course"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative & Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 3301",
+                  "title": "Introduction to the Evolving Healthcare System",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 3302",
+                  "title": "Medical Law/Ethics for the Health Professional",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 3309",
+                  "title": "Leading and Managing the Healthcare Team",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 3320",
+                  "title": "Patient Education in Health Sciences",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1314",
+                  "title": "College Algebra",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "College Ready TSI status in Mathematics",
+                  "notes": "Support Course"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 3324",
+                  "title": "Teaching in the Health Sciences",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 2301",
+                  "title": "General Psychology",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 4312",
+                  "title": "Applied Pathophysiology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "BIOL 1406 or BIOL 2401, or permission of the instructor.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 4334",
+                  "title": "Issues and Trends in Health Care",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 4305",
+                  "title": "Public Health Concepts",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 4301",
+                  "title": "Introduction to Health Data Utilization",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "HPRS 4302",
+                  "title": "Continuous Quality Improvement",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Clinical Profession Concentration Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

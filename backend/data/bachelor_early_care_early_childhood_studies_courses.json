@@ -1,0 +1,442 @@
+[
+  {
+    "department": "Early Care and Early Childhood Studies",
+    "program": "Early Care and Early Childhood Studies",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences (Core)",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative and Experiential Learning",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "May apply pending course selection",
+                "notes": "See General Education Core for course options. 1 hour of lab for Core 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "May apply pending course selection",
+                "notes": "See General Education Core for course options. 1 hour of lab for Core 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative and Experiential Learning",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SPED 4310",
+                "title": "Inclusion and differentiated Instruction",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to Teacher Prep if education major. No prereq if non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPED 3390",
+                "title": "Intro to Exceptional Children",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SPED 4395",
+                "title": "Special Education Practicum",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to Teacher Prep if education major. No prereq if non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "XXXX X3XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              }
+            ]
+          },
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ECED 3310",
+                "title": "Quality Programs for Infants & Toddlers",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EPSY 3331",
+                "title": "Human Dev & Stud Learning",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the College of Education EC-6 Teacher Education Program.",
+                "notes": "See degree plan for recommended options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4312",
+                "title": "Administration of Child Development Centers",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EPSY 3332",
+                "title": "Working with Families",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See degree plan for recommended options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4315",
+                "title": "Linguistically-Diverse Early Childhood Students",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4391",
+                "title": "Foundations of Early Childhood Education",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the COE Teacher Preparation Program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4392",
+                "title": "Guidance of Young Children",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the COE Teacher Preparation Program.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4395",
+                "title": "STEAM for Young Children",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPED 4310",
+                "title": "Inclusion and Differentiated Instruction in Special Education",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to Teacher Prep if education major. No prereq if non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "SPED 4395",
+                "title": "Special Education Practicum in Behavior Techniques",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program. No prerequisite if non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 3307",
+                "title": "Knowledge and Skills of Preschool Teachers",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4314",
+                "title": "Dynamics of Play and Play Environments in Childhood",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4394",
+                "title": "Principles of Curriculum Design in Early Childhood",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to CEP Educator Preparation Program or consent of instructor for non-education major.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECED 4380",
+                "title": "Field Experience Childhood Settings",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Approval of program coordinator.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

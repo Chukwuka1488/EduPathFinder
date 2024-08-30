@@ -1,0 +1,473 @@
+[
+  {
+    "department": "Computer Engineering",
+    "program": "Computer Engineering",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See Core Curriculum for details. Option: ENGL 1301."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "MATH 2413",
+                "title": "Calculus I",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "EECE 1101",
+                "title": "Introduction to Electrical and Computer Engineering",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative and Experiential Learning (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "Complete three credit hours from the approved area, except PHIL 2326, in addition to three science labs."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See Core Curriculum for details. Options: ENGL 1302 or ENGL 1305."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "MATH 2414",
+                "title": "Calculus II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "CSCI 1470",
+                "title": "Computer Science I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade 'C' or better in any of the following; MATH 1314, MATH 1414 or placement in a higher level Math courses (MATH 2412, MATH 2413) and credit for or concurrent enrollment in CSCI 1101 or CMPE 1101 or EECE 1101.",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "PHYS 2425",
+                "title": "Physics for Scientists and Engineers I",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "MATH 2413.",
+                "notes": "1 hour (lab) applied to Core 090. See Core Curriculum for details."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MATH 2346",
+                "title": "Mathematics for Electrical and Computer Engineers",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "CSCI 1381 or CMPE 1170/1370 (or CMPE 1378/1178) or CSCI 1470 with a grade of 'C' or better, and MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "EECE 2146",
+                "title": "Practicum of Mathematics for Electrical and Computer Engineering",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better or registration in Math 2346.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "CSCI 2380",
+                "title": "Computer Science II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in: CSCI 1470 or CSCI 1390 or [ [CSCI 1370 or CMPE 1370] and [CSCI 1170 or CMPE 1170] ].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences (Core)",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See Core Curriculum for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See Core Curriculum. Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 2306",
+                "title": "Digital Systems Engineering I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better or registration in CMPE 1101 or ELEE 1101 or CSCI 1101 or EECE 1101.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "EECE 2106",
+                "title": "Digital Systems Engineering I Lab",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better or registration in [CMPE 2330 or ELEE 2330 or EECE 2306].",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "CSCI 3333",
+                "title": "Algorithms and Data Structures",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in: [CSCI 3310 or MATH 2346 or MATH 2305] and [CSCI 2380 or CMPE 2380].",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "PHYS 2426",
+                "title": "Physics for Scientists and Engineers II",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "PHYS 2425 and MATH 2414.",
+                "notes": "1 hour (lab) applied to Core 090. See Core Curriculum for details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 2305",
+                "title": "Electric Circuits I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in MATH 2414 and [CMPE 1101 or ELEE 1101 or EECE 1101] and a grade of C or better or registration in PHYS 2426.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "EECE 2105",
+                "title": "Electric Circuits I Lab",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better or registration in [CMPE 2320 or ELEE 2305 or EECE 2305].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "CHEM 1309",
+                "title": "Chemistry for Engineers",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C is required in one of the following courses: MATH 1314, MATH 1414, MATH 2412, MATH 2413 or MATH 2487.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "CHEM 1109",
+                "title": "Chemistry for Engineers Lab",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "Credit/registration in CHEM 1309.",
+                "notes": "1 hour (lab) applied to Core 090."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "CSCI 3340",
+                "title": "Software Engineering I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in: [3 advanced hours in CSCI or CMPE or EECE] and [CSCI 2380 or CMPE 2380].",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "EECE 3435",
+                "title": "Microprocessor Systems",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in [ELEE 2330 or CMPE 2330 or EECE 2306] and [CSCI 1370 or CSCI 1380 or CSCI 1387 or CSCI 1470].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 3341",
+                "title": "Differential Equations",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "CSCI 3334",
+                "title": "Systems Programming",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in: [CSCI 2380 or CMPE 2380] and [CSCI 2333 or CMPE 2333 or ELEE 3435 or CMPE 3437 or EECE 3435].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 3301",
+                "title": "Electronics I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [CMPE 2320 or ELEE 2305 or EECE 2305] and [CMPE 2120 or ELEE 2105 or EECE 2105].",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "EECE 3331",
+                "title": "Microcontroller and Embedded Systems Lab",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [CMPE 3437 or ELEE 3435 or EECE 3435] or CSCI 2333 or CMPE 2333.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PHIL 2326",
+                "title": "Ethics, Technology, and Society",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective from Approved List",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites differ between course options.",
+                "notes": "Options: EECE 3225, EECE 3321, EECE 4375, EECE 4390, [only one from CSCI 3326, CSCI 3328, or CSCI 3329], CSCI 3341, or CSCI 4333."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective from Approved List",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites differ between course options.",
+                "notes": "Options: EECE 3225, EECE 3321, EECE 4375, EECE 4390, [only one from CSCI 3326, CSCI 3328, or CSCI 3329], CSCI 3341, or CSCI 4333."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 3340",
+                "title": "Probability and Statistics for Electrical and Computer Engineers",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in MATH 2414.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 4303",
+                "title": "Digital Systems Engineering II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [ELEE 2330 or CMPE 2330 or EECE 2306].",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "EECE 4380",
+                "title": "Computer Architecture",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [ELEE 3435 or CMPE 3437 or EECE 3435 or CSCI 2333 or CMPE 2333] and [ELEE 4303 or EECE 4303 or CMPE 4303].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See Core Curriculum. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective - Advanced EECE or CSCI",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Any EECE/CSCI 4000-level course not used to satisfy any other requirement and not equivalent or similar to any other course satisfying any requirement. Must be approved by faculty adviser."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective from Approved List",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites differ between course options.",
+                "notes": "Options: EECE 3225, EECE 3321, EECE 4375, EECE 4390, [only one from CSCI 3326, CSCI 3328, or CSCI 3329], CSCI 3341, or CSCI 4333."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 4361",
+                "title": "Senior Design I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [ELEE 3435 or CMPE 3437 or EECE 3435 or CSCI 2333 or CMPE 2333] and [CMPE 3403 or ELEE 3301 or EECE 3301] and [STAT 3337 or CMPE 3343 or ELEE 3340 or EECE 3340 or EECE 3230 or ELEE 3230] and [CMPE 3340 or CSCI 3340 or EECE 3230 or ELEE 3230] and [having finished with a grade of C or better or be enrolled in at least 6 credits of 4000-level EECE coursework].",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See Core Curriculum for course options."
+              },
+              {
+                "hours": 2,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective from Approved List",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites differ between course options.",
+                "notes": "Options: EECE 3225, EECE 3321, EECE 4375, EECE 4390, [only one from CSCI 3326, CSCI 3328, or CSCI 3329], CSCI 3341, or CSCI 4333."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "CSCI 4334",
+                "title": "Operating Systems",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in: [CSCI 2380 or CMPE 2380] and [CSCI 2333 or CMPE 2333 or ELEE 3435 or CMPE 3437 or EECE 3435].",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Prescribed Elective - Advanced EECE or CSCI",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Any EECE/CSCI 4000-level course not used to satisfy any other requirement and not equivalent or similar to any other course satisfying any requirement. Must be approved by faculty adviser."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EECE 4362",
+                "title": "Senior Design II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in [EECE 4361 or ELEE 4361] or CMPE 4371 or CMPE 4373.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

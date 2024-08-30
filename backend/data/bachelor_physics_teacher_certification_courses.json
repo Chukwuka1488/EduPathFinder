@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Physics (Teacher Certification)",
+      "program": "Physics (Teacher Certification)",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 1311",
+                  "title": "Learning to be a Physicist",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 1101",
+                  "title": "Inquiry Approaches to Teaching",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Must be in a College of Sciences major.",
+                  "notes": "A criminal background check will be required, and a tuberculosis test may be required before the first field experience. Special permission from a UTeach co-director is required to enroll in UTCH 1101 and UTCH 1102 concurrently."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2425",
+                  "title": "Physics for Scientists and Engineers I",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "MATH 2413.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 1102",
+                  "title": "Inquiry-Based Lesson Design",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 1101 with a grade of 'C' or better.",
+                  "notes": "Students will begin developing their UTeach Portfolio. May be taken concurrently with UTCH 3301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 1380",
+                  "title": "Computer Science I",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Concurrent enrollment or credit for MATH 1314 or higher level mathematics course.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2415",
+                  "title": "Calculus III",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2426",
+                  "title": "Physics for Scientists and Engineers II",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "PHYS 2425 and MATH 2414.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 2327",
+                  "title": "Physics for Scientists and Engineers III",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2425 (or PHYS 2411). Students may take this course concurrently with PHYS 2426.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 3341",
+                  "title": "Differential Equations",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 3402",
+                  "title": "Modern Physics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2426 (or PHYS 2412) and PHYS 2327 (or PHYS 2313).",
+                  "notes": "Physics core requirement. Only offered in the Spring Semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3301",
+                  "title": "Knowing and Learning in Mathematics and Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 1101 and UTCH 1102 with a grade of 'C' or better or concurrent enrollment with UTCH 1102.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3303",
+                  "title": "Thermodynamics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and PHYS 2426 and PHYS 2327.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "BIOL 4392",
+                  "title": "Research Methods in the Science and Mathematics Classroom (UTEACH) or Research Methods in Middle and Secondary School Math",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in the following: BIOL 1406, BIOL 1407; or CHEM 1111, CHEM 1112, CHEM 1311, CHEM 1312; or MATH 1314 or MATH 1414; or PHYS 1401, PHYS 1402 or PHYS 2425, PHYS 2426 or PHYS 2411, PHYS 2412; and UTCH 1101, UTCH 1102 or consent of instructor.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 3411",
+                  "title": "Math Methods in Physics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 3341.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3305",
+                  "title": "Classical Mechanics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 2426 and MATH 2415.",
+                  "notes": "Physics core requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3302",
+                  "title": "Classroom Interactions",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "(a) An institutional grade point average of at least 2.75, (b) UTCH 1102 with a grade of 'C' or better, (c) UTCH 3301 with a grade of 'C' or better, and (d) admission to the Teacher Education Program.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4305",
+                  "title": "Statistical Mechanics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3303 and [PHYS 3411 or PHYS 3311].",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "PHYS 4101",
+                  "title": "Laboratory Research",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Consent of instructor.",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3304",
+                  "title": "Optics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and PHYS 2426 (or PHYS 2412) and PHYS 2327 (or PHYS 2313).",
+                  "notes": "Physics core requirement. Only offered in the Spring Semester."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "READ 4305",
+                  "title": "Disciplinary Literacy in the Classrooms",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4303",
+                  "title": "Quantum Mechanics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 3305 and [PHYS 3411 or PHYS 3311].",
+                  "notes": "Physics core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHIL 3317",
+                  "title": "Perspective in Science and Mathematics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit of 'C' or better or registration in UTCH 3302.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3303",
+                  "title": "Project-Based Instruction",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 3302 with a grade of 'C' or better. Must be officially admitted to the Educator Preparation Program.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 4300",
+                  "title": "Undergraduate Research Project",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Senior standing in the Physics Degree Program and consent of a supervising faculty member.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHYS 3301",
+                  "title": "Electromagnetic Theory I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and either PHYS 2426 or PHYS 2412.",
+                  "notes": "Physics core requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 4101",
+                  "title": "Apprentice Teaching Seminar",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 3303 with a grade of 'C' or better.",
+                  "notes": "UTeach requirement."
+                },
+                {
+                  "hours": 6,
+                  "courseNumber": "UTCH 4601",
+                  "title": "Apprentice Teaching",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 3303 with a grade of 'C' or better.",
+                  "notes": "UTeach requirement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

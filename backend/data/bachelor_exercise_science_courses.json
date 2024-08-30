@@ -1,0 +1,456 @@
+[
+    {
+      "department": "Exercise Science",
+      "program": "Exercise Science",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2401",
+                  "title": "Anatomy and Physiology I (Core)",
+                  "minGrade": "B",
+                  "gec": "030/090",
+                  "prerequisite": "",
+                  "notes": "Priority course for major sequence. A minimum grade of 'B' to enter the Exercise Program."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1342 or MATH 1343",
+                  "title": "Elementary Statistical Methods or Introduction to Biostatistics (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2402",
+                  "title": "Anatomy and Physiology II (Core)",
+                  "minGrade": "B",
+                  "gec": "030/090",
+                  "prerequisite": "BIOL 2401.",
+                  "notes": "Priority course for major sequence. A minimum grade of 'B' to enter the Exercise Program."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 1351",
+                  "title": "Introduction to Sports and Exercise Science",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 2301",
+                  "title": "General Psychology (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative and Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative and Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 3370",
+                  "title": "Biomechanics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'B' or better in BIOL 2401 and BIOL 2402.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 3353",
+                  "title": "Physiology of Exercise I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'B' or better in BIOL 2401 and BIOL 2402.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "KINE 3153",
+                  "title": "Physiology of Exercise Lab I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'B' or better in BIOL 2401 and BIOL 2402. Corequisite: KINE 3353.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 3360",
+                  "title": "Exercise Testing and Prescription",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in KINE 3153 and KINE 3353",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "KINE 3160",
+                  "title": "Exercise Testing and Prescription Lab",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in KINE 3153 and KINE 3353",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4375",
+                  "title": "Motor Learning",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'B' or better in BIOL 2401 and BIOL 2402.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4353",
+                  "title": "Physiology of Exercise II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "KINE 3353 and KINE 3153.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "NUTR 2351",
+                  "title": "Introduction to Clinical Nutrition",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 3365",
+                  "title": "Physiology and Techniques of Strength/Power Fitness",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in KINE 3353, KINE 3370.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "KINE 3165",
+                  "title": "Physiology and Techniques of Strength/Power Fitness Lab",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "KINE 3353 and KINE 3370.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4351",
+                  "title": "Adapted Kinesiology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Junior or senior standing.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4310",
+                  "title": "Measurement Techniques in Physical Education and Sport",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Junior or senior standing and MATH 1342 or MATH 1343.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4380",
+                  "title": "Exercise Science Internship",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in KINE 3360 and KINE 3160.",
+                  "notes": "Capstone course. The internship class must be taken during the last semester in the completion of the degree program with a 12-credit hour limitation."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "KINE 4360",
+                  "title": "Clinical Exercise Physiology",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in KINE 3360 and KINE 3160.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

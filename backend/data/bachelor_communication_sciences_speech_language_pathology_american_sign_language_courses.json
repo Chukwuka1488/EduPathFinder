@@ -1,0 +1,442 @@
+[
+  {
+    "department": "Communication Sciences and Disorders (Speech Language Pathology Concentration (American Sign Language Minor))",
+    "program": "Communication Sciences and Disorders (Speech Language Pathology Concentration (American Sign Language Minor))",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1301."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 1310",
+                "title": "American Sign Language I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 1310."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1342",
+                "title": "Elementary Statistical Methods",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "A 'C' or better in MATH 1342."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "Learning Framework, Academic and Career Success, Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 1320",
+                "title": "American Sign Language II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ASLI 1310 or COMD 1310 or departmental approval.",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 1320."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative and Experiential Learning (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "BIOL 1406 or BIOL 1407 or BIOL 2401 or BIOL 2402",
+                "title": "General Biology I or General Biology II or Anatomy and Physiology I or Anatomy and Physiology II (Core)",
+                "minGrade": "C",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "BIOL 2401 is recommended. A 'C' or better in BIOL 1406 or BIOL 1407 or BIOL 2401 or BIOL 2402."
+              }
+            ]
+          },
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Government & Politics (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 2310",
+                "title": "American Sign Language III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ASLI 1320.",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 2310."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 4,
+                "courseNumber": "PHYS 1401 or CHEM 1311 & CHEM 1111",
+                "title": "General Physics I or General Chemistry I (Core)",
+                "minGrade": "C",
+                "gec": "030",
+                "prerequisite": "PHYS 1401: MATH 1414, MATH 1314, MATH 2412, or MATH 2413. CHEM 1311: MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 1388, MATH 2412, MATH 2413, or MATH 2487 with a grade of C or higher.",
+                "notes": "CHEM 1311 must be taken with CHEM lab. A 'C' or better in PHYS 1401 or CHEM 1311 & CHEM 1111."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 3310",
+                "title": "American Sign Language IV",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ASLI 2310.",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 3310."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative and Experiential Learning (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 3323",
+                "title": "Foundations of Deaf Culture",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ASLI 1310.",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 3323."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 2301",
+                "title": "General Psychology (Core)",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ASLI 3320",
+                "title": "American Sign Language V",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ASLI 3310.",
+                "notes": "Satisfies Minor-Specific Requirement. A 'C' or better in ASLI 3320."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HRPT 2303",
+                "title": "Medical Terminology",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "REHS 3320",
+                "title": "Family and Disability",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3320",
+                "title": "Phonetics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Formal acceptance to COMD Program.",
+                "notes": "Admission requirements (See Department)."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 2310",
+                "title": "Introduction to Speech-Language-Hearing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "This course may be taken prior to formal acceptance to the COMD program. Student must obtain a 'C' or better in COMD 2310."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3315",
+                "title": "Anatomy and Physiology of the Speech and Hearing Mechanism",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Formal acceptance to COMD Program.",
+                "notes": "Admission requirements (See Department)."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3330",
+                "title": "Articulation Development",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Formal acceptance to COMD Program.",
+                "notes": "Admission requirements (See Department)."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3310",
+                "title": "Normal Language Development",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3315, COMD 3320, and COMD 3330. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3320, AUDI 3305, and AUDI 3325.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3340",
+                "title": "Introduction to Audiology",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3315, COMD 3320, and COMD 3330. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3320, AUDI 3305 and AUDI 3325.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3355",
+                "title": "Survey of Neurological Disorders",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "C' or better in COMD 2310, COMD 3320, COMD 3315; and COMD 3330.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 3360",
+                "title": "Neuroanatomy and Physiology for Speech, Language, and Hearing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3315, COMD 3320, and COMD 3330. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3320, AUDI 3305, and AUDI 3325.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4310",
+                "title": "Behavior Management for Audiology & SLP",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, and COMD 3360. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3320, COMD 3340, COMD 3360, AUDI 3305, AUDI 3325 and AUDI 3345.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4330",
+                "title": "Aural (Re)Habilitation",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355 and COMD 3360. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3320, COMD 3340, COMD 3360, AUDI 3305, AUDI 3325 and AUDI 3345.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4360",
+                "title": "Language Disorders in Children",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, and COMD 3360. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3320, COMD 3340, COMD 3360, AUDI 3305, AUDI 3325, and AUDI 3345.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4365",
+                "title": "Speech Disorders",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students in the Speech-Pathology Concentration: Grade of C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, and COMD 3360. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3320, COMD 3340, COMD 3360, AUDI 3305, AUDI 3325, and AUDI 3345.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4340",
+                "title": "Speech and Hearing Sciences",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "For students on the Speech Pathology Concentration: Grade of C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, COMD 3360, COMD 4310, COMD 4330, COMD 4360, and COMD 4365. For students in the Audiology Concentration: Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3320, COMD 3340, COMD 3360, COMD 4310, COMD 4330, COMD 4360, AUDI 3305, AUDI 3325, AUDI 3345, and AUDI 4355.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4350",
+                "title": "Clinical Applications",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, COMD 3360, COMD 4310, COMD 4330, COMD 4360, and COMD 4365.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4370",
+                "title": "Professional Report Writing in Speech-Language Pathology",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, COMD 3360, COMD 4310, COMD 4330, COMD 4360, and COMD 4365.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4380",
+                "title": "Clinical Problem-Solving",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, COMD 3360, COMD 4310, COMD 4330, COMD 4360, and COMD 4365.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "COMD 4390",
+                "title": "Principles in Assessment of Speech-Language Pathology",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in COMD 2310, COMD 3310, COMD 3315, COMD 3320, COMD 3330, COMD 3340, COMD 3355, COMD 3360, COMD 4310, COMD 4330, COMD 4360, and COMD 4365.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,447 @@
+[
+    {
+      "department": "Engineering Technology",
+      "program": "Engineering Technology",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on ENGL portion of ACT test or TSI reading/writing exams or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301 or ENGL 1305"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "ENGT 1201",
+                  "title": "Foundations of Engineering Technology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 1310",
+                  "title": "Design Graphics I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1311 or 1309",
+                  "title": "General Chemistry I (Core)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 2412, or MATH 2413 with a grade of 'C' or higher.",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1111 or 1109",
+                  "title": "General Chemistry I Lab (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Credit/Registration in CHEM 1301",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Only if required, based on ACT/SAT and high school rank."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 1320",
+                  "title": "Design Graphics II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1310.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1401 or PHYS 2425",
+                  "title": "General Physics I/Lab I or Physics for Scientists and Engineers I",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "PHYS 1401: MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 2412, or MATH 2413 with a grade of 'C' or higher. PHYS 2425: MATH 2413.",
+                  "notes": "1 hour of lab to count for 090 Core"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 2307",
+                  "title": "Engineering Materials",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 1311 or CHEM 1309.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 1,
+                  "courseNumber": "ENGT 1105",
+                  "title": "Machine Shop Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1310",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3332",
+                  "title": "Engineering Statistics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 and credit for or enrollment in MATH 2414.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1402 or PHYS 2426",
+                  "title": "General Physics II or Physics for Scientists and Engineers II",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "PHYS 1402: PHYS 1401. PHYS 2426: PHYS 2425 and MATH 2414.",
+                  "notes": "1 hour of lab to count for 090 Core"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 2310",
+                  "title": "Manufacturing Processes",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 2307.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "",
+                  "gec": "010",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 1380",
+                  "title": "Introduction to Programming in Python",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Concurrent enrollment or credit for MATH 1314 or higher level mathematics course.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 2321",
+                  "title": "Industrial Electronics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 1402 or 2426 and MATH 2413.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3313",
+                  "title": "Intro to Systems Engineering",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in CSCI 1380 and MANE 3332.",
+                  "notes": "Substitute by ENGT-3300-02/B Topics in ET: Applied Mechanics. Pre-req PHYS 1402"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "Options: ECON 1301 Introduction to Economics"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3301",
+                  "title": "Computer Numerical Control",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1105, ENGT 1320, ENGT 2307.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3318",
+                  "title": "Instruments and Transducers",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in ENGT 2321.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3310",
+                  "title": "Fundamentals of Product Design",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1320 and ENGT 2310.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3315",
+                  "title": "Fluid Power Systems",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1310, ENGT 2321 and PHYS 2426 or PHYS 1402.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 4310",
+                  "title": "System Simulation and Optimization",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 3313.",
+                  "notes": "Substitute by ENGT-3300-03/C Topics in ET: Machine Design. Pre-req Applied Mechanics"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3337",
+                  "title": "Engineering Economics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in MANE 2332 or MANE 3332.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3300 or ENGT 3321",
+                  "title": "Topics in Engineering Technology or Solar Energy Systems",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 3300: Consent of instructor. ENGT 3321: ENGT 2321",
+                  "notes": "ENGT 3300-01/A Motors and Transformers"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3324",
+                  "title": "Metrology",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 1105, ENGT 1320, MANE 3332, ENGT 3301.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3303",
+                  "title": "Prog. Logic Controllers",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 2321.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "US Federal Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 4322",
+                  "title": "Mechatronic Systems Design",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 3310.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "ENGT 4201",
+                  "title": "Technical Project I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 3310, ENGT 3303, credit for/enrollment in ENGT 3318",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 4335",
+                  "title": "Project Management",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MANE 3337, ENGT 3324 and credit for or enrollment in ENGT 4201.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 3305 or ENGT 3105",
+                  "title": "Full Semester Co-op or Internship/Part-time Internship or Research",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "ENGT 3105 may be repeated for credit"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 4315",
+                  "title": "Robotics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 3303.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHIL 2326",
+                  "title": "Ethics, Technology and Society (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "ENGT 4202",
+                  "title": "Technical Project II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ENGT 2310, ENGT 3303, and credit for or enrollment in ENGT 3318.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGT 4326",
+                  "title": "Quality Control & Lean Six Sigma",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MANE 3332.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

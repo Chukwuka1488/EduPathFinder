@@ -1,0 +1,501 @@
+[
+    {
+      "department": "Dance - Mexican Dance",
+      "program": "Dance - Mexican Dance",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 1351",
+                  "title": "Introduction to Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Required course for Dance majors. Not required for Dance minors. Only offered Fall."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 2349",
+                  "title": "Foundations in Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 2246 or DANC 2341",
+                  "title": "Foundations in Contemporary Dance or Ballet Foundations",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options. Additional Dance Technique. Recommended: Foundations in Contemporary Dance 2 SCH or Ballet Foundations 3 SCH."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options. MATH 1314 or higher recommended."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 1202",
+                  "title": "Dance Improvisation",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Credit or registration in DANC 2246, DANC 2345, DANC 3246, DANC 3345, DANC 4246, or DANC 4345.",
+                  "notes": "Satisfies Major-Specific Requirement. Please note students must meet a prerequisite or co-requisite of a Contemporary Dance technique course. Only offered Spring."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 2345 or DANC 2242",
+                  "title": "Foundations in Contemporary Dance or Ballet Foundations",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options. Consult with faculty advisor."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 2250",
+                  "title": "Foundations in Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2401",
+                  "title": "Anatomy and Physiology I",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "1 hour of lab for Core 090."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 3246 or DANC 3341",
+                  "title": "Intermediate Contemporary Dance or Intermediate Ballet",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree plan for course options. Choose one from Contemporary Dance and Ballet Technique. Recommended: Intermediate Contemporary Dance or Intermediate Ballet."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3349",
+                  "title": "Intermediate Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 2250 and DANC 2349 or consent of instructor.",
+                  "notes": "Consult with faculty advisor"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 2303",
+                  "title": "Music for Dancers",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Fall."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 2112 or DANC 3112",
+                  "title": "Dance Performance: Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "Must not be DANC 2323 Dance Appreciation. See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MUSI 1309",
+                  "title": "World Music Cultures",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Core requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3303",
+                  "title": "Mexican Dance History",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Spring of odd years."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 2402",
+                  "title": "Anatomy and Physiology II",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "BIOL 2401.",
+                  "notes": "1 hour of lab for Core 090."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 3250",
+                  "title": "Intermediate Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 2250 and DANC 2349 or consent of instructor",
+                  "notes": "Consult with faculty advisor"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 2112 or DANC 3112",
+                  "title": "Dance Performance: Beginning/Intermediate or Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3301",
+                  "title": "Choreography I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 1202.",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Fall."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3308",
+                  "title": "Dance History",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Offered Fall (ODD Years)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 4349",
+                  "title": "Advanced Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 3250 and DANC 3349 or consent of instructor.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 3112",
+                  "title": "Dance Performance: Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experimental Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3311",
+                  "title": "Dance Production",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Spring."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3304",
+                  "title": "Choreography II (Mexican Folklorico Dance)",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 3301.",
+                  "notes": "Only offered Spring of (Even years)."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 4250",
+                  "title": "Advanced Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 3250 and DANC 3349 or consent of instructor.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 3112",
+                  "title": "Dance Performance: Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experimental Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3313",
+                  "title": "World Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Fall."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 3320",
+                  "title": "Dance Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "BIOL 2401 and BIOL 2402.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered only Fall (EVEN years)."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 3121",
+                  "title": "Dance Science Lab",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "BIOL 2401 and BIOL 2402.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered only Fall (EVEN years)."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 4302",
+                  "title": "Senior Project (Capstone)",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in DANC 3302.",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Fall."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 2XXX-4XXX",
+                  "title": "Additional Dance Technique",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 3112",
+                  "title": "Dance Performance: Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 2,
+                  "courseNumber": "DANC 4250",
+                  "title": "Advanced Mexican Folklorico Dance",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 4309",
+                  "title": "Dance Theory",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'B' or better in DANC 3242, DANC 3244, DANC 3246, DANC 3341, DANC 3345, DANC 4242, DANC 4246, DANC 4341, or DANC 4345.",
+                  "notes": "Satisfies Major-Specific Requirement. Only offered Spring."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "DANC 23XX-43XX",
+                  "title": "Additional Dance Technique",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See degree plan for course options. Consult with faculty advisor."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "DANC 3112",
+                  "title": "Dance Performance: Intermediate/Advanced",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Must be registered concurrently in any dance technique course."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

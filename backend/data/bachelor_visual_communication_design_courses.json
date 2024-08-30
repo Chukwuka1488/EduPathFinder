@@ -1,0 +1,447 @@
+[
+  {
+    "department": "Visual Communication Design",
+    "program": "Visual Communication Design",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options. MATH 1314 or higher recommended."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1311",
+                "title": "2D Foundations",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1316",
+                "title": "Drawing I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core. Options: HIST 1302 or HIST 2328"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1312",
+                "title": "3D Foundations",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 2333",
+                "title": "Printmaking I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1303 or 1304",
+                "title": "Art History I or Art History II",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "Satisfies General Education Core and Major-Specific Requirement"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 2313",
+                "title": "Design Communications I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Students in the BFA in Visual Communication Design (or BFA in Graphic Design) must complete ARTS 1311 and ARTS 1312 with a Grade of C or better.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1317",
+                "title": "Drawing II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1303 or 1304",
+                "title": "Art History I or Art History II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "ARTS 1303 and ARTS 1304 must both be completed. One will be applied to the core curriculum, the other to the major requirements."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 2314",
+                "title": "Design Communications II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 2313.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 2356",
+                "title": "Photography I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement. Student must provide own 35mm camera."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "semester": "Summer",
+        "courses": [
+          {
+            "hours": 3,
+            "courseNumber": "ARTS 2363",
+            "title": "Typography I",
+            "minGrade": "C",
+            "gec": "",
+            "prerequisite": "Grade of 'C' or better in ARTS 2313 and ARTS 2314.",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 2331",
+                "title": "Visual Communication Design I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 2363 and ARTS 2356.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 3354",
+                "title": "History of Graphic Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree plan for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 3333",
+                "title": "Print Design and PrePress",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better ARTS 2331 or ARTS 3331.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 3330",
+                "title": "Image and Illustration",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 4338",
+                "title": "Interactive Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in [ARTS 2331 or ARTS 3331].",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 3337",
+                "title": "Typography II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 2331 or ARTS 3331.",
+                "notes": "See Degree plan for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "semester": "Summer",
+        "courses": [
+          {
+            "hours": 3,
+            "courseNumber": "ARTS 4333",
+            "title": "Visual Communication Design II",
+            "minGrade": "C",
+            "gec": "",
+            "prerequisite": "Grade of 'C' or better in ARTS 3330 and ARTS 3333.",
+            "notes": "Satisfies Major-Specific Requirement."
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 4334",
+                "title": "Visual Communication Design III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 4333.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 4330",
+                "title": "Animation 2D",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in [ARTS 2331 or ARTS 3331].",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree plan for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 43XX",
+                "title": "Prescribed Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "See Degree plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 4339",
+                "title": "Portfolio for Visual Communication Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 4334.",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 4396",
+                "title": "BFA Visual Communication Design (Capstone)",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in ARTS 4334 and senior standing.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

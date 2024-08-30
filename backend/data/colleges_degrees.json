@@ -1,0 +1,1370 @@
+[
+  {
+    "course": "Accountancy (BBA)",
+    "degree": "Bachelor of Business Administration in Accounting",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-accountancy-courses"
+  },
+  {
+    "course": "Accountancy (MACC)",
+    "degree": "Master of Accountancy",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "master-accountancy-courses"
+  },
+  {
+    "course": "Addiction Studies (BS)",
+    "degree": "Bachelor of Science in Addiction Studies",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-addiction-studies-courses"
+  },
+  {
+    "course": "Agricultural, Environmental, and Sustainability Sciences (MS)",
+    "degree": "Master of Science in Agricultural, Environmental, and Sustainability Sciences",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-agricultural-environmental-sustainability-sciences-courses"
+  },
+  {
+    "course": "American Sign Language and Interpretation (BS - Communication Studies)",
+    "degree": "Bachelor of Science in American Sign Language and Interpretation (Communication Studies)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-american-sign-language-interpretation-communication-studies-courses"
+  },
+  {
+    "course": "American Sign Language and Interpretation (BS - Spanish Translation and Interpreting)",
+    "degree": "Bachelor of Science in American Sign Language and Interpretation (Spanish Translation and Interpreting)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-american-sign-language-interpretation-spanish-translation-and-interpreting-courses"
+  },
+  {
+    "course": "Anthropology (BA)",
+    "degree": "Bachelor of Arts in Anthropology",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-anthropology-courses"
+  },
+  {
+    "course": "Anthropology (BA - Archaeology)",
+    "degree": "Bachelor of Arts in Anthropology - Archaeology",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-anthropology-archaeology-courses"
+  },
+  {
+    "course": "Anthropology (BA - Global Health and Migration)",
+    "degree": "Bachelor of Arts in Anthropology - Global Health and Migration",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-anthropology-global-health-and-migration-courses"
+  },
+  {
+    "course": "Anthropology - Interdisciplinary Studies (MAIS)",
+    "degree": "Master of Arts in Interdisciplinary Studies - Anthropology",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-anthropology-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "Applied Statistics and Data Science (BS)",
+    "degree": "Bachelor of Science in Applied Statistics and Data Science",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-applied-statistics-data-science-courses"
+  },
+  {
+    "course": "Applied Statistics and Data Science (MS)",
+    "degree": "Master of Science in Applied Statistics and Data Science",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-applied-statistics-data-science-courses"
+  },
+  {
+    "course": "Art (BFA - All-level Secondary Education Minor)",
+    "degree": "Bachelor of Fine Arts in Art (All-level Secondary Education Minor)",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-all-level-secondary-education-minor-courses"
+  },
+  {
+    "course": "Art (BFA - Ceramics)",
+    "degree": "Bachelor of Fine Arts in Art (Ceramics)",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-ceramics-courses"
+  },
+  {
+    "course": "Art (BFA - Sculpture)",
+    "degree": "Bachelor of Fine Arts in Art (Sculpture)",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-sculpture-courses"
+  },
+  {
+    "course": "Art (BFA - Studio Art)",
+    "degree": "Bachelor of Fine Arts in Art (Studio Art)",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-studio-art-courses"
+  },
+  {
+    "course": "Art (MFA)",
+    "degree": "Master of Fine Arts in Art",
+    "college": "Master's Degree - College of Fine Arts",
+    "courseType": "master-art-courses"
+  },
+  {
+    "course": "Art - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in Art - Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-teacher-certification-courses"
+  },
+  {
+    "course": "Art History - Interdisciplinary Studies (MAIS)",
+    "degree": "Master of Arts in Interdisciplinary Studies - Art History",
+    "college": "Master's Degree - College of Fine Arts",
+    "courseType": "master-art-history-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "Bilingual Education (MED)",
+    "degree": "Master of Education in Bilingual Education",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-bilingual-education-courses"
+  },
+  {
+    "course": "Biochemistry and Molecular Biology (MS)",
+    "degree": "Master of Science in Biochemistry and Molecular Biology",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-biochemistry-molecular-biology-courses"
+  },
+  {
+    "course": "Bioethics (MS)",
+    "degree": "Master of Science in Bioethics",
+    "college": "Master's Degree - College of Liberal Arts Online Program",
+    "courseType": "master-bioethics-courses"
+  },
+  {
+    "course": "Biology (BS)",
+    "degree": "Bachelor of Science in Biology",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-biology-courses"
+  },
+  {
+    "course": "Biology (MS)",
+    "degree": "Master of Science in Biology",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-biology-courses"
+  },
+  {
+    "course": "Biology (BS  - 7-12, Teacher Certification)",
+    "degree": "Bachelor of Science in Biology (7-12, Teacher Certificationn)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-biology-seventh-twelfth-teacher-certification-courses"
+  },
+  {
+    "course": "Biomedical Engineering (MS)",
+    "degree": "Master of Science in Biomedical Engineering",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-biomedical-engineering-courses"
+  },
+  {
+    "course": "Biomedical Science (BS)",
+    "degree": "Bachelor of Science in Biomedical Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-biomedical-science-courses"
+  },
+  {
+    "course": "Business Analytics (BBA)",
+    "degree": "Bachelor of Business Administration in Business Analytics",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-business-analytics-courses"
+  },
+  {
+    "course": "Business Administration (MBA)",
+    "degree": "Master of Business Administration",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "master-business-administration-courses"
+  },
+  {
+    "course": "Business Administration (PhD)",
+    "degree": "Doctor of Philosophy in Business Administration",
+    "college": "Doctoral Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "doctoral-business-administration-courses"
+  },
+  {
+    "course": "Business Analytics (MS - Healthcare Analytics)",
+    "degree": "Master of Science in Business Analytics specialization in Healthcare Analytics",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship Online Program",
+    "courseType": "master-business-analytics-healthcare-analytics-courses"
+  },
+  {
+    "course": "Business Analytics (MS)",
+    "degree": "Master of Science in Business Analytics",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship Online Program",
+    "courseType": "master-business-analytics-courses"
+  },
+  {
+    "course": "Chemistry (BS)",
+    "degree": "Bachelor of Science in Chemistry",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-chemistry-courses"
+  },
+  {
+    "course": "Chemistry (MS)",
+    "degree": "Master of Science in Chemistry",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-chemistry-courses"
+  },
+  {
+    "course": "Chemistry (BS  - 7-12, Teacher Certification)",
+    "degree": "Bachelor of Science in Chemistry (7-12, Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-chemistry-seventh-twelfth-teacher-certification-courses"
+  },
+  {
+    "course": "Civil Engineering (BS)",
+    "degree": "Bachelor of Science in Civil Engineering",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-civil-engineering-courses"
+  },
+  {
+    "course": "Civil Engineering (MS)",
+    "degree": "Master of Science in Civil Engineering",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-civil-engineering-courses"
+  },
+  {
+    "course": "Clinical Psychology (MA)",
+    "degree": "Master of Arts in Clinical Psychology",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-clinical-psychology-courses"
+  },
+  {
+    "course": "Clinical Psychology (PhD)",
+    "degree": "Doctor of Philosophy in Clinical Psychology",
+    "college": "Doctoral Degree - College of Liberal Arts",
+    "courseType": "doctoral-clinical-psychology-courses"
+  },
+  {
+    "course": "Clinical Rehabilitation Counseling (MS)",
+    "degree": "Master of Science in Clinical Rehabilitation Counseling",
+    "college": "Master's Degree - College of Health Professions",
+    "courseType": "master-clinical-rehabilitation-counseling-courses"
+  },
+  {
+    "course": "Communication (MA)",
+    "degree": "Master of Arts in Communication",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-communication-courses"
+  },
+  {
+    "course": "Communication Sciences and Disorders (BS - Speech Language Pathology Concentration (American Sign Language Minor))",
+    "degree": "Bachelor of Science in Communication Sciences and Disorders (Speech Language Pathology Concentration (American Sign Language Minor))",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-communication-sciences-speech-language-pathology-american-sign-language-courses"
+  },
+  {
+    "course": "Communication Sciences and Disorders (BS - Audiology - American Sign Language)",
+    "degree": "Bachelor of Science in Communication Sciences and Disorders (Audiology - American Sign Language)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-communication-sciences-audiology-american-sign-language-courses"
+  },
+  {
+    "course": "Communication Sciences and Disorders (MS)",
+    "degree": "Master of Science in Communication Sciences and Disorders",
+    "college": "Master's Degree - College of Health Professions",
+    "courseType": "master-communication-sciences-disorders-courses"
+  },
+  {
+    "course": "Communication Studies (BA)",
+    "degree": "Bachelor of Arts in Communication Studies",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-communication-studies-courses"
+  },
+  {
+    "course": "Computer Engineering (BSCE)",
+    "degree": "Bachelor of Science Computer Engineering in Computer Engineering",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-computer-engineering-courses"
+  },
+  {
+    "course": "Computer Science (BS)",
+    "degree": "Bachelor of Science in Computer Science",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-computer-science-courses"
+  },
+  {
+    "course": "Computer Science (MS)",
+    "degree": "Master of Science in Computer Science",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-computer-science-courses"
+  },
+  {
+    "course": "Computer Science with Interdisciplinary Applications (PhD)",
+    "degree": "Doctor of Philosophy in Computer Science with Interdisciplinary Applications",
+    "college": "Doctoral Degree - College of Engineering and Computer Science",
+    "courseType": "doctoral-computer-science-interdisciplinary-applications-courses"
+  },
+  {
+    "course": "Counseling (MED)",
+    "degree": "Master of Education in Counseling",
+    "college": "Master's Degree - College of Education and P-16 Integration",
+    "courseType": "master-counseling-courses"
+  },
+  {
+    "course": "Creative Writing (MFA)",
+    "degree": "Master of Fine Arts in Creative Writing",
+    "college": "Master's Degree - College of Fine Arts",
+    "courseType": "master-creative-writing-courses"
+  },
+  {
+    "course": "Criminal Justice (BS)",
+    "degree": "Bachelor of Science in Criminal Justice",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-criminal-justice-courses"
+  },
+  {
+    "course": "Criminal Justice (MS)",
+    "degree": "Master of Science in Criminal Justice",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-criminal-justice-courses"
+  },
+  {
+    "course": "Curriculum & Instruction (MEd - Content Specialization in Elementary Math and Science Education)",
+    "degree": "Master of Education in Curriculum & Instruction with a Content Specialization in Elementary Math and Science Education",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-curriculum-instruction-elementary-math-science-education-courses"
+  },
+  {
+    "course": "Curriculum & Instruction (MEd - Content Specialization in English)",
+    "degree": "Master of Education in Curriculum & Instruction with a Content Specialization in English",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-curriculum-instruction-english-courses"
+  },
+  {
+    "course": "Curriculum & Instruction (MEd - Content Specialization in Mathematics Education)",
+    "degree": "Master of Education in Curriculum & Instruction with a Content Specialization in Mathematics Education",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-curriculum-instruction-mathematics-education-courses"
+  },
+  {
+    "course": "Curriculum and Instruction (EdD)",
+    "degree": "Doctor of Education in Curriculum and Instruction",
+    "college": "Doctoral Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "doctoral-curriculum-instruction-courses"
+  },
+  {
+    "course": "Cyber Security (BS)",
+    "degree": "Bachelor of Science in Cyber Security",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-cyber-security-courses"
+  },
+  {
+    "course": "Dance (BA)",
+    "degree": "Bachelor of Arts in Dance",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-dance-courses"
+  },
+  {
+    "course": "Dance (BFA)",
+    "degree": "Bachelor of Fine Arts in Dance",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-fine-art-dance-courses"
+  },
+  {
+    "course": "Dance - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in Dance - Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-art-dance-teacher-certification-courses"
+  },
+  {
+    "course": "Dance - Mexican Dance (BFA)",
+    "degree": "Bachelor of Fine Arts in Dance - Mexican Dance",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-fine-art-dance-mexican-dance-courses"
+  },
+  {
+    "course": "Dietetics (MS)",
+    "degree": "Master of Science in Dietetics",
+    "college": "Master's Degree - College of Health Professions",
+    "courseType": "master-dietetics-courses"
+  },
+  {
+    "course": "Disaster Studies (MA)",
+    "degree": "Master of Arts in Disaster Studies",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-disaster-studies-courses"
+  },
+  {
+    "course": "Doctor of Medicine (M.D.)",
+    "degree": "Undergraduate Medical Education, Doctor of Medicine",
+    "college": "Doctoral Degree - School of Medicine",
+    "courseType": "doctoral-medicine-courses"
+  },
+  {
+    "course": "Doctor of Podiatric Medicine (D.P.M.)",
+    "degree": "Doctor of Podiatric Medicine",
+    "college": "Doctoral Degree - School of Podiatric Medicine",
+    "courseType": "doctoral-podiatric-medicine-courses"
+  },
+  {
+    "course": "Early Care and Early Childhood Studies (BS)",
+    "degree": "Bachelor of Science in Early Care and Early Childhood Studies",
+    "college": "Bachelor's Degree - College of Education and P-16 Integration",
+    "courseType": "bachelor-early-care-early-childhood-studies-courses"
+  },
+  {
+    "course": "Early Care and Early Childhood Studies - Teacher Certification (BS)",
+    "degree": "Bachelor of Science in Early Care and Early Childhood Studies - Teacher Certification",
+    "college": "Bachelor's Degree - College of Education and P-16 Integration",
+    "courseType": "bachelor-early-care-early-childhood-studies-teacher-certification-courses"
+  },
+  {
+    "course": "Early Childhood (MED)",
+    "degree": "Master of Education in Early Childhood",
+    "college": "Master's Degree - College of Education and P-16 Integration",
+    "courseType": "master-early-childhood-courses"
+  },
+  {
+    "course": "Economics (BA)",
+    "degree": "Bachelor of Arts in Economics",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-economics-courses"
+  },
+  {
+    "course": "Economics (BBA)",
+    "degree": "Bachelor of Business Administration in Economics",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-economics-courses"
+  },
+  {
+    "course": "Economics and Finance - Double Major (BBA)",
+    "degree": "Bachelor of Business Administration in Economics and Finance - Double Major",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-economics-finance-double-major-courses"
+  },
+  {
+    "course": "Education (BS - Bilingual Education, EC-6th Certification)",
+    "degree": "Bachelor of Science in Education (Bilingual Education, EC-6th Certification)",
+    "college": "Bachelor's Degree - College of Education and P-16 Integration",
+    "courseType": "bachelor-education-bilingual-education-ec-sixth-certification-courses"
+  },
+  {
+    "course": "Education (BS - English as a Second Language, EC-6th Certification)",
+    "degree": "Bachelor of Science in Education (English as a Second Language, EC-6th Certification)",
+    "college": "Bachelor's Degree - College of Education and P-16 Integration",
+    "courseType": "bachelor-education-english-as-a-second-language-ec-sixth-certification-courses"
+  },
+  {
+    "course": "Education (BS - Special Education)",
+    "degree": "Bachelor of Science in Education (Special Education)",
+    "college": "Bachelor's Degree - College of Education and P-16 Integration",
+    "courseType": "bachelor-education-special-education-courses"
+  },
+  {
+    "course": "Educational Leadership (EdD)",
+    "degree": "Doctor of Education in Educational Leadership",
+    "college": "Doctoral Degree - College of Education and P-16 Integration",
+    "courseType": "doctoral-educational-leadership-courses"
+  },
+  {
+    "course": "Educational Leadership (MED)",
+    "degree": "Master of Education in Educational Leadership",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-educational-leadership-courses"
+  },
+  {
+    "course": "Educational Technology (MEd)",
+    "degree": "Master of Education in Educational Technology",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-educational-technology-courses"
+  },
+  {
+    "course": "Electrical Engineering (BSEE)",
+    "degree": "Bachelor of Science in Electrical Engineering",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-electrical-engineering-courses"
+  },
+  {
+    "course": "Electrical Engineering (MSE)",
+    "degree": "Master of Science Engineering in Electrical Engineering (MSE)",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-electrical-engineering-courses"
+  },
+  {
+    "course": "Engineering Management (MS)",
+    "degree": "Master of Science in Engineering Management",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-engineering-management-courses"
+  },
+  {
+    "course": "Engineering Technology (BS)",
+    "degree": "Bachelor of Science in Engineering Technology",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-engineering-technology-courses"
+  },
+  {
+    "course": "English (BA - Creative Writing)",
+    "degree": "Bachelor of Arts in English - Creative Writing",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-english-creative-writing-courses"
+  },
+  {
+    "course": "English (BA - English Language Arts)",
+    "degree": "Bachelor of Arts in English - English Language Arts",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-english-language-arts-courses"
+  },
+  {
+    "course": "English (BA - Rhetoric Composition Literacy Studies)",
+    "degree": "Bachelor of Arts in English  - Rhetoric Composition Literacy Studies",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-english-rhetoric-composition-literacy-studies-courses"
+  },
+  {
+    "course": "English (MA)",
+    "degree": "Master of Arts in English",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-english-courses"
+  },
+  {
+    "course": "English - Interdisciplinary Studies (MAIS)",
+    "degree": "Master of Arts in Interdisciplinary Studies - English",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-english-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "English - 7-12, Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in English - Teacher Certification",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-english-teacher-certification-seventh-twelfth-courses"
+  },
+  {
+    "course": "English as a Second Language (MA)",
+    "degree": "Master of Arts in English as a Second Language",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-english-second-language-courses"
+  },
+  {
+    "course": "Entrepreneurship and Innovation (BBA)",
+    "degree": "Bachelor of Business Administration in Entrepreneurship and Innovation",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-entrepreneurship-innovation-courses"
+  },
+  {
+    "course": "Environmental Science (BS - Earth and Ocean Sciences)",
+    "degree": "Bachelor of Science in Environmental Science (Earth and Ocean Sciences)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-environmental-science-earth-and-ocean-sciences-courses"
+  },
+  {
+    "course": "Environmental Science (BS - Environment and Society)",
+    "degree": "Bachelor of Science in Environmental Science (Environment and Society)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-environmental-science-environment-and-society-courses"
+  },
+  {
+    "course": "Environmental Science (BS - Environmental Biology)",
+    "degree": "Bachelor of Science in Environmental Science (Environmental Biology)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-environmental-science-environmental-biology-courses"
+  },
+  {
+    "course": "Environmental Science (BS - Environmental Chemistry)",
+    "degree": "Bachelor of Science in Environmental Science (Environmental Chemistry)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-environmental-science-environmental-chemistry-courses"
+  },
+  {
+    "course": "Environmental Science (BS - Interdisciplinary Environmental Science)",
+    "degree": "Bachelor of Science in Environmental Science (Interdisciplinary Environmental Science)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-environmental-science-interdisciplinary-environmental-science-courses"
+  },
+  {
+    "course": "Exercise Science (BS)",
+    "degree": "Bachelor of Science in Exercise Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-exercise-science-courses"
+  },
+  {
+    "course": "Exercise Science (BS - Occupational Therapy )",
+    "degree": "Bachelor of Science in Exercise Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-exercise-science-occupational-therapy-courses"
+  },
+  {
+    "course": "Exercise Science (BS - Physical Therapy)",
+    "degree": "Bachelor of Science in Exercise Science (Physical Therapy)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-exercise-science-physical-therapy-courses"
+  },
+  {
+    "course": "Exercise Science (MS)",
+    "degree": "Master of Science in Exercise Science",
+    "college": "Master's Degree - College of Health Professions",
+    "courseType": "master-exercise-science-courses"
+  },
+  {
+    "course": "Experimental Psychology (MA)",
+    "degree": "Master of Arts in Experimental Psychology",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-experimental-psychology-courses"
+  },
+  {
+    "course": "Family Nurse Practitioner (MSN)",
+    "degree": "Master of Science in Nursing in Family Nurse Practitioner",
+    "college": "Master's Degree - School of Nursing",
+    "courseType": "master-family-nurse-practitioner-courses"
+  },
+  {
+    "course": "Finance (BBA)",
+    "degree": "Bachelor of Business Administration in Finance",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-finance-courses"
+  },
+  {
+    "course": "Global Supply Chain Management (BBA)",
+    "degree": "Bachelor of Business Administration in Global Supply Chain Management",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-global-supply-chain-management-courses"
+  },
+  {
+    "course": "Global Trade Management (MS)",
+    "degree": "Master of Science in Global Trade Management",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship Online Program",
+    "courseType": "master-global-trade-management-courses"
+  },
+  {
+    "course": "Health (BS)",
+    "degree": "Bachelor of Science in Health",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-health-courses"
+  },
+  {
+    "course": "Health Science (MS - Clinical Laboratory Sciences)",
+    "degree": "Master of Science in Health Science with a concentration in Clinical Laboratory Sciences",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-health-science-clinical-laboratory-sciences-courses"
+  },
+  {
+    "course": "Health Science (MS - Health Professions Education and Technology)",
+    "degree": "Master of Science in Health Science with a concentration in Health Professions Education and Technology",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-health-science-health-professions-education-technology-courses"
+  },
+  {
+    "course": "Health Science (MS - Healthcare Administration)",
+    "degree": "Master of Science in Health Science with a concentration in Healthcare Administration",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-health-science-healthcare-administration-courses"
+  },
+  {
+    "course": "Health Science (MS - Healthcare Informatics)",
+    "degree": "Master of Science in Health Science with a concentration in Healthcare Informatics",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-health-science-healthcare-informatics-courses"
+  },
+  {
+    "course": "Health Science (MS - Nutrition)",
+    "degree": "Master of Science in Health Science with a concentration in Nutrition",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-health-science-nutrition-courses"
+  },
+  {
+    "course": "Health Services Technology (BAT)",
+    "degree": "Bachelor of Applied Technology in Health Services Technology",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-health-services-technology-courses"
+  },
+  {
+    "course": "Higher Education Administration (MA)",
+    "degree": "Master of Arts in Higher Education Administration",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-higher-education-administration-courses"
+  },
+  {
+    "course": "History (BA)",
+    "degree": "Bachelor of Arts in History",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-history-courses"
+  },
+  {
+    "course": "History (MA)",
+    "degree": "Master of Arts in History",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-history-courses"
+  },
+  {
+    "course": "History - Interdisciplinary Studies (MAIS)",
+    "degree": "Master of Arts in Interdisciplinary Studies with a Concentration in History",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-history-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "History - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in History - Teacher Certification",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-history-teacher-certification-courses"
+  },
+  {
+    "course": "Hospitality and Tourism Management (BS - Event and Destination Management)",
+    "degree": "Bachelor of Science in Hospitality and Tourism Management (Event and Destination Management)",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-hospitality-tourism-management-event-and-destination-management-courses"
+  },
+  {
+    "course": "Hospitality and Tourism Management (BS - Lodging Asset Ownership and Management)",
+    "degree": "Bachelor of Science in Hospitality and Tourism Management (Lodging Asset Ownership and Management)",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-hospitality-tourism-management-lodging-asset-ownership-and-management-courses"
+  },
+  {
+    "course": "Hospitality and Tourism Management (BS - Restaurant Entrepreneurship and Management)",
+    "degree": "Bachelor of Science in Hospitality and Tourism Management (Restaurant Entrepreneurship and Management)",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-hospitality-tourism-management-restaurant-entrepreneurship-and-management-courses"
+  },
+  {
+    "course": "Human Dimensions of Organizations (BA)",
+    "degree": "Bachelor of Arts in Human Dimensions of Organizations",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-human-dimensions-organizations-courses"
+  },
+  {
+    "course": "Human Genetics (PhD)",
+    "degree": "Doctor of Philosophy in Human Genetics",
+    "college": "Doctoral Degree - School of Medicine",
+    "courseType": "doctoral-human-genetics-courses"
+  },
+  {
+    "course": "Human Resource Management (MS - Human Resource Management)",
+    "degree": "Master of Science in Human Resource Management",
+    "college": "Master's Degree - Robert C. Vackar College of Business and Entrepreneurship Online Program",
+    "courseType": "master-human-resource-management-courses"
+  },
+  {
+    "course": "Informatics (MS)",
+    "degree": "Master of Science in Informatics",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-informatics-courses"
+  },
+  {
+    "course": "Information Systems (BBA)",
+    "degree": "Bachelor of Business Administration in Information Systems",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-information-systems-courses"
+  },
+  {
+    "course": "Integrated Health Science (BS - Clinical Professions)",
+    "degree": "Bachelor of Science in Integrated Health Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-integrated-health-science-clinical-professions-courses"
+  },
+  {
+    "course": "Integrated Health Science (BS - Health Services)",
+    "degree": "Bachelor of Science in Integrated Health Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-integrated-health-science-health-services-courses"
+  },
+  {
+    "course": "Integrated Health Science (BS - Professional Studies)",
+    "degree": "Bachelor of Science in Integrated Health Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-integrated-health-science-professional-studies-courses"
+  },
+  {
+    "course": "Interdisciplinary Studies (BIS - Middle School Mathematics, 4-8, Teacher Certification)",
+    "degree": "Bachelor of Interdisciplinary Studies (Middle School Mathematics, 4-8, Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-interdisciplinary-studies-middle-school-mathematics-fourth-eight-teacher-certification-courses"
+  },
+  {
+    "course": "Interdisciplinary Studies (BIS - Science, 4-8, Teacher Certification)",
+    "degree": "Bachelor of Interdisciplinary Studies (Science, 4-8, Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-interdisciplinary-studies-science-fourth-eight-teacher-certification-courses"
+  },
+  {
+    "course": "International Business (BBA)",
+    "degree": "Bachelor of Business Administration in International Business",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-international-business-courses"
+  },
+  {
+    "course": "Kinesiology (BS)",
+    "degree": "Bachelor of Science in Kinesiology",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-kinesiology-courses"
+  },
+  {
+    "course": "Kinesiology (BS - Athletic Training Concentration)",
+    "degree": "Bachelor of Science in Kinesiology (Athletic Training Concentration)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-kinesiology-athletic-training-courses"
+  },
+  {
+    "course": "Kinesiology (BS - Coaching Concentration)",
+    "degree": "Bachelor of Science in Kinesiology (Coaching Concentration)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-kinesiology-coaching-courses"
+  },
+  {
+    "course": "Kinesiology (BS - Recreational Sports Management Concentration)",
+    "degree": "Bachelor of Science in Kinesiology (Recreational Sports Management Concentration)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-kinesiology-recreational-sports-management-courses"
+  },
+  {
+    "course": "Kinesiology (MS - Health Professions Education and Technology)",
+    "degree": "Master of Science in Kinesiology with a concentration in Health Professions Education and Technology",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-kinesiology-health-professions-education-technology-courses"
+  },
+  {
+    "course": "Kinesiology (MS - Physical Education)",
+    "degree": "Master of Science in Kinesiology with a concentration in Physical Education",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-kinesiology-physical-education-courses"
+  },
+  {
+    "course": "Kinesiology (MS - Sport Management)",
+    "degree": "Master of Science in Kinesiology with a concentration in Sport Management",
+    "college": "Master's Degree - College of Health Professions Online Program",
+    "courseType": "master-kinesiology-sport-management-courses"
+  },
+  {
+    "course": "Kinesiology - Teacher Certification (BS)",
+    "degree": "Bachelor of Science in Kinesiology - Teacher Certification",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-kinesiology-teacher-certification-courses"
+  },
+  {
+    "course": "Management (BBA)",
+    "degree": "Bachelor of Business Administration in Management",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-management-courses"
+  },
+  {
+    "course": "Manufacturing Engineering (BSMFGE)",
+    "degree": "Bachelor of Science Manufacturing Engineering in Manufacturing Engineering",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-manufacturing-engineering-courses"
+  },
+  {
+    "course": "Manufacturing Engineering (MSE)",
+    "degree": "Master of Science Engineering in Manufacturing Engineering",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-manufacturing-engineering-courses"
+  },
+  {
+    "course": "Marine Biology (BS)",
+    "degree": "Bachelor of Science in Marine Biology",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-marine-biology-courses"
+  },
+  {
+    "course": "Marketing (BBA)",
+    "degree": "Bachelor of Business Administration in Marketing",
+    "college": "Bachelor's Degree - Robert C. Vackar College of Business and Entrepreneurship",
+    "courseType": "bachelor-marketing-courses"
+  },
+  {
+    "course": "Mass Communication (BA - Advertising and Public Relations)",
+    "degree": "Bachelor of Arts in Mass Communication - Advertising and Public Relations",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-mass-communication-advertising-and-public-relations-courses"
+  },
+  {
+    "course": "Mass Communication (BA - Broadcast)",
+    "degree": "Bachelor of Arts in Mass Communication - Broadcast",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-mass-communication-broadcast-courses"
+  },
+  {
+    "course": "Mass Communication (BA - Print Journalism)",
+    "degree": "Bachelor of Arts in Mass Communication - Print Journalism",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-mass-communication-print-journalism-courses"
+  },
+  {
+    "course": "Materials Science and Engineering (PhD)",
+    "degree": "Doctor of Philosophy in Materials Science and Engineering",
+    "college": "Doctoral Degree - College of Engineering and Computer Science & College of Sciences",
+    "courseType": "doctoral-materials-science-engineering-courses"
+  },
+  {
+    "course": "Mathematics (BS - 4-8, Teacher Certification)",
+    "degree": "Bachelor of Science in Mathematics (4-8, Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-fourth-eight-teacher-certification-courses"
+  },
+  {
+    "course": "Mathematics (BS - 7-12, Teacher Certification)",
+    "degree": "Bachelor of Science in Mathematics (7-12, Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-seventh-twelfth-teacher-certification-courses"
+  },
+  {
+    "course": "Mathematics (BS - Applied Mathematics)",
+    "degree": "Bachelor of Science in Mathematics (Applied Mathematics)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-applied-mathematics-courses"
+  },
+  {
+    "course": "Mathematics (BS - Economics)",
+    "degree": "Bachelor of Science in Mathematics (Economics)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-economics-courses"
+  },
+  {
+    "course": "Mathematics (BS - Pure Math)",
+    "degree": "Bachelor of Science in Mathematics (Pure Math)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-pure-math-courses"
+  },
+  {
+    "course": "Mathematics (BS - Science and Engineering)",
+    "degree": "Bachelor of Science in Mathematics (Science and Engineering)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-science-and-engineering-courses"
+  },
+  {
+    "course": "Mathematics (BS - Statistics)",
+    "degree": "Bachelor of Science in Mathematics (Statistics)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-mathematics-statistics-courses"
+  },
+  {
+    "course": "Mathematics (MS)",
+    "degree": "Master of Science in Mathematics",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-mathematics-courses"
+  },
+  {
+    "course": "Mathematics and Statistics with Interdisciplinary Applications (PhD)",
+    "degree": "Doctor of Philosophy in Mathematics and Statistics with Interdisciplinary Applications",
+    "college": "Doctoral Degree - College of Sciences",
+    "courseType": "doctoral-mathematics-statistics-interdisciplinary-applications-courses"
+  },
+  {
+    "course": "Mechanical Engineering (BSME)",
+    "degree": "Bachelor of Science Mechanical Engineering in Mechanical Engineering",
+    "college": "Bachelor's Degree - College of Engineering and Computer Science",
+    "courseType": "bachelor-mechanical-engineering-courses"
+  },
+  {
+    "course": "Mechanical Engineering (MSE)",
+    "degree": "Master of Science Engineering in Mechanical Engineering",
+    "college": "Master's Degree - College of Engineering and Computer Science",
+    "courseType": "master-mechanical-engineering-courses"
+  },
+  {
+    "course": "Medical Laboratory Science (BS)",
+    "degree": "Bachelor of Science in Medical Laboratory Science",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-medical-laboratory-science-courses"
+  },
+  {
+    "course": "Medical and Health Humanities (BA)",
+    "degree": "Bachelor of Arts in Medical and Health Humanities",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-medical-and-health-humanities-courses"
+  },
+  {
+    "course": "Mexican American Studies (BA)",
+    "degree": "Bachelor of Arts in Mexican American Studies (BA)",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-mexican-american-studies-courses"
+  },
+  {
+    "course": "Mexican American Studies - Interdisciplinary Studies (MAIS)",
+    "degree": "Master of Arts in Interdisciplinary Studies with a Concentration in Mexican American Studies",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-mexican-american-studies-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "Multidisciplinary Studies (BMS)",
+    "degree": "Bachelor of Multidisciplinary Studies in Multidisciplinary Studies",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-multidisciplinary-studies-courses"
+  },
+  {
+    "course": "Music (MM)",
+    "degree": "Master of Music in Music",
+    "college": "Master's Degree - College of Fine Arts",
+    "courseType": "master-music-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Guitar)",
+    "degree": "Bachelor of Music in Music — Guitar, Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-guitar-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Mariachi)",
+    "degree": "Bachelor of Music in Music — Mariachi, Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-mariachi-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Piano)",
+    "degree": "Bachelor of Music in Music — Piano, Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-piano-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - String)",
+    "degree": "Bachelor of Music in Music — String, Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-string-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Voice)",
+    "degree": "Bachelor of Music in Music — Voice, Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-voice-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Woodwinds, Brass, Percussion)",
+    "degree": "Bachelor of Music in Music — Woodwinds, Brass, Percussion Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-woodwinds-brass-percussion-teacher-certification-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Music Composition)",
+    "degree": "Bachelor of Music in Music Composition",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-music-composition-courses"
+  },
+  {
+    "course": "Music - Teacher Certification (BM - Music Technology)",
+    "degree": "Bachelor of Music in Music Technology",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-music-music-technology-courses"
+  },
+  {
+    "course": "Nursing (BSN)",
+    "degree": "Bachelor of Science Nursing in Nursing",
+    "college": "Bachelor's Degree - School of Nursing",
+    "courseType": "bachelor-nursing-courses"
+  },
+  {
+    "course": "Nursing (BSN - Second Degree)",
+    "degree": "Bachelor of Science Nursing in Nursing (Second Degree)",
+    "college": "Bachelor's Degree - School of Nursing",
+    "courseType": "bachelor-nursing-second-degree-courses"
+  },
+  {
+    "course": "Nursing (BSN - Second Degree)",
+    "degree": "Bachelor of Science Nursing in Nursing (RN to BSN)",
+    "college": "Bachelor's Degree - School of Nursing",
+    "courseType": "bachelor-nursing-rn-to-bsn-courses"
+  },
+  {
+    "course": "Nursing Practice (DNP)",
+    "degree": "Doctor of Nursing Practice",
+    "college": "Doctoral Degree - School of Nursing Online Program",
+    "courseType": "doctoral-nursing-practice-courses"
+  },
+  {
+    "course": "Nutritional Sciences (BS - Nutrition)",
+    "degree": "Bachelor of Science in Nutritional Sciences (Nutrition)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-nutritional-sciences-nutrition-courses"
+  },
+  {
+    "course": "Nutritional Sciences (BS - Food and Technology Management)",
+    "degree": "Bachelor of Science in Nutritional Sciences (Food and Technology Management)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-nutritional-sciences-food-and-technology-management-courses"
+  },
+  {
+    "course": "Nutritional Sciences (BS - Nutrition and Fitness)",
+    "degree": "Bachelor of Science in Nutritional Sciences (Nutrition and Fitness)",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-nutritional-sciences-nutrition-and-fitnesscourses"
+  },
+  {
+    "course": "Occupational Therapy (OTD)",
+    "degree": "Doctor of Occupational Therapy",
+    "college": "Doctoral Degree - College of Health Professions",
+    "courseType": "doctoral-occupational-therapy-courses"
+  },
+  {
+    "course": "Ocean, Coastal and Earth Sciences (MS)",
+    "degree": "Master of Science in Ocean, Coastal, and Earth Sciences",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-ocean-coastal-earth-sciences-courses"
+  },
+  {
+    "course": "Performance (BM - Guitar)",
+    "degree": "Bachelor of Music in Performance - Guitar",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-performance-guitar-courses"
+  },
+  {
+    "course": "Performance (BM - Piano)",
+    "degree": "Bachelor of Music in Performance - Piano",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-performance-piano-courses"
+  },
+  {
+    "course": "Performance (BM - String)",
+    "degree": "Bachelor of Music in Performance - String",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-performance-string-courses"
+  },
+  {
+    "course": "Performance (BM - Voice)",
+    "degree": "Bachelor of Music in Performance - Voice",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-performance-voice-courses"
+  },
+  {
+    "course": "Performance (BM - Woodwinds, Brass, Percussion)",
+    "degree": "Bachelor of Music in Performance - Woodwinds, Brass, Percussion",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-performance-woodwinds-brass-percussion-courses"
+  },
+  {
+    "course": "Philosophy (BA)",
+    "degree": "Bachelor of Arts in Philosophy",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-philosophy-courses"
+  },
+  {
+    "course": "Philosophy (BA - Pre Law)",
+    "degree": "Bachelor of Arts in Philosophy - Pre Law",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-philosophy-pre-law-courses"
+  },
+  {
+    "course": "Physical Therapy (DPT)",
+    "degree": "Doctor of Physical Therapy",
+    "college": "Doctoral Degree - College of Health Professions",
+    "courseType": "doctoral-physical-therapy-courses"
+  },
+  {
+    "course": "Physician Assistant Studies (MPAS)",
+    "degree": "Master of Physician Assistant Studies",
+    "college": "Master's Degree - College of Health Professions",
+    "courseType": "master-physician-assistant-studies-courses"
+  },
+  {
+    "course": "Physics (BS - Biophysics)",
+    "degree": "Bachelor of Science in Physics (Biophysics)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-physics-biophysics-courses"
+  },
+  {
+    "course": "Physics (BS - Minor Required)",
+    "degree": "Bachelor of Science in Physics (Minor Required)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-physics-minor-required-courses"
+  },
+  {
+    "course": "Physics (BS - Pure and Applied Physics)",
+    "degree": "Bachelor of Science in Physics (Pure and Applied Physics)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-physics-pure-and-applied-physics-courses"
+  },
+  {
+    "course": "Physics (MS)",
+    "degree": "Master of Science in Physics",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-physics-courses"
+  },
+  {
+    "course": "Physics (MSIS)",
+    "degree": "Master of Science in Interdisciplinary Studies with a Concentration in Physics",
+    "college": "Master's Degree - College of Sciences",
+    "courseType": "master-physics-interdisciplinary-studies-courses"
+  },
+  {
+    "course": "Physics (PhD)",
+    "degree": "Doctor of Philosophy in Physics",
+    "college": "Doctoral Degree - College of Sciences",
+    "courseType": "doctoral-physics-courses"
+  },
+  {
+    "course": "Physics (BS - Teacher Certification)",
+    "degree": "Bachelor of Science in Physics (Teacher Certification)",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-physics-teacher-certification-courses"
+  },
+  {
+    "course": "Political Science (BA)",
+    "degree": "Bachelor of Arts in Political Science",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-political-science-courses"
+  },
+  {
+    "course": "Political Science (MA)",
+    "degree": "Master of Arts in Political Science",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-political-science-courses"
+  },
+  {
+    "course": "Psychology (BS)",
+    "degree": "Bachelor of Science in Psychology",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-psychology-courses"
+  },
+  {
+    "course": "Public Affairs (MPA)",
+    "degree": "Master of Public Affairs",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-public-affairs-courses"
+  },
+  {
+    "course": "Public Heritage and Community Engagement (BAIS - Bilingual Bicultural Border Heritage)",
+    "degree": "Bachelor of Arts in Interdisciplinary Studies in Public Heritage and Community Engagement - Bilingual Bicultural Border Heritage",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-public-heritage-community-engagement-bilingual-bicultural-border-heritage-courses"
+  },
+  {
+    "course": "Public Heritage and Community Engagement (BAIS - Cultural and Natural Landscapes)",
+    "degree": "Bachelor of Arts in Interdisciplinary Studies in Public Heritage and Community Engagement - Cultural and Natural Landscapes",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-public-heritage-community-engagement-cultural-and-natural-landscapes-courses"
+  },
+  {
+    "course": "Reading and Literacy (MED)",
+    "degree": "Master of Education in Reading and Literacy",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-reading-literacy-courses"
+  },
+  {
+    "course": "Rehabilitation Counseling (PhD)",
+    "degree": "Doctor of Philosophy in Rehabilitation Counseling",
+    "college": "Doctoral Degree - College of Health Professions",
+    "courseType": "doctoral-rehabilitation-counseling-courses"
+  },
+  {
+    "course": "Rehabilitation Services (BS - Deaf and Hard of Hearing)",
+    "degree": "Bachelor of Science in Rehabilitation Services",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-rehabilitation-services-deaf-and-hard-of-hearing-courses"
+  },
+  {
+    "course": "Rehabilitation Services (BS)",
+    "degree": "Bachelor of Science in Rehabilitation Services",
+    "college": "Bachelor's Degree - College of Health Professions",
+    "courseType": "bachelor-rehabilitation-services-courses"
+  },
+  {
+    "course": "School Psychology (MA)",
+    "degree": "Master of Arts in School Psychology",
+    "college": "Master's Degree - College of Education and P-16 Integration",
+    "courseType": "master-school-psychology-courses"
+  },
+  {
+    "course": "Social Studies Composite (BA)",
+    "degree": "Bachelor of Arts in Social Studies Composite",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-social-studies-composite-courses"
+  },
+  {
+    "course": "Social Studies Composite - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in Social Studies Composite - Teacher Certification",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-social-studies-composite-teacher-certification-courses"
+  },
+  {
+    "course": "Social Work (BSW)",
+    "degree": "Bachelor of Social Work in Social Work",
+    "college": "Bachelor's Degree - School of Social Work",
+    "courseType": "bachelor-social-work-courses"
+  },
+  {
+    "course": "Social Work (MSSW)",
+    "degree": "Master of Science Social Work in Social Work",
+    "college": "Master's Degree - School of Social Work",
+    "courseType": "master-social-work-courses"
+  },
+  {
+    "course": "Sociology (BA)",
+    "degree": "Bachelor of Arts in Sociology",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-sociology-courses"
+  },
+  {
+    "course": "Sociology (MS)",
+    "degree": "Master of Science in Sociology",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-sociology-courses"
+  },
+  {
+    "course": "Spanish (BA)",
+    "degree": "Bachelor of Arts in Spanish",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-spanish-courses"
+  },
+  {
+    "course": "Spanish (MA)",
+    "degree": "Master of Arts in Spanish",
+    "college": "Master's Degree - College of Liberal Arts",
+    "courseType": "master-spanish-courses"
+  },
+  {
+    "course": "Spanish - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in Spanish - Teacher Certification",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-spanish-teacher-certification-courses"
+  },
+  {
+    "course": "Spanish Translation and Interpreting (BA)",
+    "degree": "Bachelor of Arts in Spanish Translation and Interpreting",
+    "college": "Bachelor's Degree - College of Liberal Arts",
+    "courseType": "bachelor-spanish-translation-interpreting-courses"
+  },
+  {
+    "course": "Spanish Translation and Interpreting (MA)",
+    "degree": "Master of Arts in Spanish Translation and Interpreting",
+    "college": "Master's Degree - College of Liberal Arts Online Program",
+    "courseType": "master-spanish-translation-interpreting-courses"
+  },
+  {
+    "course": "Special Education (MEd)",
+    "degree": "Master of Education in Special Education",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-special-education-courses"
+  },
+  {
+    "course": "Statistics (BS)",
+    "degree": "Bachelor of Science in Statistics",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-statistics-courses"
+  },
+  {
+    "course": "Sustainable Agriculture and Food Systems (BS)",
+    "degree": "Bachelor of Science in Sustainable Agriculture and Food Systems",
+    "college": "Bachelor's Degree - College of Sciences",
+    "courseType": "bachelor-sustainable-agriculture-food-systems-courses"
+  },
+  {
+    "course": "Teacher Leadership (MED)",
+    "degree": "Master of Education in Teacher Leadership",
+    "college": "Master's Degree - College of Education and P-16 Integration Online Program",
+    "courseType": "master-teacher-leadership-courses"
+  },
+  {
+    "course": "Theatre (BA - Design Technical)",
+    "degree": "Bachelor of Arts in Theatre - Design Technical",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-theatre-design-technical-courses"
+  },
+  {
+    "course": "Theatre (BA - Film Production)",
+    "degree": "Bachelor of Arts in Theatre - Film Production",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-theatre-film-production-courses"
+  },
+  {
+    "course": "Theatre (BA - Performance)",
+    "degree": "Bachelor of Arts in Theatre - Performance",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-theatre-performance-courses"
+  },
+  {
+    "course": "Theatre - Teacher Certification (BA)",
+    "degree": "Bachelor of Arts in Theatre - Teacher Certification",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-theatre-teacher-certification-courses"
+  },
+  {
+    "course": "Visual Communication Design (BFA)",
+    "degree": "Bachelor of Fine Arts in Visual Communication Design",
+    "college": "Bachelor's Degree - College of Fine Arts",
+    "courseType": "bachelor-visual-communication-design-courses"
+  }
+]

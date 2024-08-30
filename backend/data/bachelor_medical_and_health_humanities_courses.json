@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Medical and Health Humanities",
+      "program": "Medical and Health Humanities",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090. Consider BIOL 1406 General Biology I, BIOL 1407 General Biology II, CHEM 1311 General Chemistry I, and CHEM 1312 General Chemistry II, depending on chosen career path."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options. Consider MATH 1342 Elementary Statistical Methods or MATH 2413 Calculus, depending on chosen career path."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ANTH 2311",
+                  "title": "Global Health and Social Justice",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "Students who have completed this core curriculum category with a course other than ANTH 2311 will still be required to take ANTH 2311 to meet major requirements."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHIL 2322",
+                  "title": "Ethics, Health, and Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "Students who have completed this core curriculum category with a course other than PHIL 2322 will still be required to take PHIL 2322 to meet major requirements."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Integrative & Experiential Learning",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090. Consider BIOL 1406 General Biology I, BIOL 1407 General Biology II, CHEM 1311 General Chemistry I, and CHEM 1312 General Chemistry II, depending on chosen career path."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Government/Political Science",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider BIOL 1406 General Biology I, BIOL 1407 General Biology II, CHEM 1311 General Chemistry I, and CHEM 1312 General Chemistry II (whichever have not already been completed to satisfy the Life and Physical Sciences core requirement), depending on chosen career path."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider BIOL 1406 General Biology I, BIOL 1407 General Biology II, CHEM 1311 General Chemistry I, and CHEM 1312 General Chemistry II (whichever have not already been completed to satisfy the Life and Physical Sciences core requirement), depending on chosen career path."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Government/Political Science",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MEDH 2311",
+                  "title": "Introduction to Medical and Health Humanities",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "COMM 3346 OR COMM 3354",
+                  "title": "Health Communication OR Healthcare Provider Communication",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Humanities",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Health",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider CHEM 2323 Organic Chemistry I, CHEM 2325 Organic Chemistry II, PHYS 1401 General Physics I, and PHYS 1402 General Physics II, depending on chosen career path."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Humanities",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Health",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider CHEM 2323 Organic Chemistry I, CHEM 2325 Organic Chemistry II, PHYS 1401 General Physics I, and PHYS 1402 General Physics II, depending on chosen career path. Note that CHEM 2323/2325 and PHYS 1401/1402 must respectively be taken in sequence."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Humanities",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for Options. Advanced course recommended to reach advanced 42."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Health",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for Options. Advanced course recommended to reach advanced 42."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider CHEM 2323 Organic Chemistry I, CHEM 2325 Organic Chemistry II, PHYS 1401 General Physics I, and PHYS 1402 General Physics II, depending on chosen career path. Note that CHEM 2323/2325 and PHYS 1401/1402 must respectively be taken in sequence."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MEDH 4301",
+                  "title": "Medical Humanities: Critical Perspectives",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Electives-Humanities",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Consider CHEM 2323 Organic Chemistry I, CHEM 2325 Organic Chemistry II, PHYS 1401 General Physics I, and PHYS 1402 General Physics II, depending on chosen career path. Note that CHEM 2323/2325 and PHYS 1401/1402 must respectively be taken in sequence."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

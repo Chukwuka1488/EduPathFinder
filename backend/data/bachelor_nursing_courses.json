@@ -1,0 +1,478 @@
+[
+  {
+    "department": "Nursing",
+    "program": "Nursing",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 1301",
+                "title": "Rhetoric And Composition I (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 1301",
+                "title": "U.S. History I (Core)",
+                "minGrade": "C",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1342",
+                "title": "Elementary Statistical Methods (Core)",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "or MATH 1343 Introduction to Biostatistics"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts (Core)",
+                "minGrade": "C",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "BIOL 2401",
+                "title": "Anatomy and Physiology I (Core)",
+                "minGrade": "C",
+                "gec": "030/090",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "ENGL 1302",
+                "title": "Rhetoric And Composition II (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "A grade of 'C' or better in ENGL 1301 or ENGL 1387.",
+                "notes": "See General Education Core for more details. or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 1302",
+                "title": "U.S History II (Core)",
+                "minGrade": "C",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "BIOL 2402",
+                "title": "Anatomy and Physiology II (Core)",
+                "minGrade": "C",
+                "gec": "030/090",
+                "prerequisite": "BIOL 2401",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 2301",
+                "title": "General Psychology",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "CHEM 1311",
+                "title": "General Chemistry I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 2412, MATH 2413 with a grade of 'C' or higher.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "CHEM 1111",
+                "title": "General Chemistry I Lab (Core)",
+                "minGrade": "C",
+                "gec": "090",
+                "prerequisite": "Credit/registration in CHEM 1311.",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SOCI 1301",
+                "title": "Introduction to Sociology (Core)",
+                "minGrade": "C",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "or ANTH 2351 Introduction to Cultural Anthropology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics (Core)",
+                "minGrade": "C",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "CLSC 2429",
+                "title": "Clinical Microbiology in Health Care",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "8 hours from: [BIOL 1406 and BIOL 1407] or [BIOL 2401 and BIOL 2402] or [BIOL 1487 and BIOL 1488]",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "PSYC 2314",
+                "title": "Developmental Psychology: Lifespan",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in PSYC 2301.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy, Culture (Core)",
+                "minGrade": "C",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics (Core)",
+                "minGrade": "C",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HRPT 2303",
+                "title": "Medical Terminology",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NUTR 2351",
+                "title": "Introduction to Clinical Nutrition",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "12XX-42XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative & Experiential (Core)",
+                "minGrade": "C",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 1,
+                "courseNumber": "NURS 3101",
+                "title": "Essentials of Nursing Profession",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "NURS 3202",
+                "title": "Wellness & Health Promotion Across Life Span",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 3303",
+                "title": "Fundamentals of Nursing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 3304",
+                "title": "Fundamentals of Nursing Clinical/Lab",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 3305",
+                "title": "Client Assessment",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "NURS 3105",
+                "title": "Client Assessment Lab/Skills",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "BSN Program Admission.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "NURS 3203",
+                "title": "Pharmacology I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3101, NURS 3202, NURS 3303, NURS 3304, NURS 3305, NURS 3105.",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "NURS 3411",
+                "title": "Adult Health I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3101, NURS 3202, NURS 3303, NURS 3304, NURS 3305, NURS 3105.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 3311",
+                "title": "Adult Health I Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3101, NURS 3202, NURS 3303, NURS 3304, NURS 3305, NURS 3105.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 3312",
+                "title": "Mental Health",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3101, NURS 3202, NURS 3303, NURS 3304, NURS 3305, NURS 3105.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "NURS 3212",
+                "title": "Mental Health Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3101, NURS 3202, NURS 3303, NURS 3304, NURS 3305, NURS 3105.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 1,
+                "courseNumber": "NURS 4101",
+                "title": "Integration of Core Nursing Concepts I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, NURS 3212.",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "NURS 4401",
+                "title": "Adult Health II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, NURS 3212.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4301",
+                "title": "Adult Health II Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, and NURS 3212.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "NURS 4203",
+                "title": "Pharmacology II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, and NURS 3212.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4304",
+                "title": "Family Health",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, NURS 3212.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4305",
+                "title": "Family Health Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 3411, NURS 3311, NURS 3203, NURS 3312, NURS 3212.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 1,
+                "courseNumber": "NURS 4102",
+                "title": "Integration of Core Nursing Concepts II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4101.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "NURS 4201",
+                "title": "Community Health",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4101.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "NURS 4202",
+                "title": "Community Health Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4102.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4302",
+                "title": "Research",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4103.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4306",
+                "title": "Leadership in Nursing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4104.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "NURS 4307",
+                "title": "Leadership in Nursing Clinical",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of C in the following courses: NURS 4401, NURS 4301, NURS 4203, NURS 4304, NURS 4305, NURS 4101.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

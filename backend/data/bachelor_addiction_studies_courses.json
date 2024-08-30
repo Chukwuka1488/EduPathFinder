@@ -1,0 +1,429 @@
+[
+    {
+      "department": "Addiction Studies",
+      "program": "Addiction Studies",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for course options. Options: ENGL 1301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experimental Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework / Academic and Career Success / Living and Working by Design",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for course options. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Recommended: PSYC 2301."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 2301",
+                  "title": "Introduction to Rehabilitation",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experimental Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 2321",
+                  "title": "Introduction to Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "REHS 3331",
+                  "title": "Psychology of Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 3340",
+                  "title": "Intermediate Aspects of Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prior credit or concurrently enrolled in ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 3380",
+                  "title": "Current Issues in Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 3305 or PSYC 2314",
+                  "title": "Applied Behavior Analysis or Developmental Psychology: Life Span",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PSYC 2314: Grade of 'C' or better in PSYC 2301. PSYC 3305: Grade of 'C' or better in PSYC 2301 and PSYC 3325.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 3303",
+                  "title": "Case Management I in Addiction Studies",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Prior Credit or concurrently enrolled in ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 3350",
+                  "title": "Prevention of Addictive Behaviors",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4301",
+                  "title": "Assessment in Addiction Behaviors",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prior credit or concurrently enrolled in ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PSYC 4313 or REHS 4385",
+                  "title": "Abnormal Psychology or Psychiatric Rehabilitation & Disability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PSYC 4313: Grade of 'C' or better in PSYC 2301. REHS 4385: REHS 2301.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX-43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4320",
+                  "title": "Special Populations in Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4302",
+                  "title": "Job Placement in Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prior credit or concurrently enrolled in ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4303",
+                  "title": "Case Management II in Addiction Studies",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in ADST 3303.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4330",
+                  "title": "Practicum I in Addiction Studies",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in ADST 4330.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4365",
+                  "title": "Principles of Addiction Counseling",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4340",
+                  "title": "Clinical Issues in Addiction Studies",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4345",
+                  "title": "Culture and Family in Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "ADST 2321.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ADST 4370",
+                  "title": "Addiction Counseling Skills",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prior credit or concurrently enrolled in ADST 4365.",
+                  "notes": "Satisfies Major Specific Requirement."
+                },
+                {
+                  "hours": 6,
+                  "courseNumber": "ADST 4602",
+                  "title": "Practicum II in Addiction Studies",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in ADST 4330.",
+                  "notes": "Satisfies Major Specific Requirement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,442 @@
+[
+  {
+    "department": "Hospitality and Tourism Management (Lodging Asset Ownership and Management)",
+    "program": "Hospitality and Tourism Management (Lodging Asset Ownership and Management)",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1324*",
+                "title": "Mathematics for Business and Social Sciences",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": "This is the required Mathematics option for this degree. This course is the prerequisite for ACCT 2301, QUMT 2341, and QUMT 2398."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECON 2301*",
+                "title": "Principles of Macroeconomics",
+                "minGrade": "C",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. This is the required Social and Behavioral Sciences (Core) Option in this degree. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 1301*",
+                "title": "Introduction to Hospitality & Tourism",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. This is the required Behavioral Sciences (Core) Option in this degree. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 2310*",
+                "title": "Introduction to Food Preparation & Menu Planning",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ACCT 2301*",
+                "title": "Introduction to Financial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314, MATH 1414, MATH 1324, or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ECON 2302*",
+                "title": "Principles of Microeconomics",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ECON 2301 with a grade of 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "INFS 2300*",
+                "title": "Data Modeling Management Tools",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Required for admission into RCVCoBE. Beginning Fall 2019, BCIS 1305 with a 'C' or better will transfer as INFS 2300. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ACCT 2302*",
+                "title": "Introduction to Managerial Accounting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2301 with a 'C' or better.",
+                "notes": "Required for admission into RCVCoBE. We recommend you take this course as soon as you can."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "QUMT 2341*",
+                "title": "Business Statistics I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MATH 1314 or MATH 1414 or MATH 1324 or MATH 1325.",
+                "notes": "Required for admission into RCVCoBE. BUSI 2305 with a 'C' or better will transfer as QUMT 2341. We recommend you take this course as soon as you meet the prerequisite."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Government/Political Science (Core)",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts Option (Core)",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experimental Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MGMT 3361",
+                "title": "Principles of Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "QUMT 2341. Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "FINA 3380",
+                "title": "Introduction to Finance",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "ACCT 2301, ACCT 2302, and ECON 2301.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3325",
+                "title": "Hospitality Law",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3310",
+                "title": "Advanced Food Production and Service Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301 and HOST 2310.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "INFS 3390",
+                "title": "Management Information Systems",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Advanced standing or permission of the instructor.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MARK 3300",
+                "title": "Principles of Marketing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Sophomore Standing.",
+                "notes": "Must be completed before the last course: MGMT 4389."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3320",
+                "title": "International Travel and Tourism",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3370",
+                "title": "Accounting and Financial Management for Hospitality",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301 and FINA 3380.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Lodging Asset Ownership and Management Concentration Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See Degree Plan for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3300",
+                "title": "Hospitality Practicum",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301 and Advanced Standing.",
+                "notes": "This is an Internship course."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3330",
+                "title": "Lodging Management",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Lodging Asset Ownership and Management Concentration Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Lodging Asset Ownership and Management Concentration Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MARK 3320 or MGMT 3335 or COMM 3313",
+                "title": "Business Communications Option",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Lodging Asset Ownership and Management Concentration Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See Degree Plan for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3350",
+                "title": "Hospitality Marketing Strategies",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301 and Junior Standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 3360",
+                "title": "Hospitality Leadership and Supervision",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "HOST 1301 and Junior Standing.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Lodging Asset Ownership and Management Concentration Course",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Prerequisites may apply.",
+                "notes": "See Degree Plan for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HOST 4390",
+                "title": "Hospitality Strategic Planning and Analysis",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Capstone course. This course MUST be taken in the last semester, when graduating and registered in all remaining courses."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

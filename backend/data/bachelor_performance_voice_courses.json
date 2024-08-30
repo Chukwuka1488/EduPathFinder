@@ -1,0 +1,662 @@
+[
+  {
+    "department": "Performance - Voice",
+    "program": "Performance - Voice",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 12XX",
+                "title": "Applied Lesson I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 1162",
+                "title": "Master Chorale I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1114",
+                "title": "Piano for Music Majors I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Placement Exam.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 1211",
+                "title": "Music Theory I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Theory Placement Exam",
+                "notes": "May be placed in MUSI 1301 Fundamentals of Music."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1116",
+                "title": "Sight Singing and Ear Training I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Placement Exam.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1160",
+                "title": "Diction I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Music/Performance Majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1163",
+                "title": "Movement and Improvisation",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Music/Performance Majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 12XX",
+                "title": "Applied Lesson II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 1192",
+                "title": "Master Chorale II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 114X",
+                "title": "MUEN 1140 or 1143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1115",
+                "title": "Piano for Music Majors II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Placement Exam or MUSI 1114",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 1212",
+                "title": "Music Theory II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1211 and MUSI 1116",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1117",
+                "title": "Sight Singing and Ear Training II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1211 and MUSI 1116",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 1161",
+                "title": "Diction II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Music/Performance Majors only and MUSI 1160",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 22XX",
+                "title": "Applied Lesson III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 2162",
+                "title": "Master Chorale III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 114X",
+                "title": "MUEN 1140 or 1143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 2114",
+                "title": "Piano for Music Majors III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Piano Placement Exam",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 2116",
+                "title": "Sight Singing and Ear Training III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1212 and MUSI 1117",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 2211",
+                "title": "Music Theory III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1212 and MUSI 1117",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 1309",
+                "title": "World Music Cultures",
+                "minGrade": "C",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "Satisfies Core and Major-Specific Requirements"
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. 1 hour of lab for Core 090. See General Education Core for more details and course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 22XX",
+                "title": "Applied Lesson IV",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Must pass Sophomore Barrier (final exam) to be considered for upper level lesson enrollment."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 2192",
+                "title": "Master Chorale IV",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 114X",
+                "title": "MUEN 1140 or 1143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 2117",
+                "title": "Sight Singing and Ear Training IV",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2211 and MUSI 2116",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 2212",
+                "title": "Music Theory IV",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2211 and MUSI 2116",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 1308",
+                "title": "Music History & Literature I",
+                "minGrade": "C",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "Satisfies Core and Major-Specific Requirements"
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 3115",
+                "title": "Keyboard Skills for Vocalists",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2114. Voice Students Only.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 2310",
+                "title": "Technology in Music",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 32XX",
+                "title": "Applied Lesson V",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 3162",
+                "title": "Master Chorale V",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Grade of C or better in MUEN 2192 Master Chorale IV. Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 314X",
+                "title": "MUEN 3140 or 3143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3211",
+                "title": "Musical Form and Analysis",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212 and MUSI 2117",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 3301",
+                "title": "Music History and Literature II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1308, MUSI 2211.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3209",
+                "title": "Vocal Pedagogy I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 3101",
+                "title": "Choral Conducting I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212 and MUSI 2117. Music Majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 32XX",
+                "title": "Applied Lesson VI",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 3192",
+                "title": "Master Chorale VI",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 314X",
+                "title": "MUEN 3140 or 3143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3299",
+                "title": "Junior Recital",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 3302",
+                "title": "Music History and Literature III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 1308, MUSI 2211",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 3103",
+                "title": "Vocal Pedagogy II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 3209, Music/Performance Majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUSI 4101",
+                "title": "Choral Conducting II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 3101",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3208",
+                "title": "Song Literature",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 42XX",
+                "title": "Applied Lesson VII",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 4162",
+                "title": "Master Chorale VII",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 314X",
+                "title": "MUEN 3140 or 3143",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of Instructor/Audition required.",
+                "notes": "Chamber Music or Opera Workshop"
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3225",
+                "title": "Vocal Performance Techniques",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 3210",
+                "title": "The Art of Teaching and Pedagogy",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. 1 hour of lab for Core 090. See General Education Core for more details and course options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 2,
+                "courseNumber": "MUAP 42XX",
+                "title": "Applied Lesson VIII",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "MUEN 4192",
+                "title": "Master Chorale VIII",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Audition required.",
+                "notes": ""
+              },
+              {
+                "hours": 2,
+                "courseNumber": "MUSI 4299",
+                "title": "Senior Recital/Capstone",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Consent of instructor. Capstone.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 4310",
+                "title": "Music Advocacy, Outreach, and Business",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "MUSI 2212, MUSI 2117, and MUSI 2114. Music majors only.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

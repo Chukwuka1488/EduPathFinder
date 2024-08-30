@@ -1,0 +1,437 @@
+[
+    {
+        "department": "Social Studies Composite",
+        "program": "Social Studies Composite",
+        "years": [
+            {
+                "year": "First Year",
+                "semesters": [
+                    {
+                        "semester": "Fall",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Communication",
+                                "minGrade": "C",
+                                "gec": "010",
+                                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                                "notes": "See General Education Core for more details. Option: ENGL 1301"
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "American History",
+                                "minGrade": "",
+                                "gec": "060",
+                                "prerequisite": "",
+                                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327"
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Mathematics",
+                                "minGrade": "C",
+                                "gec": "020",
+                                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                                "notes": "See General Education Core for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Creative Arts",
+                                "minGrade": "",
+                                "gec": "050",
+                                "prerequisite": "",
+                                "notes": "See General Education Core for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "ECON 2301",
+                                "title": "Principles of Macroeconomics",
+                                "minGrade": "C",
+                                "gec": "080",
+                                "prerequisite": "",
+                                "notes": "Satisfies Major-Specific Requirement."
+                            },
+                            {
+                                "hours": 1,
+                                "courseNumber": "UNIV 1301/1101/1001",
+                                "title": "Learning Framework/Academic and Career Success/Living and Working by Design",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                            }
+                        ]
+                    },
+                    {
+                        "semester": "Spring",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Communication",
+                                "minGrade": "C",
+                                "gec": "010",
+                                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "American History",
+                                "minGrade": "",
+                                "gec": "060",
+                                "prerequisite": "",
+                                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328"
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "POLS 2305",
+                                "title": "U.S. Federal Govt & Politics",
+                                "minGrade": "",
+                                "gec": "070",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "ECON 2302",
+                                "title": "Principles of Microeconomics",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "ECON 2301 with a grade of 'C' or better.",
+                                "notes": "Satisfies Major-Specific Requirement."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": "Second Year",
+                "semesters": [
+                    {
+                        "semester": "Fall",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "POLS 2306",
+                                "title": "Texas Government & Politics",
+                                "minGrade": "",
+                                "gec": "070",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 4,
+                                "courseNumber": "Choose 1",
+                                "title": "Life and Physical Sciences",
+                                "minGrade": "",
+                                "gec": "030",
+                                "prerequisite": "",
+                                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                            },
+                            {
+                                "hours": 1,
+                                "courseNumber": "Choose 1",
+                                "title": "Integrative/Experiential Learning Option",
+                                "minGrade": "",
+                                "gec": "090",
+                                "prerequisite": "",
+                                "notes": "See General Education Core for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "HIST 2321",
+                                "title": "World History I",
+                                "minGrade": "",
+                                "gec": "040",
+                                "prerequisite": "",
+                                "notes": ""
+                            }
+                        ]
+                    },
+                    {
+                        "semester": "Spring",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "HIST 2322",
+                                "title": "World History II",
+                                "minGrade": "",
+                                "gec": "090",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 4,
+                                "courseNumber": "Choose 1",
+                                "title": "Life and Physical Sciences",
+                                "minGrade": "",
+                                "gec": "030",
+                                "prerequisite": "",
+                                "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Economics",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "ECON 2301 and ECON 2302; additional prerequisites may apply pending course selection.",
+                                "notes": "See Degree Plan for course options. Economics elective."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "HIST 3308",
+                                "title": "History Foundation for Social Studies Educators",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": "Satisfies Major-Specific Requirement."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": "Third Year",
+                "semesters": [
+                    {
+                        "semester": "Fall",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Electives (United States History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "U.S. History Elective. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Elective (European History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "European History Electives. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Electives (Additional History Elective)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "General History Elective. See Degree Plan for course options. Note: HIST 3301 does not fulfill the HIST elective requirement."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "GEOG 1303",
+                                "title": "World Regional Geography",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": "Geography component."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "HIST 3302",
+                                "title": "World Environmental History",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": "Satisfies Major-Specific Requirement."
+                            }
+                        ]
+                    },
+                    {
+                        "semester": "Spring",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Electives (United States History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "U.S. History Elective. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Elective (Latin American History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "Latin American History Electives. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "GEOG 3320",
+                                "title": "Cultural Geography for Educators",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": "Geography component."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Political Science Component",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "POLS 2305; pending course selection may also require POLS 2306.",
+                                "notes": "See degree plan for course options. Political Science component."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": "Fourth Year",
+                "semesters": [
+                    {
+                        "semester": "Fall",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "HIST 4398",
+                                "title": "History Capstone for Social Studies Educators",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3308.",
+                                "notes": "Satisfies Major-Specific Requirement."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Electives (United States History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "U.S. History Elective. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Elective (World/Asian/Middle Eastern History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "World History Elective. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Elective (European History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "European History Electives. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Political Science Component",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "POLS 2305; pending course selection may also require POLS 2306.",
+                                "notes": "See Degree Plan for course options. Political Science component."
+                            }
+                        ]
+                    },
+                    {
+                        "semester": "Spring",
+                        "courses": [
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Electives (United States History)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "U.S. History Elective. See Degree Plan for course options."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Prescribed Elective (Additional History Electives)",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "HIST 3300 or HIST 3308 may apply",
+                                "notes": "General History Elective. See Degree Plan for course options. Note: HIST 3301 does not fulfill the HIST elective requirement."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "Choose 1",
+                                "title": "Economics",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "ECON 2301 and ECON 2302; additional prerequisites may apply pending course selection.",
+                                "notes": "See Degree Plan for course options. Economics elective."
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            },
+                            {
+                                "hours": 3,
+                                "courseNumber": "13XX-43XX",
+                                "title": "Free Elective",
+                                "minGrade": "",
+                                "gec": "",
+                                "prerequisite": "",
+                                "notes": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

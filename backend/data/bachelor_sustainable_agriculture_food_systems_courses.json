@@ -1,0 +1,420 @@
+[
+    {
+      "department": "Sustainable Agriculture and Food Systems",
+      "program": "Bachelor of Science in Sustainable Agriculture and Food Systems",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1314 or MATH 1414",
+                  "title": "College Algebra",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": "See General Education Core for more details. Satisfies Agriculture and Ecology Track requirement."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 1406",
+                  "title": "General Biology I",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "Satisfies 1 hour of General Education Core - Integrative & Experiential Learning; satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "BIOL 1407",
+                  "title": "General Biology II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "BIOL 1406 or BIOL 1487.",
+                  "notes": "Satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ECON 2301",
+                  "title": "Principles of Macroeconomics",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "Satisfies General Education Core - Social & Behavioral Sciences requirement; satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative and Experiential Learning",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "ENVR 1401",
+                  "title": "Introduction to Environmental Science I",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "",
+                  "notes": "Satisfies General Education Core - Life & Physical Sciences and Integrative & Experiential Learning; satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENVR 3305",
+                  "title": "Sustainable Agriculture",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "ENVR 1402",
+                  "title": "Introduction to Environmental Science II",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "",
+                  "notes": "Satisfies General Education Core - Life & Physical Sciences and Integrative & Experiential Learning; satisfies Major requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Sustainability Core Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a course from the Sustainability Core elective group."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "ENVR 3409",
+                  "title": "Environmental Ecology and Sustainability",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in the following: BIOL 1406 and BIOL 1407.",
+                  "notes": "Satisfies Major requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Sustainability Core Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a course from the Sustainability Core elective group."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Sustainability Core Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a course from the Sustainability Core elective group."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "EEMS 4381 or CESL 3301",
+                  "title": "Community-Engaged Service Learning I or Community Engaged Scholarship I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "EEMS 4381: Junior Standing and enrolled in Sustainable Agriculture and Food Systems BS program.",
+                  "notes": "Capstone."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Sustainability Core Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a course from the Sustainability Core elective group."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "EEMS 4382 or CESL 3302",
+                  "title": "Community-Engaged Service Learning II or Community Engaged Scholarship II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "EEMS 4382: Junior Standing and enrolled in Sustainable Agriculture and Food Systems BS program. CESL 3302: CESL 3301.",
+                  "notes": "Capstone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "34XX-44XX",
+                  "title": "Advanced Free Electives",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "If Prescribed Electives are taken at the 3000 and 4000 level to achieve the institutional minimum of 42 advanced hours, the student may use a Free Elective instead of an Advanced Free Elective."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Advanced Prescribed Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Choose a minimum of 3 hours from one of the 15 Prescribed Elective groups listed on the SAFS degree plan."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Electives",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "If Prescribed Electives are taken at the 3000 and 4000 level to achieve the institutional minimum of 42 advanced hours, the student may use a Free Elective instead of an Advanced Free Elective."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Free Electives",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "If Prescribed Electives are taken at the 3000 and 4000 level to achieve the institutional minimum of 42 advanced hours, the student may use a Free Elective instead of an Advanced Free Elective."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "EEMS 4193",
+                  "title": "Interdisciplinary Synthesis & Communication",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Senior Standing and enrolled in Sustainable Agriculture and Food Systems BS program.",
+                  "notes": "Capstone."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

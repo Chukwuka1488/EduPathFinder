@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Political Science - Minor Required",
+      "program": "Political Science - Minor Required",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST/MASC 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Mathematics",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. ECON 2301 recommended."
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST/MASC 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "May apply pending course selection. See General Education Core for course options. 1 credit hour of lab may apply to category 090."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Minor course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "POLS 2470",
+                  "title": "Introduction to Political Science Research",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305 or POLS 2385 or POLS 2301 or POLS 2313",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Gateway to Political Science Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "Can be POLS 2330, POLS 2340, POLS 2350."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Gateway to Political Science Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "Can be POLS 2330, POLS 2340, POLS 2350, or ECON 2301. Note: May not take both POLS 2350 and ECON 2301 to fulfill the Gateway to Political Science requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Minor course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Minor course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "U.S. Political Institutions & State/Local Politics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305. POLS 3310, POLS 3311, and POLS 3319 have a prerequisite of both POLS 2305 and POLS 2306. Additionally, POLS 3319 requires acceptance into the Archer Center program.",
+                  "notes": "See Degree Plan for List of Courses. Note: POLS 4310, POLS 4311, and POLS 4312 may not be used to satisfy both U.S. Political Institutions & State/Local Politics requirement and a requirement for the Legal Studies minor if selected."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "U.S. Political Groups & Behavior",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "See Degree Plan for List of Courses and additional notes."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "World Politics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "See Degree Plan for List of Courses and additional notes."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "12XX - 42XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX - 43XX",
+                  "title": "Minor course (Advanced)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "World Politics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "See Degree Plan for List of Courses and additional notes."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "Political Economy & Public Policy",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "See Degree Plan for List of Courses and additional notes."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33XX/43XX",
+                  "title": "Political Theory",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305",
+                  "notes": "See Degree Plan for List of Courses and additional notes."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Minor course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX - 43XX",
+                  "title": "Minor course (Advanced)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33/43XX",
+                  "title": "Advanced Political Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305; pending course selection may also require POLS 2306",
+                  "notes": "See options on degree plan. Students may take 3 credit hours of POLS 3190 or POLS 3393 to satisfy 3 of the 6 credit hours for the advanced electives in political science. POLS 3390 may be taken no more than twice (6 hours) for credit; topics must be different. Only 3 credit hours of POLS 3391 will be accepted to satisfy 3 of the 6 credit hours for the advanced electives in political science. Only 3 credit hours of POLS 3392 will be accepted to satisfy 3 of the 6 credit hours for the advanced electives in political science."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 33/43XX",
+                  "title": "Advanced Political Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "POLS 2305; pending course selection may also require POLS 2306",
+                  "notes": "See options on degree plan. Students may take 3 credit hours of POLS 3190 or POLS 3393 to satisfy 3 of the 6 credit hours for the advanced electives in political science. POLS 3390 may be taken no more than twice (6 hours) for credit; topics must be different. Only 3 credit hours of POLS 3391 will be accepted to satisfy 3 of the 6 credit hours for the advanced electives in political science. Only 3 credit hours of POLS 3392 will be accepted to satisfy 3 of the 6 credit hours for the advanced electives in political science."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX - 43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 4370",
+                  "title": "Senior Research Seminar",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "POLS 2305 and POLS 2470.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "May need to be advanced level (3000-4000) to meet institutional minimum of 42 advanced hours."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "13XX - 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "May need to be advanced level (3000-4000) to meet institutional minimum of 42 advanced hours."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX - 43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX - 43XX",
+                  "title": "Free Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

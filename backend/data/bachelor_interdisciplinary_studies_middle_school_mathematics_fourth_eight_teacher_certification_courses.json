@@ -1,0 +1,438 @@
+[
+    {
+      "department": "Interdisciplinary Studies (Middle School Mathematics, 4-8, Teacher Certification)",
+      "program": "Interdisciplinary Studies (Middle School Mathematics, 4-8, Teacher Certification)",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1350",
+                  "title": "Fundamentals of Mathematics I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Minimum grade of C in one of the following: MATH 1314, MATH 1414, MATH 2412, or MATH 2413.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 1101",
+                  "title": "Inquiry Approaches to Teaching",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Must be a Mathematics or Science major.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2412",
+                  "title": "Precalculus",
+                  "minGrade": "",
+                  "gec": "020",
+                  "prerequisite": "MATH 1314 or MATH 1414 with a grade of 'C' or better; or passing the College Algebra Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UNIV",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or 1305."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1351",
+                  "title": "Fundamentals of Mathematics II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1350 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 1102",
+                  "title": "Inquiry-Based Lesson Design",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 1101 with a grade of 'C'.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3301",
+                  "title": "Fundamentals of Middle School Mathematics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3302",
+                  "title": "Fundamentals of Measurement and Geometry I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3301",
+                  "title": "Knowing and Learning in Mathematics and Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 1101 and UTCH 1102 with a grade of 'C' or better or concurrent enrollment with UTCH 1102.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3303",
+                  "title": "Fundamentals of Measurement and Geometry II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATE 3302 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3304",
+                  "title": "Fundamentals of Algebraic Structures",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3321",
+                  "title": "Functions and Modeling",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) and UTCH 1102, each with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "X4XX X4XX",
+                  "title": "Support Course",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for details. Choose 4 hours of Life and Physical Science beyond the core."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3302",
+                  "title": "Classroom Interactions",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "(a) A University grade point average of at least 2.75, (b) UTCH 3301 with a grade of 'C' or better, (c) UTCH 3301 with a grade of 'C' or better, and (d) admission to the Teacher Education Program.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3305",
+                  "title": "Fundamentals of Statistics and Probability",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 or MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3306",
+                  "title": "Middle School Mathematics in a Technological Environment",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3307",
+                  "title": "Fundamentals of Problem Solving",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3317",
+                  "title": "Perspectives in Mathematics and Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in MATE 3321.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3313",
+                  "title": "Fundamentals of Mathematics History",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 and MATH 2412, each with a grade of 'C' or better.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3311",
+                  "title": "Fundamentals of Discrete Mathematics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3312",
+                  "title": "Fundamentals of Number Theory",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 4392",
+                  "title": "Research Methods in Middle & Secondary School Math",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "One of the following: MATE 3305, STAT 3337, STAT 2334, or STAT 3301.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATE 3314",
+                  "title": "Fundamentals of Mathematical Structures and Processes",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1351 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "UTCH 3303",
+                  "title": "Project-Based Instruction",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "UTCH 3302 with a grade of 'C' or better. Must be officially admitted to the Educator Preparation Program.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "READ 4305",
+                  "title": "Disciplinary Literacy in the Classrooms",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "UTCH 4101",
+                  "title": "Apprentice Teaching Seminar",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "UTCH 3303 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 6,
+                  "courseNumber": "UTCH 4601",
+                  "title": "Apprentice Teaching",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "UTCH 3303 with a grade of 'C' or better.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,455 @@
+[
+  {
+    "department": "Theatre - Performance",
+    "program": "Theatre - Performance",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1301"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Mathematics",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics or MATH 0314/0332/0342.",
+                "notes": "See General Education Core for course options. MATH 1314 or higher recommended."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 1341",
+                "title": "Makeup",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Must provide own makeup for the course; Only offered Fall"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 1351",
+                "title": "Acting I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 1336",
+                "title": "Introduction to Film & Video Production",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 1330",
+                "title": "Stagecraft",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV 1301",
+                "title": "Learning Framework",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experimental Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 2355",
+                "title": "Script Analysis",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 1,
+                "courseNumber": "THTF 3111",
+                "title": "Practicum I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Minimum of 60 hours of participation in Theatre programs required."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 2361",
+                "title": "Introduction to Video and Film Editing",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Creative Arts",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. Recommended: THTF 1310 or THTF 2366."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. 1 hour of lab for Core 090. See General Education Core for more details and course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 1352",
+                "title": "Acting II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 1351.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy, & Culture",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "",
+                "notes": "May apply pending course selection. 1 hour of lab for Core 090. See General Education Core for more details and course options."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "THTF 4122",
+                "title": "Practicum II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Minimum of 60 hours of participation in Theatre programs required."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 3354",
+                "title": "Voice and Diction",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only offered in Spring"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 3351",
+                "title": "Acting III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 1351.",
+                "notes": "Only offered Fall"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4311",
+                "title": "Directing I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 1351.",
+                "notes": "Only offered Fall"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4316",
+                "title": "History of Theatre I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 3311",
+                "title": "Contemporary Drama",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only offered Fall"
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4303 or 4321 or 3321 or 4355",
+                "title": "Special Topics or Children's Theatre Workshop or Creative Drama or Summer Theatre Workshop",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Note: THTF 3321 and THTF 4321 offered only in Spring"
+              },
+              {
+                "hours": 1,
+                "courseNumber": "THTF 4133",
+                "title": "Practicum III",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Minimum of 60 hours of participation in Theatre programs required."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4317",
+                "title": "History of Theatre II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only offered Spring"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4352",
+                "title": "Problems in Acting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 1351.",
+                "notes": "Only offered Spring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experimental Learning Option",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Free Advanced Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4312",
+                "title": "Directing II",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 4311 and THTF 2361.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "13XX-43XX",
+                "title": "Free Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "33XX-43XX",
+                "title": "Free Advanced Elective",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 4351",
+                "title": "Theory and Styles of Acting",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "THTF 1351.",
+                "notes": "Only offered Spring"
+              },
+              {
+                "hours": 3,
+                "courseNumber": "THTF 3312",
+                "title": "World Drama",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Only offered Spring"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

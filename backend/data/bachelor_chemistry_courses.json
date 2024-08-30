@@ -1,0 +1,483 @@
+[
+    {
+      "department": "Chemistry",
+      "program": "Bachelor of Science in Chemistry",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1311",
+                  "title": "General Chemistry I (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "MATH 1314, MATH 1414, MATH 1342, MATH 1343, MATH 2412, MATH 2413 with a grade of 'C' or higher.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1111",
+                  "title": "General Chemistry I Lab (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Credit/registration in CHEM 1311.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Support Courses Choose at least one",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. Options: MATH 1314, MATH 1414, MATH 1342, MATH 1343"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1401",
+                  "title": "General Physics I (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "MATH 1414, MATH 1314, MATH 2412, or MATH 2413.",
+                  "notes": "One hour Integrative & Experiential Learning"
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1312",
+                  "title": "General Chemistry II (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "CHEM 1311.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1112",
+                  "title": "General Chemistry II Lab (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Credit/registration in CHEM 1312.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 1402",
+                  "title": "General Physics II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 1401.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2412",
+                  "title": "PreCalculus",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 1314 or MATH 1414 with a grade of 'C' or better; or passing the College Algebra Exemption Test administered by the Department of Mathematics.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 2323",
+                  "title": "Organic Chemistry I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 1312.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 2123",
+                  "title": "Organic Chemistry I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 1112.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 2301",
+                  "title": "Analytical Chemistry",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 1312 and CHEM 1112.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 2101",
+                  "title": "Analytical Chemistry Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2301.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 2325",
+                  "title": "Organic Chemistry II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2323.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 2125",
+                  "title": "Organic Chemistry II Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2325.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 3301",
+                  "title": "Inorganic Chemistry",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "12 hours of chemistry, including CHEM 2323.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 3101",
+                  "title": "Inorganic Chemistry Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 3301.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                  "notes": "Satisfies Major-Specific Requirement."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "12XX-42XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 3303 or CHEM 3387",
+                  "title": "Biochemistry I or Biochemistry I Honors",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2323.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 3103",
+                  "title": "Biochemistry I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 3303.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 3304",
+                  "title": "Physical Chemistry I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "PHYS 1402; MATH 2413 with a grade of 'C' or better and pre or co-requisites in MATH 2414.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 3104",
+                  "title": "Physical Chemistry I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 3304.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "34XX-44XX",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options: ASTR, BENG, BIOL, CHEM, EEMS, ENVR, GEOG, GEOL, MARS, MATE, MATH, PHYS, PSCI, SAFS, STAT."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 3305",
+                  "title": "Physical Chemistry II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 3304.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 3105",
+                  "title": "Physical Chemistry II Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 3305.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details"
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "CHEM 4201",
+                  "title": "Chemistry Problems I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Chemistry major with junior standing or consent of instructor.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 4304",
+                  "title": "Instrumental Analysis",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 2301 and CHEM 2101.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered: Spring"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 4104",
+                  "title": "Instrumental Analysis Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "CHEM 4304.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered: Spring"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options: ASTR, BENG, BIOL, CHEM, EEMS, ENVR, GEOG, GEOL, MARS, MATE, MATH, PHYS, PSCI, SAFS, STAT."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 43XX-43XX",
+                  "title": "Advanced Chemistry Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. See Degree for CHEM course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 43XX-43XX",
+                  "title": "Advanced Chemistry Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Satisfies Major-Specific Requirement. See Degree for CHEM course options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "34XX-44XX",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options: ASTR, BENG, BIOL, CHEM, EEMS, ENVR, GEOG, GEOL, MARS, MATE, MATH, PHYS, PSCI, SAFS, STAT."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options. Recommended PSYC 2301."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 4305",
+                  "title": "Chemistry Capstone",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Chemistry Major with senior standing or consent of instructor.",
+                  "notes": "Satisfies Major-Specific Requirement. Offered: Spring and Fall"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "33XX-43XX",
+                  "title": "Advanced Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "See Degree Plan for options: ASTR, BENG, BIOL, CHEM, EEMS, ENVR, GEOG, GEOL, MARS, MATE, MATH, PHYS, PSCI, SAFS, STAT."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

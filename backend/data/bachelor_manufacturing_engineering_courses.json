@@ -1,0 +1,483 @@
+[
+    {
+      "department": "Manufacturing Engineering",
+      "program": "Manufacturing Engineering",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Option: ENGL 1301"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 1380",
+                  "title": "Introduction to Programming in Python",
+                  "minGrade": "C",
+                  "gec": "090",
+                  "prerequisite": "Concurrent enrollment or credit for MATH 1314 or higher level mathematics course.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CHEM 1309",
+                  "title": "Chemistry for Engineers",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Minimum grade of C is required in one of the following courses: MATH 1314, MATH 1414, MATH 2412, MATH 2413 or MATH 2487.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CHEM 1109",
+                  "title": "Chemistry for Engineers Lab (Core)",
+                  "minGrade": "C",
+                  "gec": "090",
+                  "prerequisite": "Credit/registration in CHEM 1309",
+                  "notes": ""
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Only if required, based on credit hours earned, TSI status, High School rank, major declaration."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "MANE 1101",
+                  "title": "Introduction to Manufacturing Engineering",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3332",
+                  "title": "Engineering Statistics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 and credit for or enrollment in MATH 2414.",
+                  "notes": ""
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "MANE 1204",
+                  "title": "Manufacturing Engineering Graphics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core Curriculum for options"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3351",
+                  "title": "Manufacturing Engineering Analysis",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 and CSCI 1380.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2425",
+                  "title": "Physics for Scientists and Engineers I",
+                  "minGrade": "C",
+                  "gec": "030",
+                  "prerequisite": "MATH 2413.",
+                  "notes": "1 hour lab to count for 090 Core"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4311",
+                  "title": "Quality Control",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MANE 3332.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MECE 2340",
+                  "title": "Engineering Materials",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "A grade of 'C' or better in CHEM 1309 and CHEM 1109 or CHEM 1312 and CHEM 1112; a grade of 'C' or better or concurrent enrollment in MECE 2140.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "MECE 2140",
+                  "title": "Engineering Materials Laboratory",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "A grade of 'C' or better in CHEM 1309 and CHEM 1109 or CHEM 1312 and CHEM 1112; a grade of 'C' or better or concurrent enrollment in MECE 2340.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3300",
+                  "title": "Computer-Aided Design",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Either MANE 1204 or MECE 1221 or ENGR 1304.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2415",
+                  "title": "Calculus III",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4340",
+                  "title": "Operations Research",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in MANE 3351.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "PHYS 2426",
+                  "title": "Physics for Scientists and Engineers II",
+                  "minGrade": "C",
+                  "gec": "030",
+                  "prerequisite": "PHYS 2425 and MATH 2414.",
+                  "notes": "1 hour lab to count for 090 Core"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3337",
+                  "title": "Engineering Economics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in MANE 2332 or MANE 3332.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3340",
+                  "title": "Fundamentals of Industrial Engineering",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in MANE 2332 or MANE 3332.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4331",
+                  "title": "Manufacturing Planning and Control",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in MANE 4340.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MANE 2403",
+                  "title": "Engineering Mechanics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in PHYS 2425.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 3341",
+                  "title": "Differential Equations",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 (or MATH 2488) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3364",
+                  "title": "Manufacturing Processes",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MECE 2140 and 2340.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "MANE 3164",
+                  "title": "Manufacturing Processes Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit for [MECE 2140, MECE 2340, and MANE 3332] and credit for/registration in MANE 3364.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MECE 3321",
+                  "title": "Mechanics of Solids",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "A grade of C or better in MATH 2414, MECE 2340, and MECE 2301 or MANE 2403. Must be officially admitted to the Mechanical Engineering major or Manufacturing Engineering major.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 43XX or MANE 33XX",
+                  "title": "Prescribed Elective I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced MANE course not being used to fulfill other degree requirements"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "MANE 4173",
+                  "title": "Product Design and Mass Customization",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MANE 3337.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 3302",
+                  "title": "Computer-Aided Manufacturing",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Credit/registration in MANE 3364.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4444",
+                  "title": "Modern Manufacturing Processes",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "C or better in MANE 3364 and MANE 3164.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core Curriculum for options"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "EECE 2317",
+                  "title": "Electrical and Electronic Systems",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in PHYS 2426.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4361",
+                  "title": "Senior Design I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in [MANE 3337 and MANE 3340] and credit for/registration in [MANE 4173, MANE 4311, MANE 4352 and MANE 4331].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 33XX-43XX",
+                  "title": "Prescribed Elective II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced MANE course not being used to fulfill other degree requirements"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4352",
+                  "title": "Manufacturing Simulation",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in MANE 2332 or MANE 3332.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 43XX or MANE 33XX",
+                  "title": "Prescribed Elective III",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Advanced MANE course not being used to fulfill other degree requirements"
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MANE 4322",
+                  "title": "Robotics & Industry Automation",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2415 and MANE 3351.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "PHIL 2326",
+                  "title": "Ethics, Technology and Society",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MANE 4362",
+                  "title": "Senior Design II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MANE 4361.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

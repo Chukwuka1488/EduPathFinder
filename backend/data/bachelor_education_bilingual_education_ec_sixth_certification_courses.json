@@ -1,0 +1,451 @@
+[
+  {
+    "department": "Education (Bilingual Education, EC-6th Certification)",
+    "program": "Education (Bilingual Education, EC-6th Certification)",
+    "years": [
+      {
+        "year": "First Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Option: ENGL 1301."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1314 or MATH 1414",
+                "title": "College Algebra",
+                "minGrade": "C",
+                "gec": "020",
+                "prerequisite": "College Ready TSI status in Mathematics.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDUC 1301",
+                "title": "Introduction To the Teaching Profession",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisite to Teacher Education Program Admission."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "ARTS 1301",
+                "title": "Art Appreciation",
+                "minGrade": "",
+                "gec": "050",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 0,
+                "courseNumber": "UNIV",
+                "title": "1301 Learning Framework; 1101 Academic and Career Success; 1001 Living and Working by Design",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Communication (Core)",
+                "minGrade": "C",
+                "gec": "010",
+                "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "American History (Core)",
+                "minGrade": "",
+                "gec": "060",
+                "prerequisite": "",
+                "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Social and Behavioral Sciences (Core)",
+                "minGrade": "",
+                "gec": "080",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options. ECON 1301 recommended."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1350",
+                "title": "Fundamentals of Mathematics I",
+                "minGrade": "C",
+                "gec": "",
+                "prerequisite": "Minimum grade of 'C' in one of the following: MATH 1314, MATH 1414, MATH 2412, or MATH 2413.",
+                "notes": "Prerequisite to Teacher Education Program Admission."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDFR 2301",
+                "title": "Intercultural Context of Schooling",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Prerequisite to Teacher Education Program Admission."
+              }
+            ]
+          },
+          {
+            "semester": "Summer",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2305",
+                "title": "U.S. Federal Govt & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "May apply pending course selection",
+                "notes": "See General Education Core for course options. PSCI 1421 recommended. If taking lab, earn 1 hour toward Integrative/Experiential Learning Option (090)."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "POLS 2306",
+                "title": "Texas Government & Politics",
+                "minGrade": "",
+                "gec": "070",
+                "prerequisite": "",
+                "notes": ""
+              },
+              {
+                "hours": 4,
+                "courseNumber": "Choose 1",
+                "title": "Life and Physical Sciences (Core)",
+                "minGrade": "",
+                "gec": "030",
+                "prerequisite": "May apply pending course selection",
+                "notes": "See General Education Core for course options. PSCI 1422 recommended. If taking lab, earn 1 hour toward Integrative/Experiential Learning Option (090)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Second Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "MATH 1351",
+                "title": "Fundamentals of Mathematics II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "MATH 1350 with a grade of 'C' or better.",
+                "notes": "Prerequisite to Teacher Education Program Admission."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SCIE 3301",
+                "title": "Science for Elementary Teachers I",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Must be a declared major in the following College of Education and P-16 Integration programs: BS Education, BS Special Education and BS Early Care and Early Childhood Studies (Teacher Certification).",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "HIST 3309",
+                "title": "History Foundations for Elementary Social Studies Educators",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Grade of 'C' or better in HIST 1301 and HIST 1302. Must be a declared major in the following College of Education and P-16 Integration programs: BS Education, BS Special Education and BS Early Care and Early Childhood Studies (Teacher Certification).",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 1,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Integrative/Experiential Learning Option (Core)",
+                "minGrade": "",
+                "gec": "090",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "MUSI 1306 or MUSI 1313",
+                "title": "Music Appreciation or Teaching Music in the Elementary School",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "Choose 1",
+                "title": "Language, Philosophy & Culture (Core)",
+                "minGrade": "",
+                "gec": "040",
+                "prerequisite": "",
+                "notes": "See General Education Core for course options."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SCIE 3302",
+                "title": "Science for Elementary Teachers II",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Must be a declared major in the following College of Education and P-16 Integration programs: BS Education, BS Special Education and BS Early Care and Early Childhood Studies (Teacher Certification).",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 3320",
+                "title": "Early Literacy Development",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 3304",
+                "title": "Advanced Spanish for Bilingual Teachers",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": "Satisfies Major-Specific Requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "KINE 3355",
+                "title": "Teaching Health and Wellness in the Elementary Classroom",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Junior or senior standing.",
+                "notes": "Satisfies Major-Specific Requirement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Third Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3331 or EPSY 3331",
+                "title": "Human Development and Student Learning",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the College of Education EC-6 Teacher Education Program.",
+                "notes": "Admission requirements (See Department)."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3332",
+                "title": "Designing and Implementing Instruction and Assessment",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the College of Education EC-6 Teacher Education Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDBE 3322",
+                "title": "Foundations of Bilingual Education and ESL",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDBE 3323",
+                "title": "The Development of Bilingualism",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPED 4310",
+                "title": "Inclusion and Differentiated Instruction in Special Education",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to Teacher Prep if education major. No prerequisite if non-education major.",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3333",
+                "title": "Teaching Science to Elementary Students",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "EDCI 3331 and EDCI 3332.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3334",
+                "title": "Teaching Mathematics to Elementary Students",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "EDCI 3331 and EDCI 3332.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDSL 3310",
+                "title": "Emergent Bilingual Students in Schools",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the COE Teacher Preparation Program.",
+                "notes": "Field experience hours requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDBE 3324",
+                "title": "Early Biliteracy",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "READ 3324",
+                "title": "Reading Comprehension and Assessment",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "READ 3320.",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": "Fourth Year",
+        "semesters": [
+          {
+            "semester": "Fall",
+            "courses": [
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3335",
+                "title": "Teaching Social Studies to Elementary Students",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "EDCI 3334.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDCI 3336",
+                "title": "Teaching English Language Arts and Reading to Elementary Students",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "EDCI 3334.",
+                "notes": "Field experience hours requirement."
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDBE 4305",
+                "title": "Language Arts in the Bilingual Classroom",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "EDBE 4306",
+                "title": "The Bilingual Curriculum in the Content Areas",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the CEP Educator Preparation Program.",
+                "notes": ""
+              },
+              {
+                "hours": 3,
+                "courseNumber": "SPAN 4338",
+                "title": "Children's Literature in Spanish",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "semester": "Spring",
+            "courses": [
+              {
+                "hours": 6,
+                "courseNumber": "EDCI 4637 or EDCI 4331 and EDCI 4332",
+                "title": "Student Teaching for Elementary Teachers (EC-6) or Clinical Teaching Residency I for Elementary Teachers (EC-6) and Clinical Teaching Residency II for Elementary Teachers (EC-6)",
+                "minGrade": "",
+                "gec": "",
+                "prerequisite": "Admission to the College of Education Student Teaching Program.",
+                "notes": "All Education courses must be completed prior to admission to Clinical Teaching. Passing identified TExES certification exams is required before EDCI 4637. Must be taken last semester. Only offered Fall or Spring."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

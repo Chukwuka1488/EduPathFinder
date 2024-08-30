@@ -1,0 +1,429 @@
+[
+    {
+      "department": "Applied Statistics and Data Science",
+      "program": "Applied Statistics and Data Science",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1301"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1301 or HIST 2327"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1314 or MATH 1414",
+                  "title": "College Algebra",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 1342 or MATH 1343",
+                  "title": "Elementary Statistical Methods or Introduction to Biostatistics (Core)",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "College Ready TSI status in Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High school rank, major declaration"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301.",
+                  "notes": "See General Education Core for more details. Options: ENGL 1302 or ENGL 1305"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details. Options: HIST 1302 or HIST 2328"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics (Core)",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for more details"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 1380",
+                  "title": "Intro to Programming in Python",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "Concurrent enrollment or credit for MATH 1314 or higher level mathematics course.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2412",
+                  "title": "Precalculus",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 1314 or MATH 1414 with a grade of 'C' or better; or passing the College Algebra Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "ENVR 1401 or BIOL 1406",
+                  "title": "Introduction to Environmental Science I or General Biology I (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "CSCI 1470",
+                  "title": "Computer Science I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in any of the following: MATH 1314, MATH 1414 or placement in a higher level Math courses (MATH 2412, MATH 2413) and credit for or concurrent enrollment in CSCI 1101 or CMPE 1101 or EECE 1101.",
+                  "notes": "Please reach out to Computer Science department to request an override due to CSCI 1101 not being in the degree plan. csci@utrgv.edu"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ECON 1301 or ECON 2302",
+                  "title": "Introduction to Economics or Principles of Microeconomics (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "ECON 2302: ECON 2301 with a grade of 'C' or better.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 3301",
+                  "title": "Applied Statistics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 3337",
+                  "title": "Probability and Statistics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2414 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 2318",
+                  "title": "Linear Algebra",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 2336",
+                  "title": "Statistical Computing and Data Management",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' in CSCI 1470 and [MATH 1342 or MATH 1343 or STAT 2334].",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "ENVR 1402 or BIOL 1407",
+                  "title": "Introduction to Environmental Science II or General Biology II (Core)",
+                  "minGrade": "",
+                  "gec": "030/090",
+                  "prerequisite": "For BIOL 1407: BIOL 1406 or BIOL 1487.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 3338",
+                  "title": "Mathematical Statistics",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "STAT 3337 with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 2380",
+                  "title": "Computer Science II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of 'C' or better in: CSCI 1470 or CSCI 1390 or [[CSCI 1370 or CMPE 1370] and [CSCI 1170 or CMPE 1170]].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 3335",
+                  "title": "Applied Regression Analysis",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "MATH 2318 and STAT 3301 both with grades of 'C' or better.",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Statistics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: STAT 3336, 3351, 4332, 4341, 4399"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Computer Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: CSCI 3310, 3329, 3333, 4310, 4333, 4343, 4352"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Language, Philosophy & Culture (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Statistics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: STAT 3336, 3351, 4332, 4341, 4399"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "MATH 2415 or an Advanced Math Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: MATH 3341, 3343, 3345, 3349, 3350, 3361, 3363, 4364, 3372, 4373, 3399, 4355"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Statistics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: STAT 3336, 3351, 4332, 4341, 4399"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Statistics Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: STAT 3336, 3351, 4332, 4341, 4399"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "X3XX 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Recommended: Advanced STAT or CSCI"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Computer Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: CSCI 3310, 3329, 3333, 4310, 4333, 4343, 4352"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Math Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: MATH 3341, 3343, 3345, 3349, 3350, 3361, 3363, 4364, 3372, 4373, 3399, 4355"
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "STAT 4390",
+                  "title": "Statistical Project (joint with Math Project)",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "STAT 2336, STAT 3335, and 9 advanced hours of STAT, all with grades of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Math Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: MATH 3341, 3343, 3345, 3349, 3350, 3361, 3363, 4364, 3372, 4373, 3399, 4355"
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "3XXX-4XXX",
+                  "title": "Advanced Computer Science Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: CSCI 3310, 3329, 3333, 4310, 4333, 4343, 4352"
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning Option (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 2,
+                  "courseNumber": "X3XX 43XX",
+                  "title": "Free Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Recommended: Advanced STAT or CSCI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

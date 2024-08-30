@@ -1,0 +1,447 @@
+[
+    {
+      "department": "Computer Science",
+      "program": "Computer Science",
+      "years": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2413",
+                  "title": "Calculus I",
+                  "minGrade": "C",
+                  "gec": "020",
+                  "prerequisite": "MATH 2412 with a grade of 'C' or better; or passing the Precalculus Exemption Test administered by the Department of Mathematics.",
+                  "notes": ""
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "CSCI 1101",
+                  "title": "Introduction to Computer Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "CSCI 1470",
+                  "title": "Computer Science I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade 'C' or better in any of the following; MATH 1314, MATH 1414 or placement in a higher level Math courses (MATH 2412, MATH 2413) and credit for or concurrent enrollment in CSCI 1101 or CMPE 1101 or EECE 1101.",
+                  "notes": ""
+                },
+                {
+                  "hours": 0,
+                  "courseNumber": "UNIV 1301",
+                  "title": "Learning Framework",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "As required, based on credit hours earned, TSI status, High School rank, major declaration. May apply as free elective."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Communication (Core)",
+                  "minGrade": "C",
+                  "gec": "010",
+                  "prerequisite": "For all 010 courses: Satisfactory scores on English portion of ACT test and TSI examination or ENGL 0301. For ENGL 1302, a grade of 'C' or better in ENGL 1301.",
+                  "notes": "See General Education Core for options."
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "MATH 2414",
+                  "title": "Calculus II",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "Options: HIST 1301 or HIST 2327."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 2380",
+                  "title": "Computer Science II",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [[CSCI 1370 or CMPE 1370] and [CSCI 1170 or CMPE 1170]] or CSCI 1470 or CSCI 1390.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Second Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "COMM 1315",
+                  "title": "Public Speaking",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "Prerequisites vary.",
+                  "notes": "Options: BIOL 1406, BIOL 1407, BIOL 2401, BIOL 2402, CHEM 1311 or CHEM 1309, CHEM 1312, PHYS 1401 or PHYS 2425, PHYS 1402 or PHYS 2426."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 2344",
+                  "title": "Programming in Unix/ Linux Environment",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: CSCI 1470 or CSCI 1390 or [ [CSCI 1370 or CSCI 1378 or CMPE 1370 or CMPE 1378] and [CSCI 1170 or CSCI 1178 or CMPE 1170 or CMPE 1178] ].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Object Oriented Programming in Java or Object-Oriented Programming in C# or Object-Oriented Programming in Python",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [[CSCI 1370 or CMPE 1370] and [CSCI 1170 or CMPE 1170]] or CSCI 1470 or CSCI 1390.",
+                  "notes": "Options: CSCI 3326 or CSCI 3327 or CSCI 3328 or CSCI 3329."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 2333",
+                  "title": "Computer Organization and Assembly Language",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: CSCI 1470 or CSCI 1390 or [ [CSCI 1370 or CMPE 1370] and [CSCI 1170 or CMPE 1170] ].",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "PHIL 2326",
+                  "title": "Ethics, Technology and Society (Core)",
+                  "minGrade": "",
+                  "gec": "040",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 3310",
+                  "title": "Mathematical Foundations of Computer Science",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [MATH 2413 or MATH 2487] and [CSCI 1470 or CSCI 1390 or [ [CSCI 1370 or CMPE 1370 or CSCI 1378 or CMPE 1378] and [CSCI 1170 or CSCI 1178 or CMPE 1170 or CMPE 1178] ].",
+                  "notes": ""
+                },
+                {
+                  "hours": 4,
+                  "courseNumber": "Choose 1",
+                  "title": "Life and Physical Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "030",
+                  "prerequisite": "Prerequisites vary.",
+                  "notes": "Options: BIOL 1406, BIOL 1407, BIOL 2401, BIOL 2402, CHEM 1311 or CHEM 1309, CHEM 1312, PHYS 1401 or PHYS 2425, PHYS 1402 or PHYS 2426."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Free Elective - Any Level",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "EECE 2306",
+                  "title": "Digital Systems Engineering I",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better or registration in CMPE 1101 or ELEE 1101 or CSCI 1101 or EECE 1101.",
+                  "notes": "MATH 2413 recommended (not required)."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "EECE 2106",
+                  "title": "Digital Systems Engineering I Lab",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better or registration in [CMPE 2330 or ELEE 2330 or EECE 2306].",
+                  "notes": "MATH 2413 recommended (not required)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Third Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 33XX or CSCI 43XX",
+                  "title": "Computer Science Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prerequisites vary.",
+                  "notes": "See degree plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 3333",
+                  "title": "Algorithms and Data Structures",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [CSCI 3310 or MATH 2346 or MATH 2305] and [CSCI 2380 or CMPE 2380].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 3336",
+                  "title": "Organization of Programming Languages",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [CSCI 2380 or CMPE 2380] and [CSCI 3326 or CMPE 3326 or CSCI 3327 or CMPE 3327 or CSCI 3328 or CMPE 3328 or CSCI 3329].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "ENGL 3342",
+                  "title": "Technical Communication",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "6 hours of English.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2305",
+                  "title": "U.S. Federal Govt & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 3340",
+                  "title": "Software Engineering I",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [3 advanced hours in CSCI or CMPE or EECE] and [CSCI 2380 or CMPE 2380].",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Computer Science Prescribed Elective - Databases, Architecture, Networking, and Operating Systems",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "CSCI 3333 for Databases; [CSCI 2380 or CMPE 2380] and [CSCI 2333 or CMPE 2333 or ELEE 3435 or CMPE 3437 or EECE 3435] for Architecture, Networking, and Operating Systems.",
+                  "notes": "Choose from: CSCI 4333 Database Design and Implementation or CSCI 4334 Operating Systems or CSCI 4335 Computer Architecture or CSCI 4345 Computer Networks."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "MATH 2318",
+                  "title": "Linear Algebra",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "MATH 2413 (or MATH 2487) with a grade of 'C' or better.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "POLS 2306",
+                  "title": "Texas Government & Politics",
+                  "minGrade": "",
+                  "gec": "070",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Free Elective - Any Level",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": "Fourth Year",
+          "semesters": [
+            {
+              "semester": "Fall",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Computer Science Prescribed Elective - Databases, Architecture, Networking, and Operating Systems",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "CSCI 3333 for Databases; [CSCI 2380 or CMPE 2380] and [CSCI 2333 or CMPE 2333 or ELEE 3435 or CMPE 3437 or EECE 3435] for Architecture, Networking, and Operating Systems.",
+                  "notes": "Choose from: CSCI 4333 Database Design and Implementation or CSCI 4334 Operating Systems or CSCI 4335 Computer Architecture or CSCI 4345 Computer Networks."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 4325",
+                  "title": "Automata, Formal Languages, and Computability",
+                  "minGrade": "C",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: CSCI 3333 or CMPE 3333.",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 33XX or CSCI 43XX",
+                  "title": "Computer Science Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prerequisites vary.",
+                  "notes": "See degree plan for options."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Integrative/Experiential Learning (Core)",
+                  "minGrade": "",
+                  "gec": "090",
+                  "prerequisite": "",
+                  "notes": "Choose an additional 1-hour course from this category except PHIL 2326."
+                },
+                {
+                  "hours": 1,
+                  "courseNumber": "Choose 1",
+                  "title": "Free Elective - Any Level",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Support Course - Statistics",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": "Options: STAT 3337 or STAT 3301 or EECE 3340."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Creative Arts (Core)",
+                  "minGrade": "",
+                  "gec": "050",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                }
+              ]
+            },
+            {
+              "semester": "Spring",
+              "courses": [
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 33XX or CSCI 43XX",
+                  "title": "Computer Science Advanced Elective",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Prerequisites vary.",
+                  "notes": "See degree plan for options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Free Elective - Any Level",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "",
+                  "notes": ""
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "American History (Core)",
+                  "minGrade": "",
+                  "gec": "060",
+                  "prerequisite": "",
+                  "notes": "Options: HIST 1302 or HIST 2328."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "Choose 1",
+                  "title": "Social and Behavioral Sciences (Core)",
+                  "minGrade": "",
+                  "gec": "080",
+                  "prerequisite": "",
+                  "notes": "See General Education Core for course options."
+                },
+                {
+                  "hours": 3,
+                  "courseNumber": "CSCI 4390",
+                  "title": "Senior Project",
+                  "minGrade": "",
+                  "gec": "",
+                  "prerequisite": "Grade of C or better in: [CSCI 3340 or CMPE 3340] and consent of instructor.",
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
